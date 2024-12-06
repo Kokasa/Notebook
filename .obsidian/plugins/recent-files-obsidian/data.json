@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "CMS",
+      "path": "Something/CMS.md"
+    },
+    {
+      "basename": "第1章 计算机系统概述",
+      "path": "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md"
+    },
+    {
+      "basename": "Pasted image 20241205223721",
+      "path": "Scripts/Pasted image 20241205223721.png"
+    },
+    {
+      "basename": "Python",
+      "path": "Python/Python.md"
+    },
+    {
+      "basename": "软件工程",
+      "path": "软件工程/软件工程.md"
+    },
+    {
+      "basename": "序列化",
+      "path": "JAVA/CentralNode/CONCEPTION/序列化.md"
+    },
+    {
+      "basename": "垃圾回收机制",
+      "path": "JAVA/CentralNode/CONCEPTION/垃圾回收机制.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Pasted image 20241205225849",
+      "path": "Scripts/Pasted image 20241205225849.png"
+    },
+    {
+      "basename": "Pasted image 20241205224214",
+      "path": "Scripts/Pasted image 20241205224214.png"
+    },
+    {
+      "basename": "栈（Stack）",
+      "path": "JAVA/CentralNode/栈（Stack）.md"
+    },
+    {
+      "basename": "堆（Heap）",
+      "path": "JAVA/CentralNode/堆（Heap）.md"
+    },
+    {
+      "basename": "雪梨教育",
+      "path": "计算机组成原理/题型总结/雪梨教育.md"
+    },
+    {
+      "basename": "Collection集合",
+      "path": "JAVA/CHAT WITH AI/Collection集合.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "JAVA/CHAT WITH AI/未命名.md"
+    },
+    {
+      "basename": "收集器",
+      "path": "JAVA/CHAT WITH AI/收集器.md"
+    },
+    {
+      "basename": "流的映射（map）",
+      "path": "JAVA/CHAT WITH AI/流的映射（map）.md"
+    },
+    {
+      "basename": "方法引用",
+      "path": "JAVA/CHAT WITH AI/方法引用.md"
+    },
+    {
+      "basename": "数组流",
+      "path": "JAVA/CHAT WITH AI/数组流.md"
+    },
+    {
+      "basename": "Stream",
+      "path": "JAVA/CHAT WITH AI/Stream.md"
+    },
+    {
+      "basename": "流式处理",
+      "path": "JAVA/CHAT WITH AI/流式处理.md"
+    },
+    {
+      "basename": "限流相关",
+      "path": "JAVA/CentralNode/CONCEPTION/限流相关.md"
+    },
+    {
+      "basename": "权限框架",
+      "path": "JAVA/CentralNode/CONCEPTION/权限框架.md"
+    },
+    {
+      "basename": "如何做计划",
+      "path": "知识锦囊/如何做计划.md"
+    },
+    {
+      "basename": "利用AI对读书进度进行规划",
+      "path": "知识锦囊/利用AI对读书进度进行规划.md"
+    },
+    {
+      "basename": "抽象的JAVA BEAN",
+      "path": "JAVA/CHAT WITH AI/抽象的JAVA BEAN.md"
+    },
+    {
+      "basename": "关于序列化",
+      "path": "JAVA/CHAT WITH AI/关于序列化.md"
+    },
+    {
+      "basename": "Nginx",
+      "path": "JAVA/CHAT WITH AI/Nginx.md"
+    },
+    {
+      "basename": "PYTHON AND C SHARP",
+      "path": "JAVA/CHAT WITH AI/PYTHON AND C SHARP.md"
+    },
+    {
+      "basename": "LambdaQueryWrapper",
+      "path": "JAVA/CHAT WITH AI/LambdaQueryWrapper.md"
+    },
+    {
+      "basename": "Lambda 表达式",
+      "path": "JAVA/CHAT WITH AI/Lambda 表达式.md"
+    },
+    {
+      "basename": "JAVA为什么非常需要内存",
+      "path": "JAVA/CHAT WITH AI/JAVA为什么非常需要内存.md"
+    },
+    {
+      "basename": "ip127.0.0.1和0.0.0.0有什么区别",
+      "path": "JAVA/CHAT WITH AI/ip127.0.0.1和0.0.0.0有什么区别.md"
+    },
+    {
+      "basename": "Collection接口概述",
+      "path": "JAVA/CHAT WITH AI/Collection接口概述.md"
+    },
+    {
+      "basename": "雪花ID",
+      "path": "JAVA/CHAT WITH AI/雪花ID.md"
+    },
+    {
+      "basename": "什么时候需要Redis",
+      "path": "JAVA/CHAT WITH AI/什么时候需要Redis.md"
+    },
+    {
+      "basename": "软件工程（Software Engineering）的发展历史",
+      "path": "JAVA/CHAT WITH AI/软件工程（Software Engineering）的发展历史.md"
+    },
+    {
+      "basename": "容器如何识别JAVA BEAN",
+      "path": "JAVA/CHAT WITH AI/容器如何识别JAVA BEAN.md"
+    },
+    {
+      "basename": "请详细讲解一下令牌桶算法和其通过spring redis的实现",
+      "path": "JAVA/CHAT WITH AI/请详细讲解一下令牌桶算法和其通过spring redis的实现.md"
+    },
+    {
+      "basename": "连接池",
+      "path": "JAVA/CHAT WITH AI/连接池.md"
+    },
+    {
+      "basename": "函数与函数式编程",
+      "path": "JAVA/CHAT WITH AI/函数与函数式编程.md"
+    },
+    {
+      "basename": "权限认证框架",
+      "path": "JAVA/CHAT WITH AI/权限认证框架.md"
+    },
+    {
+      "basename": "用JAVA去创造",
+      "path": "JAVA/CHAT WITH AI/用JAVA去创造.md"
+    },
+    {
+      "basename": "Redisson是什么",
+      "path": "JAVA/CHAT WITH AI/Redisson是什么.md"
+    },
+    {
+      "basename": "Redis集群有几种",
+      "path": "JAVA/CHAT WITH AI/Redis集群有几种.md"
+    },
+    {
+      "basename": "关于数据库表的设计",
+      "path": "JAVA/Ruoyi-Vue-Plus/关于数据库表的设计.md"
+    },
+    {
+      "basename": "翻译模块",
+      "path": "JAVA/Ruoyi-Vue-Plus/翻译模块.md"
+    },
+    {
+      "basename": "Ruoyi-Vue-plus指南",
+      "path": "JAVA/Ruoyi-Vue-Plus/Ruoyi-Vue-plus指南.md"
+    },
+    {
+      "basename": "SSE",
+      "path": "JAVA/CHAT WITH AI/SSE.md"
+    },
+    {
+      "basename": "Ruoyi-Vue-Plus中对高并发的处理",
+      "path": "JAVA/CHAT WITH AI/Ruoyi-Vue-Plus中对高并发的处理.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
+}

@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "2465c9034705b4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7560a6b8bf5fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d29be2f3b39ef11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Something/CMS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa7558f7c242b196",
+    "type": "split",
+    "children": [
+      {
+        "id": "a540868594292fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7763411bc0754ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "509f87dbeca43132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9fec935db9c15068",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "18cb028187df74bc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "b95b81933520ca5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Something/CMS.md"
+              },
+              "icon": "lucide-list",
+              "title": "CMS 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "4fd855ee517ae850",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b20518e13933ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e994738c4292fc56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "第1章 计算机系统概述 的反向链接列表"
+            }
+          },
+          {
+            "id": "bbb1e4b4d4e15162",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第1章 计算机系统概述 的出链列表"
+            }
+          },
+          {
+            "id": "8804e284a1b2b659",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9220559523d82748",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "4a5baeff81e4cc0e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a8bf1b9e01c263a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-translator:Translate": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0d29be2f3b39ef11",
+  "lastOpenFiles": [
+    "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
+    "Scripts/Pasted image 20241205223721.png",
+    "欢迎.md",
+    "Python/Python.md",
+    "Python",
+    "Scripts",
+    "软件工程/软件工程.md",
+    "JAVA/CentralNode/CONCEPTION/序列化.md",
+    "JAVA/CentralNode/CONCEPTION/垃圾回收机制.md",
+    "README.md",
+    "Scripts/Pasted image 20241205225849.png",
+    "Scripts/Pasted image 20241205224214.png",
+    "JAVA/CentralNode/栈（Stack）.md",
+    "C.md",
+    "软件工程",
+    "JAVA/CentralNode/堆（Heap）.md",
+    "2024-11-28.md",
+    "Excalidraw/Drawing 2024-12-05 22.28.43.excalidraw.md",
+    "华硕校园合伙人/未命名",
+    "计算机组成原理/题型总结/雪梨教育.md",
+    "JAVA/CHAT WITH AI/Collection集合.md",
+    "JAVA/CHAT WITH AI/收集器.md",
+    "JAVA/CHAT WITH AI/流的映射（map）.md",
+    "JAVA/CHAT WITH AI/方法引用.md",
+    "JAVA/CHAT WITH AI/数组流.md",
+    "JAVA/CHAT WITH AI/Stream.md",
+    "JAVA/CHAT WITH AI/流式处理.md",
+    "JAVA/CentralNode/CONCEPTION/限流相关.md",
+    "JAVA/CentralNode/CONCEPTION/权限框架.md",
+    "知识锦囊/如何做计划.md",
+    "知识锦囊/利用AI对读书进度进行规划.md",
+    "JAVA/CHAT WITH AI/抽象的JAVA BEAN.md",
+    "计算机组成原理/AI问答",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Excalidraw",
+    "知识锦囊",
+    "华硕校园合伙人/未命名/未命名",
+    "华硕校园合伙人/活动记录",
+    "华硕校园合伙人"
+  ]
+}
