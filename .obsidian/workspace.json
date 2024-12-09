@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/笔记-计算机组成原理/第2章 数据的机器层次表示.md",
+                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2章 数据的机器层次表示"
+              "title": "关于翻译模块中ID与翻译字段的实现"
             }
           }
         ]
@@ -89,14 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/笔记-计算机组成原理/第2章 数据的机器层次表示.md"
+                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md"
               },
               "icon": "lucide-list",
-              "title": "第2章 数据的机器层次表示 的大纲"
+              "title": "关于翻译模块中ID与翻译字段的实现 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
+                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "第1章 计算机系统概述 的反向链接列表"
+              "title": "关于翻译模块中ID与翻译字段的实现 的反向链接列表"
             }
           },
           {
@@ -135,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
+                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第1章 计算机系统概述 的出链列表"
+              "title": "关于翻译模块中ID与翻译字段的实现 的出链列表"
             }
           },
           {
@@ -162,8 +161,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -191,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +207,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b95b81933520ca5d",
+  "active": "a8bf1b9e01c263a2",
   "lastOpenFiles": [
-    "负数.md",
+    "JAVA/Ruoyi-Vue-Plus/翻译模块.md",
+    "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
+    "JAVA/Ruoyi-Vue-Plus/Ruoyi-Vue-plus指南.md",
     "计算机组成原理/笔记-计算机组成原理/第2章 数据的机器层次表示.md",
+    "JAVA/CentralNode/TOOLS/令牌桶算法(Token Bucket Algorithm).md",
+    "负数.md",
     "MATH/CHAT MATH WITH AI/负数的起源.md",
     "计算机组成原理/AI问答/补码在计算机中解决的问题.md",
     "Something/CMS.md",
@@ -239,10 +242,6 @@
     "JAVA/CHAT WITH AI/收集器.md",
     "JAVA/CHAT WITH AI/流的映射（map）.md",
     "JAVA/CHAT WITH AI/方法引用.md",
-    "JAVA/CHAT WITH AI/数组流.md",
-    "JAVA/CHAT WITH AI/Stream.md",
-    "JAVA/CHAT WITH AI/流式处理.md",
-    "JAVA/CentralNode/CONCEPTION/限流相关.md",
     "计算机组成原理/AI问答",
     "未命名.canvas",
     "未命名 1.canvas",

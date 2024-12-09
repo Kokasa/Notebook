@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "关于翻译模块中ID与翻译字段的实现",
+      "path": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md"
+    },
+    {
+      "basename": "翻译模块",
+      "path": "JAVA/Ruoyi-Vue-Plus/翻译模块.md"
+    },
+    {
+      "basename": "Ruoyi-Vue-plus指南",
+      "path": "JAVA/Ruoyi-Vue-Plus/Ruoyi-Vue-plus指南.md"
+    },
+    {
       "basename": "第2章 数据的机器层次表示",
       "path": "计算机组成原理/笔记-计算机组成原理/第2章 数据的机器层次表示.md"
+    },
+    {
+      "basename": "令牌桶算法(Token Bucket Algorithm)",
+      "path": "JAVA/CentralNode/TOOLS/令牌桶算法(Token Bucket Algorithm).md"
     },
     {
       "basename": "负数",
@@ -183,22 +199,6 @@
     {
       "basename": "权限认证框架",
       "path": "JAVA/CHAT WITH AI/权限认证框架.md"
-    },
-    {
-      "basename": "用JAVA去创造",
-      "path": "JAVA/CHAT WITH AI/用JAVA去创造.md"
-    },
-    {
-      "basename": "Redisson是什么",
-      "path": "JAVA/CHAT WITH AI/Redisson是什么.md"
-    },
-    {
-      "basename": "Redis集群有几种",
-      "path": "JAVA/CHAT WITH AI/Redis集群有几种.md"
-    },
-    {
-      "basename": "关于数据库表的设计",
-      "path": "JAVA/Ruoyi-Vue-Plus/关于数据库表的设计.md"
     }
   ],
   "omittedPaths": [],
