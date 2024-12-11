@@ -1,0 +1,1 @@
+【ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习】 https://www.bilibili.com/video/BV1J3qPYkEpj/?share_source=copy_web&vd_source=a00bddae542b55d6cdc3d1abc8c52d2d

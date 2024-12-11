@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbaacd40d27b62b",
+        "id": "89da7a6f6483c2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b45b2cfea0b3c54d",
+            "id": "ee98f23f265b508f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
+                "file": "6 - Main Notes/理解人的学习.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于翻译模块中ID与翻译字段的实现"
+              "title": "理解人的学习"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -89,10 +90,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md"
+                "file": "6 - Main Notes/理解人的学习.md"
               },
               "icon": "lucide-list",
-              "title": "关于翻译模块中ID与翻译字段的实现 的大纲"
+              "title": "理解人的学习 的大纲"
             }
           }
         ]
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
+                "file": "6 - Main Notes/理解人的学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "关于翻译模块中ID与翻译字段的实现 的反向链接列表"
+              "title": "理解人的学习 的反向链接列表"
             }
           },
           {
@@ -134,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
-                "linksCollapsed": true,
+                "file": "6 - Main Notes/树形数据结构和分组树形数据结构.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "关于翻译模块中ID与翻译字段的实现 的出链列表"
+              "title": "树形数据结构和分组树形数据结构 的出链列表"
             }
           },
           {
@@ -156,26 +157,6 @@
             }
           },
           {
-            "id": "9220559523d82748",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "4a5baeff81e4cc0e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
             "id": "a8bf1b9e01c263a2",
             "type": "leaf",
             "state": {
@@ -186,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,55 +181,52 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-translator:Translate": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8bf1b9e01c263a2",
+  "active": "ee98f23f265b508f",
   "lastOpenFiles": [
-    "JAVA/Ruoyi-Vue-Plus/翻译模块.md",
-    "JAVA/Ruoyi-Vue-Plus/关于翻译模块中ID与翻译字段的实现.md",
-    "JAVA/Ruoyi-Vue-Plus/Ruoyi-Vue-plus指南.md",
-    "计算机组成原理/笔记-计算机组成原理/第2章 数据的机器层次表示.md",
-    "JAVA/CentralNode/TOOLS/令牌桶算法(Token Bucket Algorithm).md",
-    "负数.md",
-    "MATH/CHAT MATH WITH AI/负数的起源.md",
-    "计算机组成原理/AI问答/补码在计算机中解决的问题.md",
-    "Something/CMS.md",
-    "计算机组成原理/笔记-计算机组成原理/第1章 计算机系统概述.md",
-    "Scripts/Pasted image 20241205223721.png",
-    "欢迎.md",
-    "Python/Python.md",
-    "Python",
-    "Scripts",
-    "软件工程/软件工程.md",
-    "JAVA/CentralNode/CONCEPTION/序列化.md",
-    "JAVA/CentralNode/CONCEPTION/垃圾回收机制.md",
-    "README.md",
-    "Scripts/Pasted image 20241205225849.png",
-    "Scripts/Pasted image 20241205224214.png",
-    "JAVA/CentralNode/栈（Stack）.md",
-    "C.md",
-    "软件工程",
-    "JAVA/CentralNode/堆（Heap）.md",
-    "2024-11-28.md",
-    "Excalidraw/Drawing 2024-12-05 22.28.43.excalidraw.md",
-    "华硕校园合伙人/未命名",
-    "计算机组成原理/题型总结/雪梨教育.md",
-    "JAVA/CHAT WITH AI/Collection集合.md",
-    "JAVA/CHAT WITH AI/收集器.md",
-    "JAVA/CHAT WITH AI/流的映射（map）.md",
-    "JAVA/CHAT WITH AI/方法引用.md",
-    "计算机组成原理/AI问答",
+    "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
+    "6 - Main Notes/费曼学习法.md",
+    "6 - Main Notes/理解人的学习.md",
+    "3 - Tags/how to study.md",
+    "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md",
+    "3 - Tags/how to use AI.md",
+    "6 - Main Notes/利用AI对读书进度进行规划.md",
+    "2 - Source Material/AI/TOOLS/令牌桶算法(Token Bucket Algorithm).md",
+    "2 - Source Material/AI/TOOLS/构建树形结构(Tree).md",
+    "6 - Main Notes/如何利用AI制作教程的教程.md",
+    "6 - Main Notes/内网穿透.md",
+    "6 - Main Notes/frp.md",
+    "6 - Main Notes/如何做计划.md",
+    "4 - Indexes/AI.md",
+    "3 - Tags/LLM.md",
+    "5 - Templates/Main Note.md",
+    "6 - Main Notes/树形数据结构的构建.md",
+    "3 - Tags/talk with ai.md",
+    "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md",
+    "6 - Main Notes/树形数据结构和分组树形数据结构.md",
+    "6 - Main Notes/CMS.md",
+    "2 - Source Material/AI/我是否应该使用分组树形数据结构.md",
+    "2 - Source Material/源码/TreeBuildUtil.md",
+    "3 - Tags/hutool.md",
+    "2 - Source Material/源码",
+    "2 - Source Material/AI/树形结构的构建.md",
+    "2 - Source Material/AI/Ruoyi-Vue-Plus中对高并发的处理.md",
+    "2 - Source Material/AI",
+    "9 - AI-Chat-Log",
+    "7 - Resources/Pasted image 20241205223721.png",
+    "8 - Textbook Notes",
+    "6 - Main Notes/网络",
+    "6 - Main Notes/知识锦囊",
+    "6 - Main Notes/JAVA/CentralNode/CONCEPTION",
+    "2 - Source Material/AI/TOOLS",
+    "2 - Source Material/AI/CentralNode",
+    "6 - Main Notes/数据库",
+    "7 - Resources/Pasted image 20241205225849.png",
+    "7 - Resources/Pasted image 20241205224214.png",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "Excalidraw",
-    "知识锦囊",
-    "华硕校园合伙人/未命名/未命名",
-    "华硕校园合伙人/活动记录",
-    "华硕校园合伙人"
+    "未命名 1.canvas"
   ]
 }

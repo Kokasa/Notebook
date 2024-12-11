@@ -1,1 +1,0 @@
-[[PYTHON AND C SHARP]]
