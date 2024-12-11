@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cf0e58460a6887b",
+        "id": "8b1efc4e357a8fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "22971dc38b4e5481",
+            "id": "58b5ede6a02932c4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,12 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8bf1b9e01c263a2",
+  "active": "58b5ede6a02932c4",
   "lastOpenFiles": [
+    "2 - Source Material/AI/JAVA为什么非常需要内存.md",
+    "3 - Tags/Java.md",
     "2 - Source Material/AI/Nginx.md",
     "3 - Tags/OSS.md",
     "2 - Source Material/AI/Minio概述.md",
-    "3 - Tags/Java.md",
     "2 - Source Material/AI/数据库中树形结构的设计.md",
     "6 - Main Notes/建造者模式(Builder Pattern).md",
     "6 - Main Notes/类的实例化.md",
@@ -204,7 +205,6 @@
     "6 - Main Notes/如何利用AI制作教程的教程.md",
     "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md",
     "8 - Textbook Notes/计算机组成原理/第0章-规划-计算机组成原理.md",
-    "8 - Textbook Notes/计算机组成原理/第2章 数据的机器层次表示.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

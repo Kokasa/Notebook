@@ -1,3 +1,9 @@
+
+status: #adult 
+
+tags: [[Java]], [[Principle]], 
+
+
 Java 需要较多内存的原因有几个，主要涉及到它的内存管理模型和设计特点：
 
 ### 1. **[[垃圾回收机制]]（Garbage Collection）**

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "JAVA为什么非常需要内存",
+      "path": "2 - Source Material/AI/JAVA为什么非常需要内存.md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
       "basename": "Nginx",
       "path": "2 - Source Material/AI/Nginx.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Minio概述",
       "path": "2 - Source Material/AI/Minio概述.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
     },
     {
       "basename": "数据库中树形结构的设计",
@@ -195,10 +199,6 @@
     {
       "basename": "talk with ai",
       "path": "3 - Tags/talk with ai.md"
-    },
-    {
-      "basename": "Tiny Skill",
-      "path": "3 - Tags/Tiny Skill.md"
     }
   ],
   "omittedPaths": [],
