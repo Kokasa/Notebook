@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89da7a6f6483c2b5",
+        "id": "7cf0e58460a6887b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee98f23f265b508f",
+            "id": "22971dc38b4e5481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/理解人的学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "理解人的学习"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +60,16 @@
             }
           },
           {
-            "id": "9fec935db9c15068",
+            "id": "8804e284a1b2b659",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -85,22 +83,20 @@
             }
           },
           {
-            "id": "b95b81933520ca5d",
+            "id": "5a1e499aaceccc49",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/理解人的学习.md"
-              },
-              "icon": "lucide-list",
-              "title": "理解人的学习 的大纲"
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 241.5
   },
   "right": {
     "id": "4fd855ee517ae850",
@@ -135,25 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/树形数据结构和分组树形数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "树形数据结构和分组树形数据结构 的出链列表"
-            }
-          },
-          {
-            "id": "8804e284a1b2b659",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "title": "出链"
             }
           },
           {
@@ -165,13 +147,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b95b81933520ca5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,35 +177,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee98f23f265b508f",
+  "active": "a8bf1b9e01c263a2",
   "lastOpenFiles": [
-    "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
-    "6 - Main Notes/费曼学习法.md",
+    "2 - Source Material/AI/Nginx.md",
+    "3 - Tags/OSS.md",
+    "2 - Source Material/AI/Minio概述.md",
+    "3 - Tags/Java.md",
+    "2 - Source Material/AI/数据库中树形结构的设计.md",
+    "6 - Main Notes/建造者模式(Builder Pattern).md",
+    "6 - Main Notes/类的实例化.md",
     "6 - Main Notes/理解人的学习.md",
-    "3 - Tags/how to study.md",
-    "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md",
-    "3 - Tags/how to use AI.md",
-    "6 - Main Notes/利用AI对读书进度进行规划.md",
-    "2 - Source Material/AI/TOOLS/令牌桶算法(Token Bucket Algorithm).md",
-    "2 - Source Material/AI/TOOLS/构建树形结构(Tree).md",
-    "6 - Main Notes/如何利用AI制作教程的教程.md",
-    "6 - Main Notes/内网穿透.md",
-    "6 - Main Notes/frp.md",
-    "6 - Main Notes/如何做计划.md",
-    "4 - Indexes/AI.md",
-    "3 - Tags/LLM.md",
+    "2 - Source Material/AI/我们是否提倡构造方法的使用.md",
+    "6 - Main Notes/构造方法.md",
+    "6 - Main Notes/工厂模式(Factory Method).md",
     "5 - Templates/Main Note.md",
-    "6 - Main Notes/树形数据结构的构建.md",
-    "3 - Tags/talk with ai.md",
-    "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md",
+    "3 - Tags/design pattern.md",
+    "6 - Main Notes/方法重载.md",
+    "6 - Main Notes/对象.md",
+    "6 - Main Notes/面向对象编程(OOP).md",
+    "2 - Source Material/AI/什么是构造方法.md",
+    "3 - Tags/OOP.md",
     "6 - Main Notes/树形数据结构和分组树形数据结构.md",
+    "6 - Main Notes/frp.md",
     "6 - Main Notes/CMS.md",
-    "2 - Source Material/AI/我是否应该使用分组树形数据结构.md",
-    "2 - Source Material/源码/TreeBuildUtil.md",
-    "3 - Tags/hutool.md",
+    "6 - Main Notes/如何做计划.md",
+    "6 - Main Notes/如何利用AI制作教程的教程.md",
+    "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md",
+    "8 - Textbook Notes/计算机组成原理/第0章-规划-计算机组成原理.md",
+    "8 - Textbook Notes/计算机组成原理/第2章 数据的机器层次表示.md",
+    "7 - Resources/详细的user表设计.png",
+    "7 - Resources/若依数据库中部分表展示.png",
+    "7 - Resources/数据库建表规约2.png",
+    "7 - Resources/数据库建表规约1.png",
+    "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
     "2 - Source Material/源码",
-    "2 - Source Material/AI/树形结构的构建.md",
-    "2 - Source Material/AI/Ruoyi-Vue-Plus中对高并发的处理.md",
     "2 - Source Material/AI",
     "9 - AI-Chat-Log",
     "7 - Resources/Pasted image 20241205223721.png",
@@ -223,7 +220,6 @@
     "6 - Main Notes/JAVA/CentralNode/CONCEPTION",
     "2 - Source Material/AI/TOOLS",
     "2 - Source Material/AI/CentralNode",
-    "6 - Main Notes/数据库",
     "7 - Resources/Pasted image 20241205225849.png",
     "7 - Resources/Pasted image 20241205224214.png",
     "未命名.canvas",
