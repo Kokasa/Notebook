@@ -30,5 +30,16 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "keyshots:toggle-underline": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
