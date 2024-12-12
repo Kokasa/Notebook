@@ -1,0 +1,1 @@
+【04/12 days of openai: canvas 与工具论，工具内化于你，而非外在于你】 https://www.bilibili.com/video/BV1AWqUYGE6F/?share_source=copy_web&vd_source=a00bddae542b55d6cdc3d1abc8c52d2d

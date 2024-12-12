@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1efc4e357a8fc7",
+        "id": "e5f7be546bca141c",
         "type": "tabs",
         "children": [
           {
-            "id": "2503be62eb3f91d0",
+            "id": "7ea155d2793e88e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Sharpen Yourself.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sharpen Yourself"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#child",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -71,7 +66,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -158,11 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Tags/Sharpen Yourself.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sharpen Yourself 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -184,89 +177,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "95f03e3e88dfa2ff",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3716e55ae4aa5bae",
-        "type": "window",
-        "children": [
-          {
-            "id": "1392c41a552073a9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58b5ede6a02932c4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/提出问题是否也是一种信息的凝练.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "提出问题是否也是一种信息的凝练"
-                }
-              },
-              {
-                "id": "81bf1dea23c79d54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/从科学的角度解释提出问题为什么有益于思考.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "从科学的角度解释提出问题为什么有益于思考"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -91,
-        "y": 1,
-        "width": 935,
-        "height": 839,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2503be62eb3f91d0",
+  "active": "7ea155d2793e88e2",
   "lastOpenFiles": [
-    "6 - Main Notes/提问在学习中的作用.md",
-    "6 - Main Notes/理解人的学习.md",
-    "3 - Tags/Principle.md",
-    "6 - Main Notes/启发式思维 (Heuristic Thinking).md",
-    "6 - Main Notes/元认知.md",
+    "3 - Tags/OOP.md",
     "3 - Tags/cognition.md",
-    "6 - Main Notes/认知负荷理论 (Cognitive Load Theory).md",
-    "2 - Source Material/AI/提出问题是否也是一种信息的凝练.md",
-    "2 - Source Material/AI/从科学的角度解释提出问题为什么有益于思考.md",
-    "6 - Main Notes/假设检验法.md",
-    "2 - Source Material/AI/序列化.md",
-    "2 - Source Material/AI/要如何学习费曼学习法.md",
-    "2 - Source Material/AI/数据库同步与日志分析.md",
-    "2 - Source Material/AI/数据库架构设计.md",
-    "2 - Source Material/AI/课程表相关接口设计.md",
-    "6 - Main Notes/Fine系统中课程表模块设计.md",
-    "6 - Main Notes/Fine系统中关于成绩模块的设计.md",
-    "5 - Templates/Template-模块设计说明书.md",
-    "2 - Source Material/AI/成绩分析功能所需的接口设计.md",
-    "3 - Tags/fine teacher.md",
-    "3 - Tags/how to use AI.md",
-    "3 - Tags/Ruoyi-Vue-Plus.md",
-    "5 - Templates/Template-Textbook Note.md",
-    "5 - Templates/Template-Main Note.md",
-    "6 - Main Notes/未命名.md",
-    "6 - Main Notes/构造方法.md",
+    "6 - Main Notes/函数和方法的关系.md",
+    "2 - Source Material/AI/Lambda 表达式.md",
+    "6 - Main Notes/函数式接口.md",
+    "2 - Source Material/AI/匿名类的出现是为了解决什么问题.md",
+    "6 - Main Notes/匿名类(Anonymous Class).md",
+    "2 - Source Material/AI/Mybatis-plus中的查询包装器.md",
+    "2 - Source Material/AI/匿名类(Anonymous Class)是什么.md",
+    "6 - Main Notes/Lambda表达式简单理解.md",
+    "2 - Source Material/AI/LambdaQueryWrapper.md",
+    "2 - Source Material/AI/函数和方法的区别和联系.md",
+    "2 - Source Material/文章/方法(method)和函数(function)的区别？.md",
+    "6 - Main Notes/函数式编程(Functional Programming).md",
+    "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md",
+    "2 - Source Material/AI/什么是链式调用.md",
+    "6 - Main Notes/链式调用初步理解.md",
+    "6 - Main Notes/流式处理(Streams).md",
+    "6 - Main Notes/流式接口(Fluent Interface).md",
+    "6 - Main Notes/流(Stream).md",
+    "3 - Tags/Mybatis-plus.md",
+    "4 - Indexes/Skills.md",
+    "2 - Source Material/AI/Nginx.md",
+    "2 - Source Material/AI/TOOLS/令牌桶算法(Token Bucket Algorithm).md",
+    "2 - Source Material/AI/TOOLS/JavaBean.md",
+    "4 - Indexes/ORM.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

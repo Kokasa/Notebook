@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Sharpen Yourself",
-      "path": "3 - Tags/Sharpen Yourself.md"
-    },
-    {
-      "basename": "提问在学习中的作用",
-      "path": "6 - Main Notes/提问在学习中的作用.md"
-    },
-    {
-      "basename": "理解人的学习",
-      "path": "6 - Main Notes/理解人的学习.md"
-    },
-    {
-      "basename": "Principle",
-      "path": "3 - Tags/Principle.md"
-    },
-    {
-      "basename": "启发式思维 (Heuristic Thinking)",
-      "path": "6 - Main Notes/启发式思维 (Heuristic Thinking).md"
-    },
-    {
-      "basename": "元认知",
-      "path": "6 - Main Notes/元认知.md"
+      "basename": "OOP",
+      "path": "3 - Tags/OOP.md"
     },
     {
       "basename": "cognition",
       "path": "3 - Tags/cognition.md"
     },
     {
-      "basename": "认知负荷理论 (Cognitive Load Theory)",
-      "path": "6 - Main Notes/认知负荷理论 (Cognitive Load Theory).md"
+      "basename": "函数和方法的关系",
+      "path": "6 - Main Notes/函数和方法的关系.md"
     },
     {
-      "basename": "提出问题是否也是一种信息的凝练",
-      "path": "2 - Source Material/AI/提出问题是否也是一种信息的凝练.md"
+      "basename": "Lambda 表达式",
+      "path": "2 - Source Material/AI/Lambda 表达式.md"
     },
     {
-      "basename": "从科学的角度解释提出问题为什么有益于思考",
-      "path": "2 - Source Material/AI/从科学的角度解释提出问题为什么有益于思考.md"
+      "basename": "函数式接口",
+      "path": "6 - Main Notes/函数式接口.md"
     },
     {
-      "basename": "假设检验法",
-      "path": "6 - Main Notes/假设检验法.md"
+      "basename": "匿名类的出现是为了解决什么问题",
+      "path": "2 - Source Material/AI/匿名类的出现是为了解决什么问题.md"
     },
     {
-      "basename": "序列化",
-      "path": "2 - Source Material/AI/序列化.md"
+      "basename": "匿名类(Anonymous Class)",
+      "path": "6 - Main Notes/匿名类(Anonymous Class).md"
     },
     {
-      "basename": "要如何学习费曼学习法",
-      "path": "2 - Source Material/AI/要如何学习费曼学习法.md"
+      "basename": "Mybatis-plus中的查询包装器",
+      "path": "2 - Source Material/AI/Mybatis-plus中的查询包装器.md"
     },
     {
-      "basename": "数据库同步与日志分析",
-      "path": "2 - Source Material/AI/数据库同步与日志分析.md"
+      "basename": "匿名类(Anonymous Class)是什么",
+      "path": "2 - Source Material/AI/匿名类(Anonymous Class)是什么.md"
     },
     {
-      "basename": "数据库架构设计",
-      "path": "2 - Source Material/AI/数据库架构设计.md"
+      "basename": "Lambda表达式简单理解",
+      "path": "6 - Main Notes/Lambda表达式简单理解.md"
     },
     {
-      "basename": "课程表相关接口设计",
-      "path": "2 - Source Material/AI/课程表相关接口设计.md"
+      "basename": "LambdaQueryWrapper",
+      "path": "2 - Source Material/AI/LambdaQueryWrapper.md"
     },
     {
-      "basename": "Fine系统中课程表模块设计",
-      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
+      "basename": "函数和方法的区别和联系",
+      "path": "2 - Source Material/AI/函数和方法的区别和联系.md"
     },
     {
-      "basename": "Fine系统中关于成绩模块的设计",
-      "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
+      "basename": "方法(method)和函数(function)的区别？",
+      "path": "2 - Source Material/文章/方法(method)和函数(function)的区别？.md"
     },
     {
-      "basename": "Template-模块设计说明书",
-      "path": "5 - Templates/Template-模块设计说明书.md"
+      "basename": "函数式编程(Functional Programming)",
+      "path": "6 - Main Notes/函数式编程(Functional Programming).md"
     },
     {
-      "basename": "成绩分析功能所需的接口设计",
-      "path": "2 - Source Material/AI/成绩分析功能所需的接口设计.md"
+      "basename": "Mybatis-Plus中的查询包装器(QueryWrapper)",
+      "path": "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md"
     },
     {
-      "basename": "fine teacher",
-      "path": "3 - Tags/fine teacher.md"
+      "basename": "什么是链式调用",
+      "path": "2 - Source Material/AI/什么是链式调用.md"
     },
     {
-      "basename": "how to use AI",
-      "path": "3 - Tags/how to use AI.md"
+      "basename": "链式调用初步理解",
+      "path": "6 - Main Notes/链式调用初步理解.md"
     },
     {
-      "basename": "Ruoyi-Vue-Plus",
-      "path": "3 - Tags/Ruoyi-Vue-Plus.md"
+      "basename": "流式处理(Streams)",
+      "path": "6 - Main Notes/流式处理(Streams).md"
     },
     {
-      "basename": "Template-Textbook Note",
-      "path": "5 - Templates/Template-Textbook Note.md"
+      "basename": "流式接口(Fluent Interface)",
+      "path": "6 - Main Notes/流式接口(Fluent Interface).md"
     },
     {
-      "basename": "Template-Main Note",
-      "path": "5 - Templates/Template-Main Note.md"
+      "basename": "流(Stream)",
+      "path": "6 - Main Notes/流(Stream).md"
     },
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "Mybatis-plus",
+      "path": "3 - Tags/Mybatis-plus.md"
     },
     {
-      "basename": "构造方法",
-      "path": "6 - Main Notes/构造方法.md"
-    },
-    {
-      "basename": "JAVA为什么非常需要内存",
-      "path": "2 - Source Material/AI/JAVA为什么非常需要内存.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
+      "basename": "Skills",
+      "path": "4 - Indexes/Skills.md"
     },
     {
       "basename": "Nginx",
       "path": "2 - Source Material/AI/Nginx.md"
     },
     {
-      "basename": "OSS",
-      "path": "3 - Tags/OSS.md"
+      "basename": "令牌桶算法(Token Bucket Algorithm)",
+      "path": "2 - Source Material/AI/TOOLS/令牌桶算法(Token Bucket Algorithm).md"
     },
     {
-      "basename": "Minio概述",
-      "path": "2 - Source Material/AI/Minio概述.md"
+      "basename": "JavaBean",
+      "path": "2 - Source Material/AI/TOOLS/JavaBean.md"
     },
     {
-      "basename": "数据库中树形结构的设计",
-      "path": "2 - Source Material/AI/数据库中树形结构的设计.md"
+      "basename": "ORM",
+      "path": "4 - Indexes/ORM.md"
     },
     {
-      "basename": "建造者模式(Builder Pattern)",
-      "path": "6 - Main Notes/建造者模式(Builder Pattern).md"
+      "basename": "Mybatis",
+      "path": "3 - Tags/Mybatis.md"
     },
     {
-      "basename": "类的实例化",
-      "path": "6 - Main Notes/类的实例化.md"
+      "basename": "chapter note for textbook",
+      "path": "3 - Tags/chapter note for textbook.md"
     },
     {
-      "basename": "我们是否提倡构造方法的使用",
-      "path": "2 - Source Material/AI/我们是否提倡构造方法的使用.md"
+      "basename": "Stream",
+      "path": "2 - Source Material/AI/Stream.md"
     },
     {
-      "basename": "工厂模式(Factory Method)",
-      "path": "6 - Main Notes/工厂模式(Factory Method).md"
-    },
-    {
-      "basename": "design pattern",
-      "path": "3 - Tags/design pattern.md"
-    },
-    {
-      "basename": "方法重载",
-      "path": "6 - Main Notes/方法重载.md"
-    },
-    {
-      "basename": "对象",
-      "path": "6 - Main Notes/对象.md"
+      "basename": "Wittgenstein 维特根斯坦",
+      "path": "3 - Tags/Wittgenstein 维特根斯坦.md"
     },
     {
       "basename": "面向对象编程(OOP)",
       "path": "6 - Main Notes/面向对象编程(OOP).md"
     },
     {
-      "basename": "什么是构造方法",
-      "path": "2 - Source Material/AI/什么是构造方法.md"
+      "basename": "工厂模式(Factory Method)",
+      "path": "6 - Main Notes/工厂模式(Factory Method).md"
     },
     {
-      "basename": "OOP",
-      "path": "3 - Tags/OOP.md"
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "提问在学习中的作用",
+      "path": "6 - Main Notes/提问在学习中的作用.md"
+    },
+    {
+      "basename": "语言的边界就是世界的边界",
+      "path": "6 - Main Notes/语言的边界就是世界的边界.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "4 - Indexes/Philosophy.md"
+    },
+    {
+      "basename": "programming language",
+      "path": "4 - Indexes/programming language.md"
+    },
+    {
+      "basename": "AI",
+      "path": "4 - Indexes/AI.md"
+    },
+    {
+      "basename": "Art",
+      "path": "4 - Indexes/Art.md"
+    },
+    {
+      "basename": "History",
+      "path": "4 - Indexes/History.md"
+    },
+    {
+      "basename": "how to use AI",
+      "path": "3 - Tags/how to use AI.md"
+    },
+    {
+      "basename": "how to study",
+      "path": "3 - Tags/how to study.md"
+    },
+    {
+      "basename": "Fine系统中关于成绩模块的设计",
+      "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
     },
     {
       "basename": "树形数据结构和分组树形数据结构",
       "path": "6 - Main Notes/树形数据结构和分组树形数据结构.md"
     },
     {
-      "basename": "frp",
-      "path": "6 - Main Notes/frp.md"
+      "basename": "Fine系统中课程表模块设计",
+      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
     },
     {
-      "basename": "CMS",
-      "path": "6 - Main Notes/CMS.md"
+      "basename": "人对工具的使用",
+      "path": "6 - Main Notes/人对工具的使用.md"
     },
     {
-      "basename": "如何做计划",
-      "path": "6 - Main Notes/如何做计划.md"
+      "basename": "利用AI对读书进度进行规划",
+      "path": "6 - Main Notes/利用AI对读书进度进行规划.md"
     },
     {
-      "basename": "如何利用AI制作教程的教程",
-      "path": "6 - Main Notes/如何利用AI制作教程的教程.md"
+      "basename": "构造方法",
+      "path": "6 - Main Notes/构造方法.md"
     },
     {
-      "basename": "对话式人工智能 为我的生活带来的改变",
-      "path": "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md"
+      "basename": "canvas 与工具论，工具内化于你，而非外在于你",
+      "path": "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md"
     },
     {
-      "basename": "第0章-规划-计算机组成原理",
-      "path": "8 - Textbook Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
+      "basename": "人不能作为工具, 人才是目的本身",
+      "path": "6 - Main Notes/人不能作为工具, 人才是目的本身.md"
     }
   ],
   "omittedPaths": [],
