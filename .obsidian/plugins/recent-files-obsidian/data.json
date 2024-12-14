@@ -5,16 +5,84 @@
       "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
     },
     {
+      "basename": "Why feedback is so important for Students为什么反馈对学生如此重要",
+      "path": "2 - Source Material/AI/Why feedback is so important for Students为什么反馈对学生如此重要.md"
+    },
+    {
+      "basename": "字符和字符串",
+      "path": "6 - Main Notes/字符和字符串.md"
+    },
+    {
+      "basename": "计算机组成原理(第三版)-蒋本珊著",
+      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
+    },
+    {
+      "basename": "第0章-规划-计算机组成原理",
+      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
+    },
+    {
+      "basename": "对学习的恐惧",
+      "path": "1 - Rough Notes/对学习的恐惧.md"
+    },
+    {
+      "basename": "中学教育中错误的因果",
+      "path": "1 - Rough Notes/中学教育中错误的因果.md"
+    },
+    {
+      "basename": "anki笔记教程1-PikaChu",
+      "path": "2 - Source Material/视频/anki笔记教程1-PikaChu.md"
+    },
+    {
+      "basename": "canvas 与工具论，工具内化于你，而非外在于你",
+      "path": "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md"
+    },
+    {
+      "basename": "康德三讲-余明锋",
+      "path": "2 - Source Material/视频/康德三讲-余明锋.md"
+    },
+    {
+      "basename": "如何快速理解一切复杂概念？非常简单，只需三步！",
+      "path": "2 - Source Material/视频/如何快速理解一切复杂概念？非常简单，只需三步！.md"
+    },
+    {
+      "basename": "ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习",
+      "path": "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md"
+    },
+    {
+      "basename": "obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器",
+      "path": "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md"
+    },
+    {
+      "basename": "cognition",
+      "path": "3 - Tags/cognition.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "Communication",
+      "path": "3 - Tags/Communication.md"
+    },
+    {
+      "basename": "AOP",
+      "path": "3 - Tags/AOP.md"
+    },
+    {
+      "basename": "关于推广AI和我语言背景中的控制性",
+      "path": "1 - Rough Notes/关于推广AI和我语言背景中的控制性.md"
+    },
+    {
+      "basename": "The purpose of education is to teach people how to think, not what to think",
+      "path": "6 - Main Notes/The purpose of education is to teach people how to think, not what to think.md"
+    },
+    {
       "basename": "补码在计算机中解决的问题",
       "path": "2 - Source Material/AI/补码在计算机中解决的问题.md"
     },
     {
       "basename": "十进制数和数串表示",
       "path": "6 - Main Notes/十进制数和数串表示.md"
-    },
-    {
-      "basename": "字符和字符串",
-      "path": "6 - Main Notes/字符和字符串.md"
     },
     {
       "basename": "定点数和浮点数的区别",
@@ -45,14 +113,6 @@
       "path": "6 - Main Notes/模运算(mod)的性质.md"
     },
     {
-      "basename": "anki笔记教程1-PikaChu",
-      "path": "2 - Source Material/视频/anki笔记教程1-PikaChu.md"
-    },
-    {
-      "basename": "obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器",
-      "path": "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md"
-    },
-    {
       "basename": "计算机中的移码",
       "path": "2 - Source Material/AI/计算机中的移码.md"
     },
@@ -65,16 +125,8 @@
       "path": "6 - Main Notes/浮点数(Floating Point).md"
     },
     {
-      "basename": "第0章-规划-计算机组成原理",
-      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
-    },
-    {
       "basename": "第1章 计算机系统概述",
       "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
-    },
-    {
-      "basename": "计算机组成原理(第三版)-蒋本珊著",
-      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
     },
     {
       "basename": "结合框架解释树形数据结构和分组树形数据结构",
@@ -91,10 +143,6 @@
     {
       "basename": "函数和方法的关系",
       "path": "6 - Main Notes/函数和方法的关系.md"
-    },
-    {
-      "basename": "cognition",
-      "path": "3 - Tags/cognition.md"
     },
     {
       "basename": "Template-Main Note",
@@ -151,54 +199,6 @@
     {
       "basename": "模运算(mod)以及在计算机领域中的应用",
       "path": "2 - Source Material/AI/模运算(mod)以及在计算机领域中的应用.md"
-    },
-    {
-      "basename": "模运算的基本运算法则",
-      "path": "2 - Source Material/AI/模运算的基本运算法则.md"
-    },
-    {
-      "basename": "AI与人类认识世界的区别",
-      "path": "6 - Main Notes/AI与人类认识世界的区别.md"
-    },
-    {
-      "basename": "我们在看向杯子时看到的是杯子还是杯子反射出的光",
-      "path": "6 - Main Notes/我们在看向杯子时看到的是杯子还是杯子反射出的光.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "4 - Indexes/Philosophy.md"
-    },
-    {
-      "basename": "Kant 康德",
-      "path": "3 - Tags/Kant 康德.md"
-    },
-    {
-      "basename": "康德三讲-余明锋",
-      "path": "2 - Source Material/视频/康德三讲-余明锋.md"
-    },
-    {
-      "basename": "利用AI对读书进度进行规划",
-      "path": "6 - Main Notes/利用AI对读书进度进行规划.md"
-    },
-    {
-      "basename": "TreeBuildUtil Ruoyi-Vue-Plus中树形结构构建工具的设计",
-      "path": "2 - Source Material/源码/TreeBuildUtil Ruoyi-Vue-Plus中树形结构构建工具的设计.md"
-    },
-    {
-      "basename": "我是否应该使用分组树形数据结构",
-      "path": "2 - Source Material/AI/我是否应该使用分组树形数据结构.md"
-    },
-    {
-      "basename": "LambdaQueryWrapper",
-      "path": "2 - Source Material/AI/LambdaQueryWrapper.md"
-    },
-    {
-      "basename": "中学课程表对于时间段的划分以及存储",
-      "path": "2 - Source Material/AI/中学课程表对于时间段的划分以及存储.md"
-    },
-    {
-      "basename": "Mybatis-Plus中的查询包装器(QueryWrapper)",
-      "path": "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md"
     }
   ],
   "omittedPaths": [],
