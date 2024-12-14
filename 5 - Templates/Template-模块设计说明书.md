@@ -1,7 +1,6 @@
 {{data}}    {{time}}
 
 status: 
-
 tags:  
 
 # {{title}}

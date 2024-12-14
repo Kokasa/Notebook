@@ -1,0 +1,1 @@
+【obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器】 https://www.bilibili.com/video/BV11uifYBE4f/?share_source=copy_web&vd_source=a00bddae542b55d6cdc3d1abc8c52d2d

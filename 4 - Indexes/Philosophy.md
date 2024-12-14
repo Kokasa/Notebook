@@ -5,4 +5,6 @@
 
 [[Wittgenstein 维特根斯坦]]
 
+[[Kant 康德]]
+
 

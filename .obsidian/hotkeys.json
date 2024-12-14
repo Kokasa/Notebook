@@ -41,5 +41,13 @@
       ],
       "key": "F"
     }
+  ],
+  "transfer-latex-from-gpt:convert-latex-to-mathjax": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

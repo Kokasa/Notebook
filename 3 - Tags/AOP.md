@@ -1,0 +1,1 @@
+AOP（面向切面编程，Aspect-Oriented Programming）是一种编程范式

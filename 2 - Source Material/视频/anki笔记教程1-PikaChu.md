@@ -1,0 +1,1 @@
+【【anki笔记教程1】】 https://www.bilibili.com/video/BV1A94y1s7z1/?share_source=copy_web

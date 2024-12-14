@@ -2,6 +2,7 @@ from [[Ruoyi-Vue-Plus]]
 
 package org.dromara.common.core.utils;
 
+## 树形结构
 ``` java
 /**  
  * 根据前端定制差异化字段  
@@ -27,8 +28,8 @@ public static <T, K> List<Tree<K>> build(List<T> list, NodeParser<T, K> nodePars
 ```
 
 
-
-```
+## 分组树形结构
+```java
 /**  
  * 构建分组树形结构  
  *  
