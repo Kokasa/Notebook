@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf85f24a46119d2",
+        "id": "0d7dbc27b009f825",
         "type": "tabs",
         "children": [
           {
-            "id": "29531c7ece82ddd9",
+            "id": "220b22b1b26cdf31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "计算机组成原理(第三版)-蒋本珊著"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai",
+                "query": "fine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +177,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29531c7ece82ddd9",
+  "active": "220b22b1b26cdf31",
   "lastOpenFiles": [
-    "6 - Main Notes/建造者模式(Builder Pattern).md",
-    "6 - Main Notes/假设检验法.md",
-    "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md",
-    "6 - Main Notes/函数式接口.md",
-    "6 - Main Notes/函数式编程(Functional Programming).md",
-    "6 - Main Notes/函数和方法的关系.md",
-    "6 - Main Notes/关于数据库表的设计.md",
-    "6 - Main Notes/关于老师这个角色.md",
-    "6 - Main Notes/构造方法简单理解.md",
-    "6 - Main Notes/工厂模式(Factory Method).md",
+    "6 - Main Notes/Fine系统中课程表模块设计.md",
+    "6 - Main Notes/API接口以及对接.md",
+    "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md",
+    "3 - Tags/teamwork.md",
+    "6 - Main Notes/课程表展示设计.md",
+    "6 - Main Notes/分库分表操作.md",
+    "2 - Source Material/AI/什么时候要使用分库分表.md",
+    "2 - Source Material/AI/课程表模块需要的数据校验.md",
+    "6 - Main Notes/如何处理课程表中时间段的存储.md",
+    "2 - Source Material/AI/对于时间段重叠的后台校验.md",
+    "3 - Tags/fine teacher.md",
+    "2 - Source Material/AI/课程表相关接口设计.md",
+    "6 - Main Notes/fine系统中枚举类型的传递.md",
+    "6 - Main Notes/Fine系统中关于成绩模块的设计.md",
+    "3 - Tags/Ruoyi-Vue-Plus.md",
+    "2 - Source Material/AI/成绩分析功能所需的接口设计.md",
+    "6 - Main Notes/关于Ruoyi-Vue-Plus中param参数的传递.md",
+    "6 - Main Notes/对象(Object).md",
+    "5 - Templates/Template-模块设计说明书.md",
     "6 - Main Notes/方法重载.md",
-    "6 - Main Notes/负数.md",
     "6 - Main Notes/费曼学习法.md",
-    "6 - Main Notes/分数(Fraction).md",
-    "6 - Main Notes/浮点数(Floating Point).md",
-    "6 - Main Notes/对象.md",
-    "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md",
-    "6 - Main Notes/定长整数补码和反码的范围详解.md",
-    "6 - Main Notes/定点数和浮点数的区别.md",
-    "3 - Tags/Computer Science.md",
-    "2 - Source Material/书籍/卡片笔记写作法.md",
-    "3 - Tags/how to study.md",
-    "6 - Main Notes/提问在学习中的作用.md",
-    "6 - Main Notes/写作的意义.md",
-    "6 - Main Notes/补码和反码范围的推导.md",
-    "6 - Main Notes/补码.md",
+    "3 - Tags/Java.md",
+    "6 - Main Notes/frp.md",
+    "6 - Main Notes/IEEE 745 标准浮点数.md",
+    "6 - Main Notes/Java对日期和时间类型的处理.md",
+    "6 - Main Notes/Lambda表达式简单理解.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

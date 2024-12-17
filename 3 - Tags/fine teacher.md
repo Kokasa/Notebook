@@ -1,3 +1,6 @@
+
+tags: [[Ruoyi-Vue-Plus]], [[system designs]]
+
 非凡教师系统
 大三上学期小组AIP合作项目
 基于 [[Ruoyi-Vue-Plus]] 进行二次开发

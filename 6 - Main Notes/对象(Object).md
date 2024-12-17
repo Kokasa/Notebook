@@ -2,7 +2,7 @@
 
 status: #baby 
 
-tags: [[OOP]], [[Java]], [[Principle]]
+tags: [[OOP]], [[Java]], [[cognition]]
 
 
 # 对象

@@ -2,7 +2,7 @@
 
 status: #child 
 
-tags: [[fine teacher]], [[Ruoyi-Vue-Plus]],  [[system designs]]
+tags: [[fine teacher]], 
 
 
 # Fine系统中关于成绩模块的设计

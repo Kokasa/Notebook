@@ -2,7 +2,7 @@
 
 status: #child 
 
-tags: [[fine teacher]],  [[system designs]], [[Ruoyi-Vue-Plus]], [[data structure]], [[database design]], 
+tags: [[fine teacher]],  [[system designs]], [[data structure]], [[database design]], 
 
 
 # Fine系统中课程表模块设计
@@ -18,11 +18,11 @@ tags: [[fine teacher]],  [[system designs]], [[Ruoyi-Vue-Plus]], [[data structur
 
 ## 业务流程
 
-用户进行时间段的区分 ->
-班级设置默认课程 ->
-为班级分配胜任课程的教师 ->
-将以上信息组成为课程表项 ->
-组成课程表
+1. 用户进行时间段的区分 
+2. 班级设置默认课程 
+3. 为班级分配胜任课程的教师 
+4. 将以上信息组成为课程表项 
+5. 组成课程表
 
 ## 详细设计
 
@@ -30,9 +30,14 @@ tags: [[fine teacher]],  [[system designs]], [[Ruoyi-Vue-Plus]], [[data structur
 
 [[课程表项的唯一性校验]]
 
+[[课程表模块需要的数据校验]]
+
 目前只设置了固定的一周课表表现字段为day_of_week
 这在中学中也许足够了
 后续根据需求会考虑设置更具有广度的课表[[一周课表的拓展]]
+
+关于课程表的前端展示工作: 
+[[课程表展示设计]]
 ## 功能亮点
 
 ## 仍需改进的地方

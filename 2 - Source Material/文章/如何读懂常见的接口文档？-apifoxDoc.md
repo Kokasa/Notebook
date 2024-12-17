@@ -1,0 +1,1 @@
+https://apifox.com/apiskills/understanding-interface-documentation/

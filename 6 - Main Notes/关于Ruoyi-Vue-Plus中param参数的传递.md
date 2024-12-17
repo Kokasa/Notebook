@@ -1,7 +1,7 @@
 2024-12-13    14:28
 
 status: #adult 
-tags: [[Ruoyi-Vue-Plus]], [[fine teacher]], [[Mybatis-plus]]
+tags: [[Ruoyi-Vue-Plus]], [[Mybatis-plus]]
 
 
 # 关于Ruoyi-Vue-Plus中param参数的传递

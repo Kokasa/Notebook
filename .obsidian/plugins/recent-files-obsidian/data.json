@@ -1,196 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "计算机组成原理(第三版)-蒋本珊著",
-      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
+      "basename": "Fine系统中课程表模块设计",
+      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
     },
     {
-      "basename": "函数式接口",
-      "path": "6 - Main Notes/函数式接口.md"
+      "basename": "API接口以及对接",
+      "path": "6 - Main Notes/API接口以及对接.md"
     },
     {
-      "basename": "函数式编程(Functional Programming)",
-      "path": "6 - Main Notes/函数式编程(Functional Programming).md"
+      "basename": "如何读懂常见的接口文档？-apifoxDoc",
+      "path": "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md"
     },
     {
-      "basename": "函数和方法的关系",
-      "path": "6 - Main Notes/函数和方法的关系.md"
+      "basename": "teamwork",
+      "path": "3 - Tags/teamwork.md"
     },
     {
-      "basename": "关于数据库表的设计",
-      "path": "6 - Main Notes/关于数据库表的设计.md"
+      "basename": "课程表展示设计",
+      "path": "6 - Main Notes/课程表展示设计.md"
     },
     {
-      "basename": "关于老师这个角色",
-      "path": "6 - Main Notes/关于老师这个角色.md"
+      "basename": "分库分表操作",
+      "path": "6 - Main Notes/分库分表操作.md"
     },
     {
-      "basename": "构造方法简单理解",
-      "path": "6 - Main Notes/构造方法简单理解.md"
+      "basename": "分库分表操作的上下文",
+      "path": "6 - Main Notes/分库分表操作的上下文.md"
     },
     {
-      "basename": "工厂模式(Factory Method)",
-      "path": "6 - Main Notes/工厂模式(Factory Method).md"
+      "basename": "什么时候要使用分库分表",
+      "path": "2 - Source Material/AI/什么时候要使用分库分表.md"
+    },
+    {
+      "basename": "课程表模块需要的数据校验",
+      "path": "2 - Source Material/AI/课程表模块需要的数据校验.md"
+    },
+    {
+      "basename": "如何处理课程表中时间段的存储",
+      "path": "6 - Main Notes/如何处理课程表中时间段的存储.md"
+    },
+    {
+      "basename": "对于时间段重叠的后台校验",
+      "path": "2 - Source Material/AI/对于时间段重叠的后台校验.md"
+    },
+    {
+      "basename": "fine teacher",
+      "path": "3 - Tags/fine teacher.md"
+    },
+    {
+      "basename": "课程表相关接口设计",
+      "path": "2 - Source Material/AI/课程表相关接口设计.md"
+    },
+    {
+      "basename": "fine系统中枚举类型的传递",
+      "path": "6 - Main Notes/fine系统中枚举类型的传递.md"
+    },
+    {
+      "basename": "Fine系统中关于成绩模块的设计",
+      "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
+    },
+    {
+      "basename": "Ruoyi-Vue-Plus",
+      "path": "3 - Tags/Ruoyi-Vue-Plus.md"
+    },
+    {
+      "basename": "成绩分析功能所需的接口设计",
+      "path": "2 - Source Material/AI/成绩分析功能所需的接口设计.md"
+    },
+    {
+      "basename": "关于Ruoyi-Vue-Plus中param参数的传递",
+      "path": "6 - Main Notes/关于Ruoyi-Vue-Plus中param参数的传递.md"
+    },
+    {
+      "basename": "对象(Object)",
+      "path": "6 - Main Notes/对象(Object).md"
+    },
+    {
+      "basename": "Template-模块设计说明书",
+      "path": "5 - Templates/Template-模块设计说明书.md"
     },
     {
       "basename": "方法重载",
       "path": "6 - Main Notes/方法重载.md"
     },
     {
-      "basename": "负数",
-      "path": "6 - Main Notes/负数.md"
-    },
-    {
       "basename": "费曼学习法",
       "path": "6 - Main Notes/费曼学习法.md"
     },
     {
-      "basename": "分数(Fraction)",
-      "path": "6 - Main Notes/分数(Fraction).md"
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
     },
     {
-      "basename": "浮点数(Floating Point)",
-      "path": "6 - Main Notes/浮点数(Floating Point).md"
-    },
-    {
-      "basename": "对象",
-      "path": "6 - Main Notes/对象.md"
-    },
-    {
-      "basename": "对话式人工智能 为我的生活带来的改变",
-      "path": "6 - Main Notes/对话式人工智能 为我的生活带来的改变.md"
-    },
-    {
-      "basename": "定长整数补码和反码的范围详解",
-      "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
-    },
-    {
-      "basename": "定点数和浮点数的区别",
-      "path": "6 - Main Notes/定点数和浮点数的区别.md"
-    },
-    {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
-    },
-    {
-      "basename": "卡片笔记写作法",
-      "path": "2 - Source Material/书籍/卡片笔记写作法.md"
-    },
-    {
-      "basename": "how to study",
-      "path": "3 - Tags/how to study.md"
-    },
-    {
-      "basename": "提问在学习中的作用",
-      "path": "6 - Main Notes/提问在学习中的作用.md"
-    },
-    {
-      "basename": "写作的意义",
-      "path": "6 - Main Notes/写作的意义.md"
-    },
-    {
-      "basename": "补码和反码范围的推导",
-      "path": "6 - Main Notes/补码和反码范围的推导.md"
-    },
-    {
-      "basename": "how to use AI",
-      "path": "3 - Tags/how to use AI.md"
-    },
-    {
-      "basename": "Why I'm so anxiety while solving an easily answer lacked problem",
-      "path": "1 - Rough Notes/Why I'm so anxiety while solving an easily answer lacked problem.md"
+      "basename": "frp",
+      "path": "6 - Main Notes/frp.md"
     },
     {
       "basename": "IEEE 745 标准浮点数",
       "path": "6 - Main Notes/IEEE 745 标准浮点数.md"
     },
     {
-      "basename": "移码(Offset Binary)",
-      "path": "6 - Main Notes/移码(Offset Binary).md"
+      "basename": "Java对日期和时间类型的处理",
+      "path": "6 - Main Notes/Java对日期和时间类型的处理.md"
     },
     {
-      "basename": "计算机中的移码",
-      "path": "2 - Source Material/AI/计算机中的移码.md"
+      "basename": "Lambda表达式简单理解",
+      "path": "6 - Main Notes/Lambda表达式简单理解.md"
     },
     {
-      "basename": "为什么使用反码+1计算补码",
-      "path": "6 - Main Notes/为什么使用反码+1计算补码.md"
+      "basename": "Mybatis-Plus中的查询包装器(QueryWrapper)",
+      "path": "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md"
     },
     {
-      "basename": "第2章 数据的机器层次表示",
-      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+      "basename": "The purpose of education is to teach people how to think, not what to think",
+      "path": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md"
     },
     {
-      "basename": "我对于计算机使用补码表示法的理解",
-      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
+      "basename": "AOP(面向切面编程)",
+      "path": "6 - Main Notes/AOP(面向切面编程).md"
     },
     {
-      "basename": "Fraction分数的起源",
-      "path": "2 - Source Material/AI/Fraction分数的起源.md"
-    },
-    {
-      "basename": "寄存器",
-      "path": "2 - Source Material/AI/寄存器.md"
-    },
-    {
-      "basename": "补码的最大值和最小值为什么互补",
-      "path": "2 - Source Material/AI/补码的最大值和最小值为什么互补.md"
-    },
-    {
-      "basename": "模运算(mod)的性质",
-      "path": "6 - Main Notes/模运算(mod)的性质.md"
-    },
-    {
-      "basename": "模运算(mod)以及在计算机领域中的应用",
-      "path": "2 - Source Material/AI/模运算(mod)以及在计算机领域中的应用.md"
+      "basename": "AI与人类认识世界的区别",
+      "path": "6 - Main Notes/AI与人类认识世界的区别.md"
     },
     {
       "basename": "字符和字符串",
       "path": "6 - Main Notes/字符和字符串.md"
     },
     {
-      "basename": "酸性设计(Acid Design)",
-      "path": "6 - Main Notes/酸性设计(Acid Design).md"
-    },
-    {
-      "basename": "方法(method)和函数(function)的区别？",
-      "path": "2 - Source Material/文章/方法(method)和函数(function)的区别？.md"
-    },
-    {
-      "basename": "享乐与逃避现实苦难",
-      "path": "2 - Source Material/AI/享乐与逃避现实苦难.md"
-    },
-    {
-      "basename": "性爱",
-      "path": "1 - Rough Notes/性爱.md"
+      "basename": "语言的边界就是世界的边界",
+      "path": "6 - Main Notes/语言的边界就是世界的边界.md"
     },
     {
       "basename": "有关于卢曼卡片笔记盒",
       "path": "6 - Main Notes/有关于卢曼卡片笔记盒.md"
     },
     {
-      "basename": "未命名",
-      "path": "1 - Rough Notes/未命名.md"
+      "basename": "移码(Offset Binary)",
+      "path": "6 - Main Notes/移码(Offset Binary).md"
     },
     {
-      "basename": "中国人的学习创伤有多严重？中国教育是怎样制造习得性无助的？学不会是因为自己太笨吗？｜学习｜自我成长｜教育｜自由学习｜哲学｜心理学｜",
-      "path": "2 - Source Material/视频/中国人的学习创伤有多严重？中国教育是怎样制造习得性无助的？学不会是因为自己太笨吗？｜学习｜自我成长｜教育｜自由学习｜哲学｜心理学｜.md"
+      "basename": "写作的意义",
+      "path": "6 - Main Notes/写作的意义.md"
     },
     {
-      "basename": "关于推广AI和我语言背景中的控制性",
-      "path": "1 - Rough Notes/关于推广AI和我语言背景中的控制性.md"
+      "basename": "我们在看向杯子时看到的是杯子还是杯子反射出的光",
+      "path": "2 - Source Material/文章/我们在看向杯子时看到的是杯子还是杯子反射出的光.md"
     },
     {
-      "basename": "对学习的恐惧",
-      "path": "1 - Rough Notes/对学习的恐惧.md"
-    },
-    {
-      "basename": "卡片笔记盒",
-      "path": "3 - Tags/卡片笔记盒.md"
+      "basename": "我对于计算机使用补码表示法的理解",
+      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
     },
     {
       "basename": "为什么同一个机器数表示补码时范围比反码大",
       "path": "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md"
+    },
+    {
+      "basename": "为什么使用反码+1计算补码",
+      "path": "6 - Main Notes/为什么使用反码+1计算补码.md"
+    },
+    {
+      "basename": "提问在学习中的作用",
+      "path": "6 - Main Notes/提问在学习中的作用.md"
+    },
+    {
+      "basename": "酸性设计(Acid Design)",
+      "path": "6 - Main Notes/酸性设计(Acid Design).md"
+    },
+    {
+      "basename": "树形数据结构的构建",
+      "path": "6 - Main Notes/树形数据结构的构建.md"
+    },
+    {
+      "basename": "十进制数和数串表示",
+      "path": "6 - Main Notes/十进制数和数串表示.md"
+    },
+    {
+      "basename": "如何写笔记",
+      "path": "6 - Main Notes/如何写笔记.md"
+    },
+    {
+      "basename": "如何利用AI制作教程的教程",
+      "path": "6 - Main Notes/如何利用AI制作教程的教程.md"
+    },
+    {
+      "basename": "认知负荷理论 (Cognitive Load Theory)",
+      "path": "6 - Main Notes/认知负荷理论 (Cognitive Load Theory).md"
+    },
+    {
+      "basename": "人对工具的使用",
+      "path": "6 - Main Notes/人对工具的使用.md"
+    },
+    {
+      "basename": "人不能作为工具, 人才是目的本身",
+      "path": "6 - Main Notes/人不能作为工具, 人才是目的本身.md"
+    },
+    {
+      "basename": "启发式思维 (Heuristic Thinking)",
+      "path": "6 - Main Notes/启发式思维 (Heuristic Thinking).md"
     }
   ],
   "omittedPaths": [],
