@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7dbc27b009f825",
+        "id": "ee9403b9ba0e2dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "220b22b1b26cdf31",
+            "id": "7c9001997c67dcc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "The purpose of education is to teach people how to think, not what to think"
             }
           }
         ]
@@ -177,10 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "220b22b1b26cdf31",
+  "active": "7c9001997c67dcc7",
   "lastOpenFiles": [
-    "6 - Main Notes/Fine系统中课程表模块设计.md",
+    "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md",
+    "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md",
+    "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md",
+    "2 - Source Material/书籍/卡片笔记写作法.md",
+    "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
+    "2 - Source Material/AI/计算机组成原理重点分析.md",
+    "2 - Source Material/AI/01Scrum过程简介.md",
+    "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md",
+    "2 - Source Material/AI/03常见开发过程一览.md",
+    "6 - Main Notes/总结错误, 愚蠢属于每一个人.md",
     "6 - Main Notes/API接口以及对接.md",
+    "6 - Main Notes/Fine系统中课程表模块设计.md",
     "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md",
     "3 - Tags/teamwork.md",
     "6 - Main Notes/课程表展示设计.md",
@@ -195,16 +210,6 @@
     "6 - Main Notes/Fine系统中关于成绩模块的设计.md",
     "3 - Tags/Ruoyi-Vue-Plus.md",
     "2 - Source Material/AI/成绩分析功能所需的接口设计.md",
-    "6 - Main Notes/关于Ruoyi-Vue-Plus中param参数的传递.md",
-    "6 - Main Notes/对象(Object).md",
-    "5 - Templates/Template-模块设计说明书.md",
-    "6 - Main Notes/方法重载.md",
-    "6 - Main Notes/费曼学习法.md",
-    "3 - Tags/Java.md",
-    "6 - Main Notes/frp.md",
-    "6 - Main Notes/IEEE 745 标准浮点数.md",
-    "6 - Main Notes/Java对日期和时间类型的处理.md",
-    "6 - Main Notes/Lambda表达式简单理解.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Fine系统中课程表模块设计",
-      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
+      "basename": "The purpose of education is to teach people how to think, not what to think",
+      "path": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md"
+    },
+    {
+      "basename": "obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器",
+      "path": "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md"
+    },
+    {
+      "basename": "ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习",
+      "path": "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md"
+    },
+    {
+      "basename": "canvas 与工具论，工具内化于你，而非外在于你",
+      "path": "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md"
+    },
+    {
+      "basename": "卡片笔记写作法",
+      "path": "2 - Source Material/书籍/卡片笔记写作法.md"
+    },
+    {
+      "basename": "计算机组成原理重点分析",
+      "path": "2 - Source Material/AI/计算机组成原理重点分析.md"
+    },
+    {
+      "basename": "01Scrum过程简介",
+      "path": "2 - Source Material/AI/01Scrum过程简介.md"
+    },
+    {
+      "basename": "02SCRUM过程中每个过程的目的",
+      "path": "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md"
+    },
+    {
+      "basename": "03常见开发过程一览",
+      "path": "2 - Source Material/AI/03常见开发过程一览.md"
+    },
+    {
+      "basename": "总结错误, 愚蠢属于每一个人",
+      "path": "6 - Main Notes/总结错误, 愚蠢属于每一个人.md"
     },
     {
       "basename": "API接口以及对接",
       "path": "6 - Main Notes/API接口以及对接.md"
+    },
+    {
+      "basename": "Fine系统中课程表模块设计",
+      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
     },
     {
       "basename": "如何读懂常见的接口文档？-apifoxDoc",
@@ -113,10 +153,6 @@
       "path": "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md"
     },
     {
-      "basename": "The purpose of education is to teach people how to think, not what to think",
-      "path": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md"
-    },
-    {
       "basename": "AOP(面向切面编程)",
       "path": "6 - Main Notes/AOP(面向切面编程).md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "提问在学习中的作用",
       "path": "6 - Main Notes/提问在学习中的作用.md"
-    },
-    {
-      "basename": "酸性设计(Acid Design)",
-      "path": "6 - Main Notes/酸性设计(Acid Design).md"
-    },
-    {
-      "basename": "树形数据结构的构建",
-      "path": "6 - Main Notes/树形数据结构的构建.md"
-    },
-    {
-      "basename": "十进制数和数串表示",
-      "path": "6 - Main Notes/十进制数和数串表示.md"
-    },
-    {
-      "basename": "如何写笔记",
-      "path": "6 - Main Notes/如何写笔记.md"
-    },
-    {
-      "basename": "如何利用AI制作教程的教程",
-      "path": "6 - Main Notes/如何利用AI制作教程的教程.md"
-    },
-    {
-      "basename": "认知负荷理论 (Cognitive Load Theory)",
-      "path": "6 - Main Notes/认知负荷理论 (Cognitive Load Theory).md"
-    },
-    {
-      "basename": "人对工具的使用",
-      "path": "6 - Main Notes/人对工具的使用.md"
-    },
-    {
-      "basename": "人不能作为工具, 人才是目的本身",
-      "path": "6 - Main Notes/人不能作为工具, 人才是目的本身.md"
-    },
-    {
-      "basename": "启发式思维 (Heuristic Thinking)",
-      "path": "6 - Main Notes/启发式思维 (Heuristic Thinking).md"
     }
   ],
   "omittedPaths": [],
