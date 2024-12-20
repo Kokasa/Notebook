@@ -11,10 +11,30 @@
             "id": "0de624c606e47413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/对学习的恐惧.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "对学习的恐惧"
+            }
+          },
+          {
+            "id": "7cc52bc07dc29ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/亚当与夏娃的羞耻心.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "亚当与夏娃的羞耻心"
             }
           }
         ]
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "课程表",
+                "query": "tag:#child",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,34 +197,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8bf1b9e01c263a2",
+  "active": "0de624c606e47413",
   "lastOpenFiles": [
-    "6 - Main Notes/Booth乘法.md",
+    "1 - Rough Notes/关于推广AI和我语言背景中的控制性.md",
+    "1 - Rough Notes/中学教育中错误的因果.md",
+    "1 - Rough Notes/未命名.md",
     "1 - Rough Notes/LLM的新应用.md",
-    "1 - Rough Notes/性爱.md",
-    "6 - Main Notes/位置计数法.md",
-    "6 - Main Notes/LLM.md",
+    "1 - Rough Notes/Why I'm so anxiety while solving an easily answer lacked problem.md",
     "1 - Rough Notes/LLM和后台结合的应用.md",
-    "2 - Source Material/AI/课程分布展示实现计划.md",
-    "6 - Main Notes/Fine系统中课程表模块设计.md",
-    "2 - Source Material/AI/拖拽修改课程表安排.md",
-    "3 - Tags/fine teacher.md",
-    "6 - Main Notes/如何处理课程表中时间段的存储.md",
-    "6 - Main Notes/课程表项的唯一性校验.md",
-    "2 - Source Material/AI/课程表相关接口设计.md",
-    "6 - Main Notes/课程表展示设计.md",
-    "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
-    "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md",
-    "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md",
-    "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md",
-    "2 - Source Material/书籍/卡片笔记写作法.md",
-    "2 - Source Material/AI/计算机组成原理重点分析.md",
-    "2 - Source Material/AI/01Scrum过程简介.md",
-    "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md",
-    "2 - Source Material/AI/03常见开发过程一览.md",
-    "6 - Main Notes/总结错误, 愚蠢属于每一个人.md",
-    "6 - Main Notes/API接口以及对接.md",
-    "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md",
+    "6 - Main Notes/新时代爱的多元性.md",
+    "6 - Main Notes/亚当与夏娃的羞耻心.md",
+    "6 - Main Notes/现代享乐主义的逃避行为.md",
+    "2 - Source Material/AI/蚱蜢 一书中对于游戏态度的论述.md",
+    "2 - Source Material/书籍/蚱蜢：游戏、生命与乌托邦.md",
+    "1 - Rough Notes/对学习的恐惧.md",
+    "3 - Tags/卡片笔记盒.md",
+    "3 - Tags/thoughts.md",
+    "6 - Main Notes/写作的意义.md",
+    "6 - Main Notes/我对于计算机使用补码表示法的理解.md",
+    "6 - Main Notes/位置计数法.md",
+    "2 - Source Material/书籍/Computer Organization and Architecture.md",
+    "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md",
+    "6 - Main Notes/提问在学习中的作用.md",
+    "6 - Main Notes/为什么使用反码+1计算补码.md",
+    "6 - Main Notes/酸性设计(Acid Design).md",
+    "6 - Main Notes/十进制数和数串表示.md",
+    "6 - Main Notes/树形数据结构的构建.md",
+    "6 - Main Notes/如何做计划.md",
+    "6 - Main Notes/如何写笔记.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",
