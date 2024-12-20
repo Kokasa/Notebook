@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9403b9ba0e2dfb",
+        "id": "b75996cb6347ac45",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9001997c67dcc7",
+            "id": "0de624c606e47413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The purpose of education is to teach people how to think, not what to think"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fine",
+                "query": "课程表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,34 +177,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c9001997c67dcc7",
+  "active": "a8bf1b9e01c263a2",
   "lastOpenFiles": [
+    "6 - Main Notes/Booth乘法.md",
+    "1 - Rough Notes/LLM的新应用.md",
+    "1 - Rough Notes/性爱.md",
+    "6 - Main Notes/位置计数法.md",
+    "6 - Main Notes/LLM.md",
+    "1 - Rough Notes/LLM和后台结合的应用.md",
+    "2 - Source Material/AI/课程分布展示实现计划.md",
+    "6 - Main Notes/Fine系统中课程表模块设计.md",
+    "2 - Source Material/AI/拖拽修改课程表安排.md",
+    "3 - Tags/fine teacher.md",
+    "6 - Main Notes/如何处理课程表中时间段的存储.md",
+    "6 - Main Notes/课程表项的唯一性校验.md",
+    "2 - Source Material/AI/课程表相关接口设计.md",
+    "6 - Main Notes/课程表展示设计.md",
+    "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
     "2 - Source Material/视频/obsidian：实现完美学习方法的最佳应用，详细设置及使用教程【中英双语精译】第二大脑 必备神器.md",
     "2 - Source Material/视频/ChatGPT 两周年复盘：理解 ChatGPT，理解费曼学习法，理解人的学习.md",
     "2 - Source Material/视频/canvas 与工具论，工具内化于你，而非外在于你.md",
     "2 - Source Material/书籍/卡片笔记写作法.md",
-    "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md",
     "2 - Source Material/AI/计算机组成原理重点分析.md",
     "2 - Source Material/AI/01Scrum过程简介.md",
     "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md",
     "2 - Source Material/AI/03常见开发过程一览.md",
     "6 - Main Notes/总结错误, 愚蠢属于每一个人.md",
     "6 - Main Notes/API接口以及对接.md",
-    "6 - Main Notes/Fine系统中课程表模块设计.md",
     "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md",
-    "3 - Tags/teamwork.md",
-    "6 - Main Notes/课程表展示设计.md",
-    "6 - Main Notes/分库分表操作.md",
-    "2 - Source Material/AI/什么时候要使用分库分表.md",
-    "2 - Source Material/AI/课程表模块需要的数据校验.md",
-    "6 - Main Notes/如何处理课程表中时间段的存储.md",
-    "2 - Source Material/AI/对于时间段重叠的后台校验.md",
-    "3 - Tags/fine teacher.md",
-    "2 - Source Material/AI/课程表相关接口设计.md",
-    "6 - Main Notes/fine系统中枚举类型的传递.md",
-    "6 - Main Notes/Fine系统中关于成绩模块的设计.md",
-    "3 - Tags/Ruoyi-Vue-Plus.md",
-    "2 - Source Material/AI/成绩分析功能所需的接口设计.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

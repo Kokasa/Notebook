@@ -40,6 +40,13 @@ tags: [[fine teacher]],  [[system designs]], [[data structure]], [[database desi
 [[课程表展示设计]]
 ## 功能亮点
 
+拖拽修改
+[[拖拽修改课程表安排]]
+
+课程分布展示
+[[课程分布展示实现计划]]
+
+
 ## 仍需改进的地方
 
 ## 想要实现的效果

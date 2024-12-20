@@ -1,7 +1,7 @@
 
 status: #adult 
 
-tags: [[how to use AI]], [[Tiny Skill]], [[Sharpen Yourself]], [[LLM]]
+tags: [[how to use AI]], [[Tiny Skill]], [[Sharpen Yourself]], [[3 - Tags/LLM]]
 
 
 # 概述

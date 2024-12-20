@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Booth乘法",
+      "path": "6 - Main Notes/Booth乘法.md"
+    },
+    {
+      "basename": "LLM的新应用",
+      "path": "1 - Rough Notes/LLM的新应用.md"
+    },
+    {
+      "basename": "性爱",
+      "path": "1 - Rough Notes/性爱.md"
+    },
+    {
+      "basename": "位置计数法",
+      "path": "6 - Main Notes/位置计数法.md"
+    },
+    {
+      "basename": "LLM",
+      "path": "6 - Main Notes/LLM.md"
+    },
+    {
+      "basename": "LLM和后台结合的应用",
+      "path": "1 - Rough Notes/LLM和后台结合的应用.md"
+    },
+    {
+      "basename": "课程分布展示实现计划",
+      "path": "2 - Source Material/AI/课程分布展示实现计划.md"
+    },
+    {
+      "basename": "课程分布展示实现计划",
+      "path": "6 - Main Notes/课程分布展示实现计划.md"
+    },
+    {
+      "basename": "Fine系统中课程表模块设计",
+      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
+    },
+    {
+      "basename": "拖拽修改课程表安排",
+      "path": "2 - Source Material/AI/拖拽修改课程表安排.md"
+    },
+    {
+      "basename": "fine teacher",
+      "path": "3 - Tags/fine teacher.md"
+    },
+    {
+      "basename": "如何处理课程表中时间段的存储",
+      "path": "6 - Main Notes/如何处理课程表中时间段的存储.md"
+    },
+    {
+      "basename": "课程表项的唯一性校验",
+      "path": "6 - Main Notes/课程表项的唯一性校验.md"
+    },
+    {
+      "basename": "课程表相关接口设计",
+      "path": "2 - Source Material/AI/课程表相关接口设计.md"
+    },
+    {
+      "basename": "课程表展示设计",
+      "path": "6 - Main Notes/课程表展示设计.md"
+    },
+    {
       "basename": "The purpose of education is to teach people how to think, not what to think",
       "path": "2 - Source Material/文章/The purpose of education is to teach people how to think, not what to think.md"
     },
@@ -45,20 +105,12 @@
       "path": "6 - Main Notes/API接口以及对接.md"
     },
     {
-      "basename": "Fine系统中课程表模块设计",
-      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
-    },
-    {
       "basename": "如何读懂常见的接口文档？-apifoxDoc",
       "path": "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md"
     },
     {
       "basename": "teamwork",
       "path": "3 - Tags/teamwork.md"
-    },
-    {
-      "basename": "课程表展示设计",
-      "path": "6 - Main Notes/课程表展示设计.md"
     },
     {
       "basename": "分库分表操作",
@@ -77,20 +129,8 @@
       "path": "2 - Source Material/AI/课程表模块需要的数据校验.md"
     },
     {
-      "basename": "如何处理课程表中时间段的存储",
-      "path": "6 - Main Notes/如何处理课程表中时间段的存储.md"
-    },
-    {
       "basename": "对于时间段重叠的后台校验",
       "path": "2 - Source Material/AI/对于时间段重叠的后台校验.md"
-    },
-    {
-      "basename": "fine teacher",
-      "path": "3 - Tags/fine teacher.md"
-    },
-    {
-      "basename": "课程表相关接口设计",
-      "path": "2 - Source Material/AI/课程表相关接口设计.md"
     },
     {
       "basename": "fine系统中枚举类型的传递",
@@ -159,46 +199,6 @@
     {
       "basename": "AI与人类认识世界的区别",
       "path": "6 - Main Notes/AI与人类认识世界的区别.md"
-    },
-    {
-      "basename": "字符和字符串",
-      "path": "6 - Main Notes/字符和字符串.md"
-    },
-    {
-      "basename": "语言的边界就是世界的边界",
-      "path": "6 - Main Notes/语言的边界就是世界的边界.md"
-    },
-    {
-      "basename": "有关于卢曼卡片笔记盒",
-      "path": "6 - Main Notes/有关于卢曼卡片笔记盒.md"
-    },
-    {
-      "basename": "移码(Offset Binary)",
-      "path": "6 - Main Notes/移码(Offset Binary).md"
-    },
-    {
-      "basename": "写作的意义",
-      "path": "6 - Main Notes/写作的意义.md"
-    },
-    {
-      "basename": "我们在看向杯子时看到的是杯子还是杯子反射出的光",
-      "path": "2 - Source Material/文章/我们在看向杯子时看到的是杯子还是杯子反射出的光.md"
-    },
-    {
-      "basename": "我对于计算机使用补码表示法的理解",
-      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
-    },
-    {
-      "basename": "为什么同一个机器数表示补码时范围比反码大",
-      "path": "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md"
-    },
-    {
-      "basename": "为什么使用反码+1计算补码",
-      "path": "6 - Main Notes/为什么使用反码+1计算补码.md"
-    },
-    {
-      "basename": "提问在学习中的作用",
-      "path": "6 - Main Notes/提问在学习中的作用.md"
     }
   ],
   "omittedPaths": [],

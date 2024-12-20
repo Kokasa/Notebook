@@ -1,3 +1,3 @@
 [[talk with ai]]
 [[how to use AI]]
-[[LLM]]
+[[3 - Tags/LLM]]
