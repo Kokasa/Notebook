@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b75996cb6347ac45",
+        "id": "4584196d5f8a5beb",
         "type": "tabs",
         "children": [
           {
-            "id": "0de624c606e47413",
+            "id": "77fe70ed4b101433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/现在的AI.md",
+                "file": "6 - Main Notes/匿名内部类(Anonymous Inner Class).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "现在的AI"
-            }
-          },
-          {
-            "id": "7cc52bc07dc29ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/亚当与夏娃的羞耻心.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "亚当与夏娃的羞耻心"
+              "title": "匿名内部类(Anonymous Inner Class)"
             }
           }
         ]
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#child",
+                "query": "静态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "6 - Main Notes/匿名内部类(Anonymous Inner Class).md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "匿名内部类(Anonymous Inner Class) 的大纲"
             }
           }
         ],
@@ -183,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,34 +184,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0de624c606e47413",
+  "active": "a8bf1b9e01c263a2",
   "lastOpenFiles": [
-    "1 - Rough Notes/对学习的恐惧.md",
+    "6 - Main Notes/java中创建类为什么需要实现接口或者继承父类.md",
+    "6 - Main Notes/匿名内部类(Anonymous Inner Class).md",
+    "2 - Source Material/AI/为什么匿名内部类必须实现接口或继承父类.md",
+    "2 - Source Material/AI/为什么使用匿名内部类.md",
+    "6 - Main Notes/成员(member).md",
+    "6 - Main Notes/静态(Static).md",
+    "2 - Source Material/AI/java中的静态(static), 成员(member).md",
+    "6 - Main Notes/为什么需要封装(Encapsulation).md",
+    "6 - Main Notes/Java中的super()方法.md",
+    "6 - Main Notes/类(Class)与对象(Object).md",
+    "7 - Resources/Pasted image 20241228232052.png",
+    "2 - Source Material/文章/未命名.md",
+    "6 - Main Notes/http的多种请求方法.md",
+    "6 - Main Notes/P2P(peer to peer).md",
+    "2 - Source Material/AI/计算机中的幂等.md",
+    "6 - Main Notes/幂等(Idempotent).md",
+    "2 - Source Material/AI/网络请求中不同请求发方法的区别.md",
+    "3 - Tags/Http(s).md",
+    "3 - Tags/Network.md",
+    "3 - Tags/cognition.md",
     "1 - Rough Notes/现在的AI.md",
+    "1 - Rough Notes/对学习的恐惧.md",
     "1 - Rough Notes/中学教育中错误的因果.md",
     "1 - Rough Notes/LLM和后台结合的应用.md",
     "1 - Rough Notes/LLM的新应用.md",
     "1 - Rough Notes/关于推广AI和我语言背景中的控制性.md",
     "1 - Rough Notes/Why I'm so anxiety while solving an easily answer lacked problem.md",
-    "6 - Main Notes/新时代爱的多元性.md",
-    "6 - Main Notes/亚当与夏娃的羞耻心.md",
-    "6 - Main Notes/现代享乐主义的逃避行为.md",
-    "2 - Source Material/AI/蚱蜢 一书中对于游戏态度的论述.md",
-    "2 - Source Material/书籍/蚱蜢：游戏、生命与乌托邦.md",
-    "3 - Tags/卡片笔记盒.md",
-    "3 - Tags/thoughts.md",
-    "6 - Main Notes/写作的意义.md",
-    "6 - Main Notes/我对于计算机使用补码表示法的理解.md",
-    "6 - Main Notes/位置计数法.md",
-    "2 - Source Material/书籍/Computer Organization and Architecture.md",
-    "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md",
-    "6 - Main Notes/提问在学习中的作用.md",
-    "6 - Main Notes/为什么使用反码+1计算补码.md",
-    "6 - Main Notes/酸性设计(Acid Design).md",
-    "6 - Main Notes/十进制数和数串表示.md",
-    "6 - Main Notes/树形数据结构的构建.md",
-    "6 - Main Notes/如何做计划.md",
-    "6 - Main Notes/如何写笔记.md",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/数据库建表规约2.png",

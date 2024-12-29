@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "匿名内部类(Anonymous Inner Class)",
+      "path": "6 - Main Notes/匿名内部类(Anonymous Inner Class).md"
+    },
+    {
+      "basename": "java中创建类为什么需要实现接口或者继承父类",
+      "path": "6 - Main Notes/java中创建类为什么需要实现接口或者继承父类.md"
+    },
+    {
+      "basename": "为什么匿名内部类必须实现接口或继承父类",
+      "path": "2 - Source Material/AI/为什么匿名内部类必须实现接口或继承父类.md"
+    },
+    {
+      "basename": "为什么使用匿名内部类",
+      "path": "2 - Source Material/AI/为什么使用匿名内部类.md"
+    },
+    {
+      "basename": "成员(member)",
+      "path": "6 - Main Notes/成员(member).md"
+    },
+    {
+      "basename": "静态(Static)",
+      "path": "6 - Main Notes/静态(Static).md"
+    },
+    {
+      "basename": "java中的静态(static), 成员(member)",
+      "path": "2 - Source Material/AI/java中的静态(static), 成员(member).md"
+    },
+    {
+      "basename": "为什么需要封装(Encapsulation)",
+      "path": "6 - Main Notes/为什么需要封装(Encapsulation).md"
+    },
+    {
+      "basename": "Java中的super()方法",
+      "path": "6 - Main Notes/Java中的super()方法.md"
+    },
+    {
+      "basename": "类(Class)与对象(Object)",
+      "path": "6 - Main Notes/类(Class)与对象(Object).md"
+    },
+    {
+      "basename": "Pasted image 20241228232052",
+      "path": "7 - Resources/Pasted image 20241228232052.png"
+    },
+    {
+      "basename": "http的多种请求方法",
+      "path": "6 - Main Notes/http的多种请求方法.md"
+    },
+    {
+      "basename": "P2P(peer to peer)",
+      "path": "6 - Main Notes/P2P(peer to peer).md"
+    },
+    {
+      "basename": "计算机中的幂等",
+      "path": "2 - Source Material/AI/计算机中的幂等.md"
+    },
+    {
+      "basename": "幂等(Idempotent)",
+      "path": "6 - Main Notes/幂等(Idempotent).md"
+    },
+    {
+      "basename": "网络请求中不同请求发方法的区别",
+      "path": "2 - Source Material/AI/网络请求中不同请求发方法的区别.md"
+    },
+    {
+      "basename": "Http(s)",
+      "path": "3 - Tags/Http(s).md"
+    },
+    {
+      "basename": "Network",
+      "path": "3 - Tags/Network.md"
+    },
+    {
+      "basename": "cognition",
+      "path": "3 - Tags/cognition.md"
+    },
+    {
       "basename": "现在的AI",
       "path": "1 - Rough Notes/现在的AI.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "人对工具的使用",
       "path": "6 - Main Notes/人对工具的使用.md"
-    },
-    {
-      "basename": "人不能作为工具, 人才是目的本身",
-      "path": "6 - Main Notes/人不能作为工具, 人才是目的本身.md"
-    },
-    {
-      "basename": "启发式思维 (Heuristic Thinking)",
-      "path": "6 - Main Notes/启发式思维 (Heuristic Thinking).md"
-    },
-    {
-      "basename": "欧几里得算法",
-      "path": "6 - Main Notes/欧几里得算法.md"
-    },
-    {
-      "basename": "匿名类(Anonymous Class)",
-      "path": "6 - Main Notes/匿名类(Anonymous Class).md"
-    },
-    {
-      "basename": "内网穿透",
-      "path": "6 - Main Notes/内网穿透.md"
-    },
-    {
-      "basename": "模运算(mod)的性质",
-      "path": "6 - Main Notes/模运算(mod)的性质.md"
-    },
-    {
-      "basename": "面向对象编程(OOP)",
-      "path": "6 - Main Notes/面向对象编程(OOP).md"
-    },
-    {
-      "basename": "流式接口(Fluent Interface)",
-      "path": "6 - Main Notes/流式接口(Fluent Interface).md"
-    },
-    {
-      "basename": "流式处理(Streams)",
-      "path": "6 - Main Notes/流式处理(Streams).md"
-    },
-    {
-      "basename": "流(Stream)",
-      "path": "6 - Main Notes/流(Stream).md"
-    },
-    {
-      "basename": "链式调用初步理解",
-      "path": "6 - Main Notes/链式调用初步理解.md"
-    },
-    {
-      "basename": "理解人的学习",
-      "path": "6 - Main Notes/理解人的学习.md"
-    },
-    {
-      "basename": "类的实例化",
-      "path": "6 - Main Notes/类的实例化.md"
-    },
-    {
-      "basename": "扩展欧几里得算法",
-      "path": "6 - Main Notes/扩展欧几里得算法.md"
-    },
-    {
-      "basename": "课程表展示设计",
-      "path": "6 - Main Notes/课程表展示设计.md"
-    },
-    {
-      "basename": "课程表项的唯一性校验",
-      "path": "6 - Main Notes/课程表项的唯一性校验.md"
-    },
-    {
-      "basename": "结合框架解释树形数据结构和分组树形数据结构",
-      "path": "6 - Main Notes/结合框架解释树形数据结构和分组树形数据结构.md"
-    },
-    {
-      "basename": "计算机组成原理(第三版)-蒋本珊著",
-      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
-    },
-    {
-      "basename": "函数式接口",
-      "path": "6 - Main Notes/函数式接口.md"
     }
   ],
   "omittedPaths": [],
