@@ -1,6 +1,6 @@
 {{date}}    {{time}}
 
-status: 
+status: #baby 
 tags: 
 
 

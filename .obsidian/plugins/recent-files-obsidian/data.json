@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "在java中多态是如何实现的",
+      "path": "2 - Source Material/AI/在java中多态是如何实现的.md"
+    },
+    {
+      "basename": "What is Polymorphism",
+      "path": "6 - Main Notes/What is Polymorphism.md"
+    },
+    {
+      "basename": "向上转型(Upcasting)",
+      "path": "6 - Main Notes/向上转型(Upcasting).md"
+    },
+    {
+      "basename": "为什么不使用Object作为引用类型",
+      "path": "2 - Source Material/AI/为什么不使用Object作为引用类型.md"
+    },
+    {
+      "basename": "多态(Polymorphism)",
+      "path": "6 - Main Notes/多态(Polymorphism).md"
+    },
+    {
+      "basename": "Java中如何实现多态",
+      "path": "6 - Main Notes/Java中如何实现多态.md"
+    },
+    {
+      "basename": "方法重载(Method Overloading)",
+      "path": "6 - Main Notes/方法重载(Method Overloading).md"
+    },
+    {
+      "basename": "方法重写(Method Overriding)",
+      "path": "6 - Main Notes/方法重写(Method Overriding).md"
+    },
+    {
+      "basename": "Template-Main Note",
+      "path": "5 - Templates/Template-Main Note.md"
+    },
+    {
+      "basename": "什么是多态, 为什么我们需要多态",
+      "path": "2 - Source Material/AI/什么是多态, 为什么我们需要多态.md"
+    },
+    {
+      "basename": "超前学习的结果是超前放弃",
+      "path": "6 - Main Notes/超前学习的结果是超前放弃.md"
+    },
+    {
+      "basename": "对学习的恐惧",
+      "path": "1 - Rough Notes/对学习的恐惧.md"
+    },
+    {
+      "basename": "baby",
+      "path": "6 - Main Notes/baby.md"
+    },
+    {
+      "basename": "接口和抽象类",
+      "path": "6 - Main Notes/接口和抽象类.md"
+    },
+    {
+      "basename": "talk with ai",
+      "path": "3 - Tags/talk with ai.md"
+    },
+    {
       "basename": "烦恼是被允许的",
       "path": "6 - Main Notes/烦恼是被允许的.md"
     },
@@ -73,10 +137,6 @@
       "path": "6 - Main Notes/人与人无法相互理解.md"
     },
     {
-      "basename": "超前学习的结果是超前放弃",
-      "path": "6 - Main Notes/超前学习的结果是超前放弃.md"
-    },
-    {
       "basename": "逻辑的谬误",
       "path": "6 - Main Notes/逻辑的谬误.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "01Scrum过程简介",
       "path": "2 - Source Material/AI/01Scrum过程简介.md"
-    },
-    {
-      "basename": "知识的源头不仅仅是老师",
-      "path": "6 - Main Notes/知识的源头不仅仅是老师.md"
-    },
-    {
-      "basename": "Edu",
-      "path": "3 - Tags/Edu.md"
-    },
-    {
-      "basename": "Tiny Skill",
-      "path": "3 - Tags/Tiny Skill.md"
-    },
-    {
-      "basename": "Mybatis-Plus中的查询包装器(QueryWrapper)",
-      "path": "6 - Main Notes/Mybatis-Plus中的查询包装器(QueryWrapper).md"
-    },
-    {
-      "basename": "函数式编程(Functional Programming)",
-      "path": "6 - Main Notes/函数式编程(Functional Programming).md"
-    },
-    {
-      "basename": "Lambda表达式简单理解",
-      "path": "6 - Main Notes/Lambda表达式简单理解.md"
-    },
-    {
-      "basename": "LambdaQueryWrapper",
-      "path": "2 - Source Material/AI/LambdaQueryWrapper.md"
-    },
-    {
-      "basename": "Mybatis-plus中的查询包装器",
-      "path": "2 - Source Material/AI/Mybatis-plus中的查询包装器.md"
-    },
-    {
-      "basename": "Lambda 表达式",
-      "path": "2 - Source Material/AI/Lambda 表达式.md"
-    },
-    {
-      "basename": "接口和抽象类",
-      "path": "6 - Main Notes/接口和抽象类.md"
-    },
-    {
-      "basename": "02SCRUM过程中每个过程的目的",
-      "path": "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md"
-    },
-    {
-      "basename": "03常见开发过程一览",
-      "path": "2 - Source Material/AI/03常见开发过程一览.md"
-    },
-    {
-      "basename": "匿名内部类(Anonymous Inner Class)",
-      "path": "6 - Main Notes/匿名内部类(Anonymous Inner Class).md"
-    },
-    {
-      "basename": "java中创建类为什么需要实现接口或者继承父类",
-      "path": "6 - Main Notes/java中创建类为什么需要实现接口或者继承父类.md"
-    },
-    {
-      "basename": "为什么匿名内部类必须实现接口或继承父类",
-      "path": "2 - Source Material/AI/为什么匿名内部类必须实现接口或继承父类.md"
     }
   ],
   "omittedPaths": [],
