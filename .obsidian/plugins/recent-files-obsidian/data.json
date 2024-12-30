@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "BufferedReader和BufferedWriter的作用",
+      "path": "2 - Source Material/AI/BufferedReader和BufferedWriter的作用.md"
+    },
+    {
+      "basename": "继承",
+      "path": "6 - Main Notes/继承.md"
+    },
+    {
+      "basename": "Java中访问权限的继承",
+      "path": "6 - Main Notes/Java中访问权限的继承.md"
+    },
+    {
+      "basename": "封装(Encapsulation)",
+      "path": "6 - Main Notes/封装(Encapsulation).md"
+    },
+    {
+      "basename": "Java 继承中访问权限的规则",
+      "path": "2 - Source Material/AI/Java 继承中访问权限的规则.md"
+    },
+    {
+      "basename": "Java中的访问权限(Scope)",
+      "path": "6 - Main Notes/Java中的访问权限(Scope).md"
+    },
+    {
+      "basename": "super关键字",
+      "path": "6 - Main Notes/super关键字.md"
+    },
+    {
+      "basename": "this关键字",
+      "path": "6 - Main Notes/this关键字.md"
+    },
+    {
+      "basename": "什么是构造方法",
+      "path": "2 - Source Material/AI/什么是构造方法.md"
+    },
+    {
+      "basename": "构造器(Constructor)",
+      "path": "构造方法/构造器(Constructor).md"
+    },
+    {
+      "basename": "this关键字和super关键字的用法",
+      "path": "2 - Source Material/AI/this关键字和super关键字的用法.md"
+    },
+    {
+      "basename": "this关键字和super关键字对比",
+      "path": "2 - Source Material/AI/this关键字和super关键字对比.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "3 - Tags/OOP.md"
+    },
+    {
+      "basename": "Lambda表达式简单理解",
+      "path": "6 - Main Notes/Lambda表达式简单理解.md"
+    },
+    {
+      "basename": "函数式编程(Functional Programming)",
+      "path": "6 - Main Notes/函数式编程(Functional Programming).md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "为什么需要封装(Encapsulation)",
+      "path": "6 - Main Notes/为什么需要封装(Encapsulation).md"
     },
     {
       "basename": "在java中多态是如何实现的",
@@ -135,70 +199,6 @@
     {
       "basename": "人与人无法相互理解",
       "path": "6 - Main Notes/人与人无法相互理解.md"
-    },
-    {
-      "basename": "逻辑的谬误",
-      "path": "6 - Main Notes/逻辑的谬误.md"
-    },
-    {
-      "basename": "蚂蚁们寒酸的胜利",
-      "path": "6 - Main Notes/蚂蚁们寒酸的胜利.md"
-    },
-    {
-      "basename": "别忘了在阿尔吉侬的坟头放上花束",
-      "path": "6 - Main Notes/别忘了在阿尔吉侬的坟头放上花束.md"
-    },
-    {
-      "basename": "献给阿尔吉侬的花束",
-      "path": "2 - Source Material/书籍/献给阿尔吉侬的花束.md"
-    },
-    {
-      "basename": "人都是会死的",
-      "path": "6 - Main Notes/人都是会死的.md"
-    },
-    {
-      "basename": "人都是会死的-波伏娃",
-      "path": "2 - Source Material/书籍/人都是会死的-波伏娃.md"
-    },
-    {
-      "basename": "局外人读后所想",
-      "path": "6 - Main Notes/局外人读后所想.md"
-    },
-    {
-      "basename": "局外人",
-      "path": "2 - Source Material/书籍/局外人.md"
-    },
-    {
-      "basename": "Albert Camus加缪",
-      "path": "3 - Tags/Albert Camus加缪.md"
-    },
-    {
-      "basename": "瞒着家里被退学，用学费生活费和网贷氪金游戏，还拿妈妈癌症去世的保险金去还网贷，买数码产品",
-      "path": "2 - Source Material/视频/瞒着家里被退学，用学费生活费和网贷氪金游戏，还拿妈妈癌症去世的保险金去还网贷，买数码产品.md"
-    },
-    {
-      "basename": "别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!)",
-      "path": "2 - Source Material/书籍/别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!).md"
-    },
-    {
-      "basename": "蛇喻多子多福",
-      "path": "1 - Rough Notes/蛇喻多子多福.md"
-    },
-    {
-      "basename": "sociology",
-      "path": "3 - Tags/sociology.md"
-    },
-    {
-      "basename": "新时代爱的多元性",
-      "path": "6 - Main Notes/新时代爱的多元性.md"
-    },
-    {
-      "basename": "thoughts",
-      "path": "3 - Tags/thoughts.md"
-    },
-    {
-      "basename": "01Scrum过程简介",
-      "path": "2 - Source Material/AI/01Scrum过程简介.md"
     }
   ],
   "omittedPaths": [],

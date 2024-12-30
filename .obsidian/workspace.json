@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "edf4f1852b5e1fa4",
+        "id": "e5f0b2de11bdab40",
         "type": "tabs",
         "children": [
           {
-            "id": "65c1d6a56c5b3fce",
+            "id": "c56cacfab22aa1f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/未命名.md",
+                "file": "2 - Source Material/AI/BufferedReader和BufferedWriter的作用.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "BufferedReader和BufferedWriter的作用"
             }
           }
         ]
@@ -184,11 +184,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7763411bc0754ae",
+  "active": "c56cacfab22aa1f4",
   "lastOpenFiles": [
+    "2 - Source Material/AI/BufferedReader和BufferedWriter的作用.md",
+    "6 - Main Notes/继承.md",
+    "6 - Main Notes/Java中访问权限的继承.md",
+    "6 - Main Notes/封装(Encapsulation).md",
+    "2 - Source Material/AI/Java 继承中访问权限的规则.md",
+    "6 - Main Notes/Java中的访问权限(Scope).md",
+    "6 - Main Notes/super关键字.md",
+    "6 - Main Notes/this关键字.md",
+    "2 - Source Material/AI/什么是构造方法.md",
+    "构造方法/构造器(Constructor).md",
+    "构造方法",
+    "2 - Source Material/AI/this关键字和super关键字的用法.md",
+    "2 - Source Material/AI/this关键字和super关键字对比.md",
+    "2 - Source Material/源码/Animals/Dog.java",
+    "2 - Source Material/源码/Animals/Animal.java",
+    "2 - Source Material/源码/Animals/Main.java",
+    "2 - Source Material/源码/Animals",
+    "3 - Tags/OOP.md",
+    "6 - Main Notes/Lambda表达式简单理解.md",
+    "6 - Main Notes/函数式编程(Functional Programming).md",
+    "3 - Tags/Java.md",
+    "6 - Main Notes/为什么需要封装(Encapsulation).md",
     "2 - Source Material/AI/在java中多态是如何实现的.md",
     "6 - Main Notes/What is Polymorphism.md",
-    "6 - Main Notes/未命名.md",
     "6 - Main Notes/向上转型(Upcasting).md",
     "2 - Source Material/AI/为什么不使用Object作为引用类型.md",
     "6 - Main Notes/多态(Polymorphism).md",
@@ -196,22 +217,6 @@
     "6 - Main Notes/方法重载(Method Overloading).md",
     "6 - Main Notes/方法重写(Method Overriding).md",
     "5 - Templates/Template-Main Note.md",
-    "2 - Source Material/AI/什么是多态, 为什么我们需要多态.md",
-    "6 - Main Notes/超前学习的结果是超前放弃.md",
-    "1 - Rough Notes/对学习的恐惧.md",
-    "6 - Main Notes/baby.md",
-    "6 - Main Notes/接口和抽象类.md",
-    "3 - Tags/talk with ai.md",
-    "6 - Main Notes/烦恼是被允许的.md",
-    "6 - Main Notes/为什么推荐使用语音来记录信息.md",
-    "6 - Main Notes/什么是好的Presentation.md",
-    "6 - Main Notes/有限与无限.md",
-    "6 - Main Notes/计算机七大思想.md",
-    "6 - Main Notes/学生终究会超越老师.md",
-    "6 - Main Notes/时间刻上你的皱纹, 阅读留下书的折痕.md",
-    "6 - Main Notes/对时间的利用.md",
-    "6 - Main Notes/为什么要去做不起眼的事.md",
-    "2 - Source Material/文章/有的人-臧克家.md",
     "7 - Resources/1FAFBF9A.png",
     "7 - Resources/Pasted image 20241228232052.png",
     "7 - Resources/详细的user表设计.png",
@@ -224,11 +229,6 @@
     "9 - AI-Chat-Log",
     "7 - Resources/Pasted image 20241205223721.png",
     "8 - Textbook Notes",
-    "6 - Main Notes/网络",
-    "6 - Main Notes/知识锦囊",
-    "6 - Main Notes/JAVA/CentralNode/CONCEPTION",
-    "2 - Source Material/AI/TOOLS",
-    "2 - Source Material/AI/CentralNode",
     "7 - Resources/Pasted image 20241205225849.png",
     "7 - Resources/Pasted image 20241205224214.png",
     "未命名.canvas",
