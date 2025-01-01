@@ -1,6 +1,158 @@
 {
   "recentFiles": [
     {
+      "basename": "软件开发模型",
+      "path": "6 - Main Notes/软件开发模型.md"
+    },
+    {
+      "basename": "Scrum",
+      "path": "6 - Main Notes/Scrum.md"
+    },
+    {
+      "basename": "敏捷模型(敏捷开发)(Agile Model)",
+      "path": "6 - Main Notes/敏捷模型(敏捷开发)(Agile Model).md"
+    },
+    {
+      "basename": "敏捷宣言",
+      "path": "2 - Source Material/文章/敏捷宣言.md"
+    },
+    {
+      "basename": "为什么叫做敏捷开发",
+      "path": "2 - Source Material/AI/为什么叫做敏捷开发.md"
+    },
+    {
+      "basename": "敏捷开发的简单介绍",
+      "path": "2 - Source Material/AI/敏捷开发的简单介绍.md"
+    },
+    {
+      "basename": "什么是螺旋开发模型",
+      "path": "2 - Source Material/AI/什么是螺旋开发模型.md"
+    },
+    {
+      "basename": "螺旋模型(Spiral Model)",
+      "path": "6 - Main Notes/螺旋模型(Spiral Model).md"
+    },
+    {
+      "basename": "瀑布模型(Waterfall Model)",
+      "path": "6 - Main Notes/瀑布模型(Waterfall Model).md"
+    },
+    {
+      "basename": "边写边改(Code-and-Fix Model)",
+      "path": "6 - Main Notes/边写边改(Code-and-Fix Model).md"
+    },
+    {
+      "basename": "大爆炸模式(Big Bang Model)",
+      "path": "6 - Main Notes/大爆炸模式(Big Bang Model).md"
+    },
+    {
+      "basename": "几种常见的软件开发模型",
+      "path": "2 - Source Material/AI/几种常见的软件开发模型.md"
+    },
+    {
+      "basename": "为什么会有这么多软件开发模型",
+      "path": "2 - Source Material/AI/为什么会有这么多软件开发模型.md"
+    },
+    {
+      "basename": "软件测试的分类",
+      "path": "6 - Main Notes/软件测试的分类.md"
+    },
+    {
+      "basename": "测试用例的设计",
+      "path": "6 - Main Notes/测试用例的设计.md"
+    },
+    {
+      "basename": "软件缺陷(Software Defect)",
+      "path": "6 - Main Notes/软件缺陷(Software Defect).md"
+    },
+    {
+      "basename": "BUG的历史",
+      "path": "6 - Main Notes/BUG的历史.md"
+    },
+    {
+      "basename": "如何写出好的测试用例",
+      "path": "2 - Source Material/AI/如何写出好的测试用例.md"
+    },
+    {
+      "basename": "软件调试(Software Debugging)",
+      "path": "6 - Main Notes/软件调试(Software Debugging).md"
+    },
+    {
+      "basename": "软件缺陷和软件调试",
+      "path": "2 - Source Material/AI/软件缺陷和软件调试.md"
+    },
+    {
+      "basename": "软件测试(Software Testing)",
+      "path": "3 - Tags/软件测试(Software Testing).md"
+    },
+    {
+      "basename": "AOP",
+      "path": "3 - Tags/AOP.md"
+    },
+    {
+      "basename": "Albert Camus加缪",
+      "path": "3 - Tags/Albert Camus加缪.md"
+    },
+    {
+      "basename": "景色印象",
+      "path": "3 - Tags/景色印象.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "4 - Indexes/Philosophy.md"
+    },
+    {
+      "basename": "有关于卢曼卡片笔记盒",
+      "path": "6 - Main Notes/有关于卢曼卡片笔记盒.md"
+    },
+    {
+      "basename": "Software",
+      "path": "3 - Tags/Software.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "4 - Indexes/Software Engineering.md"
+    },
+    {
+      "basename": "超前学习的结果是超前放弃",
+      "path": "6 - Main Notes/超前学习的结果是超前放弃.md"
+    },
+    {
+      "basename": "第2章 数据的机器层次表示",
+      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+    },
+    {
+      "basename": "第1章 计算机系统概述",
+      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
+    },
+    {
+      "basename": "第0章-规划-计算机组成原理",
+      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
+    },
+    {
+      "basename": "白鸽子黑鸽子",
+      "path": "6 - Main Notes/白鸽子黑鸽子.md"
+    },
+    {
+      "basename": "构造器(Constructor)",
+      "path": "6 - Main Notes/构造器(Constructor).md"
+    },
+    {
+      "basename": "类的实例化",
+      "path": "6 - Main Notes/类的实例化.md"
+    },
+    {
+      "basename": "构造方法简单理解",
+      "path": "6 - Main Notes/构造方法简单理解.md"
+    },
+    {
+      "basename": "我们是否提倡构造方法的使用",
+      "path": "2 - Source Material/AI/我们是否提倡构造方法的使用.md"
+    },
+    {
+      "basename": "蚱蜢 一书中对于游戏态度的论述",
+      "path": "2 - Source Material/AI/蚱蜢 一书中对于游戏态度的论述.md"
+    },
+    {
       "basename": "BufferedReader和BufferedWriter的作用",
       "path": "2 - Source Material/AI/BufferedReader和BufferedWriter的作用.md"
     },
@@ -37,10 +189,6 @@
       "path": "2 - Source Material/AI/什么是构造方法.md"
     },
     {
-      "basename": "构造器(Constructor)",
-      "path": "构造方法/构造器(Constructor).md"
-    },
-    {
       "basename": "this关键字和super关键字的用法",
       "path": "2 - Source Material/AI/this关键字和super关键字的用法.md"
     },
@@ -51,154 +199,6 @@
     {
       "basename": "OOP",
       "path": "3 - Tags/OOP.md"
-    },
-    {
-      "basename": "Lambda表达式简单理解",
-      "path": "6 - Main Notes/Lambda表达式简单理解.md"
-    },
-    {
-      "basename": "函数式编程(Functional Programming)",
-      "path": "6 - Main Notes/函数式编程(Functional Programming).md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
-    },
-    {
-      "basename": "为什么需要封装(Encapsulation)",
-      "path": "6 - Main Notes/为什么需要封装(Encapsulation).md"
-    },
-    {
-      "basename": "在java中多态是如何实现的",
-      "path": "2 - Source Material/AI/在java中多态是如何实现的.md"
-    },
-    {
-      "basename": "What is Polymorphism",
-      "path": "6 - Main Notes/What is Polymorphism.md"
-    },
-    {
-      "basename": "向上转型(Upcasting)",
-      "path": "6 - Main Notes/向上转型(Upcasting).md"
-    },
-    {
-      "basename": "为什么不使用Object作为引用类型",
-      "path": "2 - Source Material/AI/为什么不使用Object作为引用类型.md"
-    },
-    {
-      "basename": "多态(Polymorphism)",
-      "path": "6 - Main Notes/多态(Polymorphism).md"
-    },
-    {
-      "basename": "Java中如何实现多态",
-      "path": "6 - Main Notes/Java中如何实现多态.md"
-    },
-    {
-      "basename": "方法重载(Method Overloading)",
-      "path": "6 - Main Notes/方法重载(Method Overloading).md"
-    },
-    {
-      "basename": "方法重写(Method Overriding)",
-      "path": "6 - Main Notes/方法重写(Method Overriding).md"
-    },
-    {
-      "basename": "Template-Main Note",
-      "path": "5 - Templates/Template-Main Note.md"
-    },
-    {
-      "basename": "什么是多态, 为什么我们需要多态",
-      "path": "2 - Source Material/AI/什么是多态, 为什么我们需要多态.md"
-    },
-    {
-      "basename": "超前学习的结果是超前放弃",
-      "path": "6 - Main Notes/超前学习的结果是超前放弃.md"
-    },
-    {
-      "basename": "对学习的恐惧",
-      "path": "1 - Rough Notes/对学习的恐惧.md"
-    },
-    {
-      "basename": "baby",
-      "path": "6 - Main Notes/baby.md"
-    },
-    {
-      "basename": "接口和抽象类",
-      "path": "6 - Main Notes/接口和抽象类.md"
-    },
-    {
-      "basename": "talk with ai",
-      "path": "3 - Tags/talk with ai.md"
-    },
-    {
-      "basename": "烦恼是被允许的",
-      "path": "6 - Main Notes/烦恼是被允许的.md"
-    },
-    {
-      "basename": "为什么推荐使用语音来记录信息",
-      "path": "6 - Main Notes/为什么推荐使用语音来记录信息.md"
-    },
-    {
-      "basename": "什么是好的Presentation",
-      "path": "6 - Main Notes/什么是好的Presentation.md"
-    },
-    {
-      "basename": "有限与无限",
-      "path": "6 - Main Notes/有限与无限.md"
-    },
-    {
-      "basename": "计算机七大思想",
-      "path": "6 - Main Notes/计算机七大思想.md"
-    },
-    {
-      "basename": "学生终究会超越老师",
-      "path": "6 - Main Notes/学生终究会超越老师.md"
-    },
-    {
-      "basename": "时间刻上你的皱纹, 阅读留下书的折痕",
-      "path": "6 - Main Notes/时间刻上你的皱纹, 阅读留下书的折痕.md"
-    },
-    {
-      "basename": "对时间的利用",
-      "path": "6 - Main Notes/对时间的利用.md"
-    },
-    {
-      "basename": "为什么要去做不起眼的事",
-      "path": "6 - Main Notes/为什么要去做不起眼的事.md"
-    },
-    {
-      "basename": "有的人-臧克家",
-      "path": "2 - Source Material/文章/有的人-臧克家.md"
-    },
-    {
-      "basename": "无法控制的学习",
-      "path": "6 - Main Notes/无法控制的学习.md"
-    },
-    {
-      "basename": "关于天赋的确认",
-      "path": "6 - Main Notes/关于天赋的确认.md"
-    },
-    {
-      "basename": "有限的学校 无限的学习",
-      "path": "6 - Main Notes/有限的学校 无限的学习.md"
-    },
-    {
-      "basename": "白鸽子黑鸽子",
-      "path": "6 - Main Notes/白鸽子黑鸽子.md"
-    },
-    {
-      "basename": "景色印象",
-      "path": "3 - Tags/景色印象.md"
-    },
-    {
-      "basename": "绝不要携带两个时钟出海, 带一个或者三个",
-      "path": "6 - Main Notes/绝不要携带两个时钟出海, 带一个或者三个.md"
-    },
-    {
-      "basename": "团队合作中最有价值的是工作产品",
-      "path": "6 - Main Notes/团队合作中最有价值的是工作产品.md"
-    },
-    {
-      "basename": "人与人无法相互理解",
-      "path": "6 - Main Notes/人与人无法相互理解.md"
     }
   ],
   "omittedPaths": [],
