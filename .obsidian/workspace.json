@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbc6cb453c370165",
+            "id": "ee8df6118b2c54e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md",
+                "file": "6 - Main Notes/寄存器(Register).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第0章-规划-计算机组成原理"
-            }
-          },
-          {
-            "id": "89a98ca2811101fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第2章 数据的机器层次表示"
+              "title": "寄存器(Register)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "缺陷",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
+                "file": "6 - Main Notes/寄存器(Register).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "第2章 数据的机器层次表示 的反向链接列表"
+              "title": "寄存器(Register) 的反向链接列表"
             }
           },
           {
@@ -152,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
+                "file": "6 - Main Notes/IEEE 745 标准浮点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第2章 数据的机器层次表示 的出链列表"
+              "title": "IEEE 745 标准浮点数 的出链列表"
             }
           },
           {
@@ -176,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+                "file": "6 - Main Notes/IEEE 745 标准浮点数.md"
               },
               "icon": "lucide-list",
-              "title": "第2章 数据的机器层次表示 的大纲"
+              "title": "IEEE 745 标准浮点数 的大纲"
             }
           }
         ],
@@ -187,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +185,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8bf1b9e01c263a2",
+  "active": "c7763411bc0754ae",
   "lastOpenFiles": [
+    "6 - Main Notes/基地址(Base Address).md",
+    "2 - Source Material/AI/什么是基地址.md",
+    "6 - Main Notes/寄存器(Register).md",
+    "2 - Source Material/AI/有哪些常见的寄存器.md",
+    "3 - Tags/Computer Science.md",
+    "6 - Main Notes/IEEE 754 标准浮点数.md",
+    "2 - Source Material/AI/IEEE 754浮点数中的指数为什么使用偏置方式存储.md",
+    "4 - Indexes/Software Engineering.md",
+    "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md",
+    "6 - Main Notes/为什么使用反码+1计算补码.md",
+    "6 - Main Notes/幂等(Idempotent).md",
+    "2 - Source Material/AI/Booth乘法是什么.md",
     "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md",
+    "2 - Source Material/AI/冯诺依曼结构和哈佛结构.md",
+    "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md",
+    "2 - Source Material/AI/01Scrum过程简介.md",
+    "2 - Source Material/AI/什么是增量测试.md",
+    "6 - Main Notes/增量测试.md",
+    "2 - Source Material/AI/增量测试中的 增量 体现在哪里.md",
+    "3 - Tags/软件测试(Software Testing).md",
+    "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
     "2 - Source Material/视频/为什么茴的四种写法是糟粕，而羧酸的五种合成法是考点.md",
     "6 - Main Notes/单元测试.md",
     "2 - Source Material/AI/什么是单元测试.md",
     "2 - Source Material/AI/如何做好单元测试(Unit Testing).md",
-    "3 - Tags/软件测试(Software Testing).md",
-    "6 - Main Notes/增量测试.md",
     "2 - Source Material/AI/等价类划分法中的强组合和弱组合.md",
-    "6 - Main Notes/黑盒测试.md",
-    "2 - Source Material/AI/翻译模块.md",
-    "6 - Main Notes/测试用例的设计.md",
-    "2 - Source Material/AI/测试环境搭建所遵循的四原则.md",
-    "6 - Main Notes/软件测试的分类.md",
-    "6 - Main Notes/测试环境.md",
-    "6 - Main Notes/软件危机.md",
-    "2 - Source Material/AI/CMM模型是何时诞生的.md",
-    "6 - Main Notes/CMM(Capability Maturity Model, 能力成熟度模型).md",
-    "2 - Source Material/AI/软件测试环境需要什么.md",
-    "2 - Source Material/AI/CMM模型的五个等级.md",
-    "2 - Source Material/AI/什么是CMM模型.md",
-    "2 - Source Material/AI/软件质量标准.md",
-    "2 - Source Material/AI/如何设计桩模块.md",
-    "2 - Source Material/AI/增量测试中的 增量 体现在哪里.md",
-    "6 - Main Notes/桩模块(Stubs).md",
-    "2 - Source Material/AI/为什么叫做敏捷开发.md",
-    "2 - Source Material/AI/如何写出好的测试用例.md",
     "7 - Resources/Pasted image 20250102110832.png",
     "7 - Resources/Pasted image 20250102110644.png",
     "7 - Resources/Pasted image 20250102110515.png",

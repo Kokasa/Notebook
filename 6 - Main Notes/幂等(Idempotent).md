@@ -1,7 +1,7 @@
 2024-12-28    16:52
 
 status: #adult 
-tags: [[Math]], [[Computer Science]]
+tags: [[Math]]
 
 
 # 幂等(Idempotent)
