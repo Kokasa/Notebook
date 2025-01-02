@@ -1,76 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "软件开发模型",
-      "path": "6 - Main Notes/软件开发模型.md"
+      "basename": "第2章 数据的机器层次表示",
+      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
     },
     {
-      "basename": "Scrum",
-      "path": "6 - Main Notes/Scrum.md"
+      "basename": "第0章-规划-计算机组成原理",
+      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
     },
     {
-      "basename": "敏捷模型(敏捷开发)(Agile Model)",
-      "path": "6 - Main Notes/敏捷模型(敏捷开发)(Agile Model).md"
+      "basename": "为什么茴的四种写法是糟粕，而羧酸的五种合成法是考点",
+      "path": "2 - Source Material/视频/为什么茴的四种写法是糟粕，而羧酸的五种合成法是考点.md"
     },
     {
-      "basename": "敏捷宣言",
-      "path": "2 - Source Material/文章/敏捷宣言.md"
+      "basename": "单元测试",
+      "path": "6 - Main Notes/单元测试.md"
     },
     {
-      "basename": "为什么叫做敏捷开发",
-      "path": "2 - Source Material/AI/为什么叫做敏捷开发.md"
+      "basename": "什么是单元测试",
+      "path": "2 - Source Material/AI/什么是单元测试.md"
     },
     {
-      "basename": "敏捷开发的简单介绍",
-      "path": "2 - Source Material/AI/敏捷开发的简单介绍.md"
+      "basename": "如何做好单元测试(Unit Testing)",
+      "path": "2 - Source Material/AI/如何做好单元测试(Unit Testing).md"
     },
     {
-      "basename": "什么是螺旋开发模型",
-      "path": "2 - Source Material/AI/什么是螺旋开发模型.md"
+      "basename": "软件测试(Software Testing)",
+      "path": "3 - Tags/软件测试(Software Testing).md"
     },
     {
-      "basename": "螺旋模型(Spiral Model)",
-      "path": "6 - Main Notes/螺旋模型(Spiral Model).md"
+      "basename": "增量测试",
+      "path": "6 - Main Notes/增量测试.md"
     },
     {
-      "basename": "瀑布模型(Waterfall Model)",
-      "path": "6 - Main Notes/瀑布模型(Waterfall Model).md"
+      "basename": "等价类划分法中的强组合和弱组合",
+      "path": "2 - Source Material/AI/等价类划分法中的强组合和弱组合.md"
     },
     {
-      "basename": "边写边改(Code-and-Fix Model)",
-      "path": "6 - Main Notes/边写边改(Code-and-Fix Model).md"
+      "basename": "黑盒测试",
+      "path": "6 - Main Notes/黑盒测试.md"
     },
     {
-      "basename": "大爆炸模式(Big Bang Model)",
-      "path": "6 - Main Notes/大爆炸模式(Big Bang Model).md"
-    },
-    {
-      "basename": "几种常见的软件开发模型",
-      "path": "2 - Source Material/AI/几种常见的软件开发模型.md"
-    },
-    {
-      "basename": "为什么会有这么多软件开发模型",
-      "path": "2 - Source Material/AI/为什么会有这么多软件开发模型.md"
-    },
-    {
-      "basename": "软件测试的分类",
-      "path": "6 - Main Notes/软件测试的分类.md"
+      "basename": "翻译模块",
+      "path": "2 - Source Material/AI/翻译模块.md"
     },
     {
       "basename": "测试用例的设计",
       "path": "6 - Main Notes/测试用例的设计.md"
     },
     {
-      "basename": "软件缺陷(Software Defect)",
-      "path": "6 - Main Notes/软件缺陷(Software Defect).md"
+      "basename": "测试环境搭建所遵循的四原则",
+      "path": "2 - Source Material/AI/测试环境搭建所遵循的四原则.md"
     },
     {
-      "basename": "BUG的历史",
-      "path": "6 - Main Notes/BUG的历史.md"
+      "basename": "软件测试的分类",
+      "path": "6 - Main Notes/软件测试的分类.md"
+    },
+    {
+      "basename": "测试环境",
+      "path": "6 - Main Notes/测试环境.md"
+    },
+    {
+      "basename": "软件危机",
+      "path": "6 - Main Notes/软件危机.md"
+    },
+    {
+      "basename": "CMM模型是何时诞生的",
+      "path": "2 - Source Material/AI/CMM模型是何时诞生的.md"
+    },
+    {
+      "basename": "CMM(Capability Maturity Model, 能力成熟度模型)",
+      "path": "6 - Main Notes/CMM(Capability Maturity Model, 能力成熟度模型).md"
+    },
+    {
+      "basename": "软件测试环境需要什么",
+      "path": "2 - Source Material/AI/软件测试环境需要什么.md"
+    },
+    {
+      "basename": "CMM模型的五个等级",
+      "path": "2 - Source Material/AI/CMM模型的五个等级.md"
+    },
+    {
+      "basename": "什么是CMM模型",
+      "path": "2 - Source Material/AI/什么是CMM模型.md"
+    },
+    {
+      "basename": "软件质量标准",
+      "path": "2 - Source Material/AI/软件质量标准.md"
+    },
+    {
+      "basename": "如何设计桩模块",
+      "path": "2 - Source Material/AI/如何设计桩模块.md"
+    },
+    {
+      "basename": "增量测试中的 增量 体现在哪里",
+      "path": "2 - Source Material/AI/增量测试中的 增量 体现在哪里.md"
+    },
+    {
+      "basename": "桩模块(Stubs)",
+      "path": "6 - Main Notes/桩模块(Stubs).md"
+    },
+    {
+      "basename": "为什么叫做敏捷开发",
+      "path": "2 - Source Material/AI/为什么叫做敏捷开发.md"
     },
     {
       "basename": "如何写出好的测试用例",
       "path": "2 - Source Material/AI/如何写出好的测试用例.md"
+    },
+    {
+      "basename": "03常见开发过程一览",
+      "path": "2 - Source Material/AI/03常见开发过程一览.md"
+    },
+    {
+      "basename": "因果图中的约束",
+      "path": "2 - Source Material/AI/因果图中的约束.md"
     },
     {
       "basename": "软件调试(Software Debugging)",
@@ -81,124 +125,80 @@
       "path": "2 - Source Material/AI/软件缺陷和软件调试.md"
     },
     {
-      "basename": "软件测试(Software Testing)",
-      "path": "3 - Tags/软件测试(Software Testing).md"
+      "basename": "四种软件测试过程模型简单介绍",
+      "path": "2 - Source Material/AI/四种软件测试过程模型简单介绍.md"
     },
     {
-      "basename": "AOP",
-      "path": "3 - Tags/AOP.md"
+      "basename": "什么是螺旋开发模型",
+      "path": "2 - Source Material/AI/什么是螺旋开发模型.md"
     },
     {
-      "basename": "Albert Camus加缪",
-      "path": "3 - Tags/Albert Camus加缪.md"
+      "basename": "什么是增量测试",
+      "path": "2 - Source Material/AI/什么是增量测试.md"
     },
     {
-      "basename": "景色印象",
-      "path": "3 - Tags/景色印象.md"
+      "basename": "等价类划分法",
+      "path": "6 - Main Notes/等价类划分法.md"
     },
     {
-      "basename": "Philosophy",
-      "path": "4 - Indexes/Philosophy.md"
+      "basename": "什么是黑盒测试",
+      "path": "2 - Source Material/AI/什么是黑盒测试.md"
     },
     {
-      "basename": "有关于卢曼卡片笔记盒",
-      "path": "6 - Main Notes/有关于卢曼卡片笔记盒.md"
+      "basename": "为什么黑盒测试又被称为功能测试或数据驱动测试",
+      "path": "6 - Main Notes/为什么黑盒测试又被称为功能测试或数据驱动测试.md"
     },
     {
-      "basename": "Software",
-      "path": "3 - Tags/Software.md"
+      "basename": "强组合弱组合以及单缺陷假设多缺陷假设",
+      "path": "2 - Source Material/AI/强组合弱组合以及单缺陷假设多缺陷假设.md"
     },
     {
-      "basename": "Software Engineering",
-      "path": "4 - Indexes/Software Engineering.md"
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
     },
     {
-      "basename": "超前学习的结果是超前放弃",
-      "path": "6 - Main Notes/超前学习的结果是超前放弃.md"
+      "basename": "驱动模块(Drivers)",
+      "path": "6 - Main Notes/驱动模块(Drivers).md"
     },
     {
-      "basename": "第2章 数据的机器层次表示",
-      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+      "basename": "如何设计驱动模块",
+      "path": "2 - Source Material/AI/如何设计驱动模块.md"
     },
     {
-      "basename": "第1章 计算机系统概述",
-      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
+      "basename": "增量测试以外的常见测试方法",
+      "path": "6 - Main Notes/增量测试以外的常见测试方法.md"
     },
     {
-      "basename": "第0章-规划-计算机组成原理",
-      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
+      "basename": "软件开发过程的生命周期",
+      "path": "6 - Main Notes/软件开发过程的生命周期.md"
     },
     {
-      "basename": "白鸽子黑鸽子",
-      "path": "6 - Main Notes/白鸽子黑鸽子.md"
+      "basename": "软件开发模型",
+      "path": "6 - Main Notes/软件开发模型.md"
     },
     {
-      "basename": "构造器(Constructor)",
-      "path": "6 - Main Notes/构造器(Constructor).md"
+      "basename": "写出好的缺陷报告",
+      "path": "6 - Main Notes/写出好的缺陷报告.md"
     },
     {
-      "basename": "类的实例化",
-      "path": "6 - Main Notes/类的实例化.md"
+      "basename": "软件缺陷(Software Defect)",
+      "path": "6 - Main Notes/软件缺陷(Software Defect).md"
     },
     {
-      "basename": "构造方法简单理解",
-      "path": "6 - Main Notes/构造方法简单理解.md"
+      "basename": "输入字段和输出字段(Input field, Output field)",
+      "path": "2 - Source Material/AI/输入字段和输出字段(Input field, Output field).md"
     },
     {
-      "basename": "我们是否提倡构造方法的使用",
-      "path": "2 - Source Material/AI/我们是否提倡构造方法的使用.md"
+      "basename": "软件需求规格说明书(Software Requirements Specification, SRS)",
+      "path": "6 - Main Notes/软件需求规格说明书(Software Requirements Specification, SRS).md"
     },
     {
-      "basename": "蚱蜢 一书中对于游戏态度的论述",
-      "path": "2 - Source Material/AI/蚱蜢 一书中对于游戏态度的论述.md"
+      "basename": "大爆炸模式(Big Bang Model)",
+      "path": "6 - Main Notes/大爆炸模式(Big Bang Model).md"
     },
     {
-      "basename": "BufferedReader和BufferedWriter的作用",
-      "path": "2 - Source Material/AI/BufferedReader和BufferedWriter的作用.md"
-    },
-    {
-      "basename": "继承",
-      "path": "6 - Main Notes/继承.md"
-    },
-    {
-      "basename": "Java中访问权限的继承",
-      "path": "6 - Main Notes/Java中访问权限的继承.md"
-    },
-    {
-      "basename": "封装(Encapsulation)",
-      "path": "6 - Main Notes/封装(Encapsulation).md"
-    },
-    {
-      "basename": "Java 继承中访问权限的规则",
-      "path": "2 - Source Material/AI/Java 继承中访问权限的规则.md"
-    },
-    {
-      "basename": "Java中的访问权限(Scope)",
-      "path": "6 - Main Notes/Java中的访问权限(Scope).md"
-    },
-    {
-      "basename": "super关键字",
-      "path": "6 - Main Notes/super关键字.md"
-    },
-    {
-      "basename": "this关键字",
-      "path": "6 - Main Notes/this关键字.md"
-    },
-    {
-      "basename": "什么是构造方法",
-      "path": "2 - Source Material/AI/什么是构造方法.md"
-    },
-    {
-      "basename": "this关键字和super关键字的用法",
-      "path": "2 - Source Material/AI/this关键字和super关键字的用法.md"
-    },
-    {
-      "basename": "this关键字和super关键字对比",
-      "path": "2 - Source Material/AI/this关键字和super关键字对比.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "3 - Tags/OOP.md"
+      "basename": "几种常见的软件开发模型",
+      "path": "2 - Source Material/AI/几种常见的软件开发模型.md"
     }
   ],
   "omittedPaths": [],
