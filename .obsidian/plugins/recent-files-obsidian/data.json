@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算",
+      "path": "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md"
+    },
+    {
+      "basename": "精简指令集计算机(Reduced Instruction Set Computer)",
+      "path": "6 - Main Notes/精简指令集计算机(Reduced Instruction Set Computer).md"
+    },
+    {
+      "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
+      "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
+    },
+    {
+      "basename": "寻址方式",
+      "path": "6 - Main Notes/寻址方式.md"
+    },
+    {
+      "basename": "偏移寻址方式",
+      "path": "6 - Main Notes/偏移寻址方式.md"
+    },
+    {
+      "basename": "堆栈指针(Stack Pointer, SP)",
+      "path": "6 - Main Notes/堆栈指针(Stack Pointer, SP).md"
+    },
+    {
+      "basename": "内存管理单元(MMU)",
+      "path": "6 - Main Notes/内存管理单元(MMU).md"
+    },
+    {
+      "basename": "寻址和编址",
+      "path": "2 - Source Material/AI/寻址和编址.md"
+    },
+    {
+      "basename": "深度剖析计算机机器指令的组成",
+      "path": "2 - Source Material/AI/深度剖析计算机机器指令的组成.md"
+    },
+    {
       "basename": "拓展操作码",
       "path": "6 - Main Notes/拓展操作码.md"
+    },
+    {
+      "basename": "拓展操作码是如何实现的",
+      "path": "2 - Source Material/AI/拓展操作码是如何实现的.md"
     },
     {
       "basename": "有趣的拓展操作码",
@@ -11,10 +51,6 @@
     {
       "basename": "机器指令中的操作码, 以及操作码长度不固定时需要做什么",
       "path": "2 - Source Material/AI/机器指令中的操作码, 以及操作码长度不固定时需要做什么.md"
-    },
-    {
-      "basename": "寻址方式",
-      "path": "6 - Main Notes/寻址方式.md"
     },
     {
       "basename": "累加器(Accumulate, Acc)",
@@ -43,10 +79,6 @@
     {
       "basename": "什么是程序计数器(PC)",
       "path": "2 - Source Material/AI/什么是程序计数器(PC).md"
-    },
-    {
-      "basename": "深度剖析计算机机器指令的组成",
-      "path": "2 - Source Material/AI/深度剖析计算机机器指令的组成.md"
     },
     {
       "basename": "机器指令是什么, 和汇编语言有什么关系",
