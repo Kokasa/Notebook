@@ -1,6 +1,138 @@
 {
   "recentFiles": [
     {
+      "basename": "拓展操作码",
+      "path": "6 - Main Notes/拓展操作码.md"
+    },
+    {
+      "basename": "有趣的拓展操作码",
+      "path": "2 - Source Material/AI/有趣的拓展操作码.md"
+    },
+    {
+      "basename": "机器指令中的操作码, 以及操作码长度不固定时需要做什么",
+      "path": "2 - Source Material/AI/机器指令中的操作码, 以及操作码长度不固定时需要做什么.md"
+    },
+    {
+      "basename": "寻址方式",
+      "path": "6 - Main Notes/寻址方式.md"
+    },
+    {
+      "basename": "累加器(Accumulate, Acc)",
+      "path": "6 - Main Notes/累加器(Accumulate, Acc).md"
+    },
+    {
+      "basename": "机器指令",
+      "path": "6 - Main Notes/机器指令.md"
+    },
+    {
+      "basename": "CPU中央处理器结构",
+      "path": "3 - Tags/CPU中央处理器结构.md"
+    },
+    {
+      "basename": "累加器是什么, 如何参与到机器指令的工作中",
+      "path": "2 - Source Material/AI/累加器是什么, 如何参与到机器指令的工作中.md"
+    },
+    {
+      "basename": "程序计数器(Program Counter, PC)",
+      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
+    },
+    {
+      "basename": "PC如何指向下一条指令",
+      "path": "2 - Source Material/AI/PC如何指向下一条指令.md"
+    },
+    {
+      "basename": "什么是程序计数器(PC)",
+      "path": "2 - Source Material/AI/什么是程序计数器(PC).md"
+    },
+    {
+      "basename": "深度剖析计算机机器指令的组成",
+      "path": "2 - Source Material/AI/深度剖析计算机机器指令的组成.md"
+    },
+    {
+      "basename": "机器指令是什么, 和汇编语言有什么关系",
+      "path": "2 - Source Material/AI/机器指令是什么, 和汇编语言有什么关系.md"
+    },
+    {
+      "basename": "算数逻辑单元(Arithmetic Logic Unit, ALU)",
+      "path": "6 - Main Notes/算数逻辑单元(Arithmetic Logic Unit, ALU).md"
+    },
+    {
+      "basename": "补码",
+      "path": "6 - Main Notes/补码.md"
+    },
+    {
+      "basename": "二进制乘法",
+      "path": "6 - Main Notes/二进制乘法.md"
+    },
+    {
+      "basename": "计算机算数",
+      "path": "3 - Tags/计算机算数.md"
+    },
+    {
+      "basename": "二进制算数移位运算",
+      "path": "6 - Main Notes/二进制算数移位运算.md"
+    },
+    {
+      "basename": "游戏精神",
+      "path": "6 - Main Notes/游戏精神.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "计算机组成原理(第三版)-蒋本珊著",
+      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
+    },
+    {
+      "basename": "定长整数补码和反码的范围详解",
+      "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
+    },
+    {
+      "basename": "为什么同一个机器数表示补码时范围比反码大",
+      "path": "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md"
+    },
+    {
+      "basename": "我对于计算机使用补码表示法的理解",
+      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
+    },
+    {
+      "basename": "为什么使用反码+1计算补码",
+      "path": "6 - Main Notes/为什么使用反码+1计算补码.md"
+    },
+    {
+      "basename": "Computer Organization and Architecture",
+      "path": "2 - Source Material/书籍/Computer Organization and Architecture.md"
+    },
+    {
+      "basename": "基地址(Base Address)",
+      "path": "6 - Main Notes/基地址(Base Address).md"
+    },
+    {
+      "basename": "模运算(mod)以及在计算机领域中的应用",
+      "path": "2 - Source Material/AI/模运算(mod)以及在计算机领域中的应用.md"
+    },
+    {
+      "basename": "模运算(mod)的性质",
+      "path": "6 - Main Notes/模运算(mod)的性质.md"
+    },
+    {
+      "basename": "第2章 数据的机器层次表示",
+      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+    },
+    {
+      "basename": "第1章 计算机系统概述",
+      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
+    },
+    {
+      "basename": "第0章-规划-计算机组成原理",
+      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
+    },
+    {
+      "basename": "计算机组成原理期末冲刺",
+      "path": "6 - Main Notes/计算机组成原理期末冲刺.md"
+    },
+    {
       "basename": "寄存器(Register)",
       "path": "6 - Main Notes/寄存器(Register).md"
     }
