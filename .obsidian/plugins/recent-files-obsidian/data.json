@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "项目管理(Project Management)",
+      "path": "3 - Tags/项目管理(Project Management).md"
+    },
+    {
+      "basename": "项目启动阶段-产品构思",
+      "path": "6 - Main Notes/项目启动阶段-产品构思.md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "投资回收期",
+      "path": "6 - Main Notes/投资回收期.md"
+    },
+    {
+      "basename": "投资回报率(Return on Investment, ROI)",
+      "path": "6 - Main Notes/投资回报率(Return on Investment, ROI).md"
+    },
+    {
+      "basename": "什么是ROI",
+      "path": "2 - Source Material/AI/什么是ROI.md"
+    },
+    {
+      "basename": "净现值分析(Net Present Value, NPV)",
+      "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
+    },
+    {
+      "basename": "NPV的诞生",
+      "path": "6 - Main Notes/NPV的诞生.md"
+    },
+    {
+      "basename": "NPV是如何计算的",
+      "path": "2 - Source Material/AI/NPV是如何计算的.md"
+    },
+    {
+      "basename": "TVM在投资中的地位",
+      "path": "2 - Source Material/AI/TVM在投资中的地位.md"
+    },
+    {
+      "basename": "通货膨胀",
+      "path": "6 - Main Notes/通货膨胀.md"
+    },
+    {
+      "basename": "收益分析",
+      "path": "3 - Tags/收益分析.md"
+    },
+    {
+      "basename": "组织结构",
+      "path": "6 - Main Notes/组织结构.md"
+    },
+    {
+      "basename": "项目经理(Project Managers)",
+      "path": "6 - Main Notes/项目经理(Project Managers).md"
+    },
+    {
+      "basename": "IT(Information Technology, 信息技术)",
+      "path": "3 - Tags/IT(Information Technology, 信息技术).md"
+    },
+    {
+      "basename": "项目(Project)",
+      "path": "6 - Main Notes/项目(Project).md"
+    },
+    {
+      "basename": "CPU中主要的寄存器",
+      "path": "6 - Main Notes/CPU中主要的寄存器.md"
+    },
+    {
+      "basename": "深入浅出cpu中五种专用寄存器",
+      "path": "2 - Source Material/AI/深入浅出cpu中五种专用寄存器.md"
+    },
+    {
+      "basename": "CPU中央处理器",
+      "path": "3 - Tags/CPU中央处理器.md"
+    },
+    {
+      "basename": "程序计数器(Program Counter, PC)",
+      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
+    },
+    {
+      "basename": "十进制数和数串表示",
+      "path": "6 - Main Notes/十进制数和数串表示.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "寻址方式",
+      "path": "6 - Main Notes/寻址方式.md"
+    },
+    {
+      "basename": "如何自定义枚举映射",
+      "path": "2 - Source Material/AI/如何自定义枚举映射.md"
+    },
+    {
+      "basename": "关于天赋的确认",
+      "path": "6 - Main Notes/关于天赋的确认.md"
+    },
+    {
       "basename": "相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算",
       "path": "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md"
     },
@@ -11,10 +111,6 @@
     {
       "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
       "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
-    },
-    {
-      "basename": "寻址方式",
-      "path": "6 - Main Notes/寻址方式.md"
     },
     {
       "basename": "偏移寻址方式",
@@ -61,16 +157,8 @@
       "path": "6 - Main Notes/机器指令.md"
     },
     {
-      "basename": "CPU中央处理器结构",
-      "path": "3 - Tags/CPU中央处理器结构.md"
-    },
-    {
       "basename": "累加器是什么, 如何参与到机器指令的工作中",
       "path": "2 - Source Material/AI/累加器是什么, 如何参与到机器指令的工作中.md"
-    },
-    {
-      "basename": "程序计数器(Program Counter, PC)",
-      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
     },
     {
       "basename": "PC如何指向下一条指令",
@@ -109,64 +197,8 @@
       "path": "6 - Main Notes/游戏精神.md"
     },
     {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
-    },
-    {
       "basename": "计算机组成原理(第三版)-蒋本珊著",
       "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
-    },
-    {
-      "basename": "定长整数补码和反码的范围详解",
-      "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
-    },
-    {
-      "basename": "为什么同一个机器数表示补码时范围比反码大",
-      "path": "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md"
-    },
-    {
-      "basename": "我对于计算机使用补码表示法的理解",
-      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
-    },
-    {
-      "basename": "为什么使用反码+1计算补码",
-      "path": "6 - Main Notes/为什么使用反码+1计算补码.md"
-    },
-    {
-      "basename": "Computer Organization and Architecture",
-      "path": "2 - Source Material/书籍/Computer Organization and Architecture.md"
-    },
-    {
-      "basename": "基地址(Base Address)",
-      "path": "6 - Main Notes/基地址(Base Address).md"
-    },
-    {
-      "basename": "模运算(mod)以及在计算机领域中的应用",
-      "path": "2 - Source Material/AI/模运算(mod)以及在计算机领域中的应用.md"
-    },
-    {
-      "basename": "模运算(mod)的性质",
-      "path": "6 - Main Notes/模运算(mod)的性质.md"
-    },
-    {
-      "basename": "第2章 数据的机器层次表示",
-      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
-    },
-    {
-      "basename": "第1章 计算机系统概述",
-      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
-    },
-    {
-      "basename": "第0章-规划-计算机组成原理",
-      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
-    },
-    {
-      "basename": "计算机组成原理期末冲刺",
-      "path": "6 - Main Notes/计算机组成原理期末冲刺.md"
-    },
-    {
-      "basename": "寄存器(Register)",
-      "path": "6 - Main Notes/寄存器(Register).md"
     }
   ],
   "omittedPaths": [],

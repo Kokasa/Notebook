@@ -1,7 +1,7 @@
 2025-01-04    18:06
 
 status: #adult 
-tags: [[CPU中央处理器结构]]
+tags: [[CPU中央处理器]]
 
 
 # 累加器(Accumulate, Acc)

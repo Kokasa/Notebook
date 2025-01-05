@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab3cae82bf954a0",
+        "id": "64b7e31316d45476",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa556fd30469600",
+            "id": "aa45afc22e5838c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/寻址方式.md",
+                "file": "3 - Tags/项目管理(Project Management).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "寻址方式"
-            }
-          },
-          {
-            "id": "a21307f776eda50f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算"
+              "title": "项目管理(Project Management)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comp",
+                "query": "cpu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +97,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,34 +184,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21307f776eda50f",
+  "active": "aa45afc22e5838c3",
   "lastOpenFiles": [
-    "6 - Main Notes/精简指令集计算机(Reduced Instruction Set Computer).md",
-    "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md",
-    "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md",
-    "6 - Main Notes/寻址方式.md",
-    "6 - Main Notes/偏移寻址方式.md",
-    "6 - Main Notes/堆栈指针(Stack Pointer, SP).md",
-    "6 - Main Notes/内存管理单元(MMU).md",
-    "2 - Source Material/AI/寻址和编址.md",
-    "2 - Source Material/AI/深度剖析计算机机器指令的组成.md",
-    "6 - Main Notes/拓展操作码.md",
-    "2 - Source Material/AI/拓展操作码是如何实现的.md",
-    "2 - Source Material/AI/有趣的拓展操作码.md",
-    "2 - Source Material/AI/机器指令中的操作码, 以及操作码长度不固定时需要做什么.md",
-    "6 - Main Notes/累加器(Accumulate, Acc).md",
-    "6 - Main Notes/机器指令.md",
-    "3 - Tags/CPU中央处理器结构.md",
-    "2 - Source Material/AI/累加器是什么, 如何参与到机器指令的工作中.md",
+    "6 - Main Notes/项目启动阶段-产品构思.md",
+    "3 - Tags/Java.md",
+    "3 - Tags/项目管理(Project Management).md",
+    "6 - Main Notes/投资回收期.md",
+    "6 - Main Notes/投资回报率(Return on Investment, ROI).md",
+    "2 - Source Material/AI/什么是ROI.md",
+    "6 - Main Notes/净现值分析(Net Present Value, NPV).md",
+    "6 - Main Notes/NPV的诞生.md",
+    "2 - Source Material/AI/NPV是如何计算的.md",
+    "2 - Source Material/AI/TVM在投资中的地位.md",
+    "6 - Main Notes/通货膨胀.md",
+    "3 - Tags/收益分析.md",
+    "6 - Main Notes/组织结构.md",
+    "6 - Main Notes/项目经理(Project Managers).md",
+    "7 - Resources/Pasted image 20250105204918.png",
+    "7 - Resources/Pasted image 20250105203938.png",
+    "3 - Tags/IT(Information Technology, 信息技术).md",
+    "6 - Main Notes/项目(Project).md",
+    "6 - Main Notes/CPU中主要的寄存器.md",
+    "2 - Source Material/AI/深入浅出cpu中五种专用寄存器.md",
+    "3 - Tags/CPU中央处理器.md",
     "6 - Main Notes/程序计数器(Program Counter, PC).md",
-    "2 - Source Material/AI/PC如何指向下一条指令.md",
-    "2 - Source Material/AI/什么是程序计数器(PC).md",
-    "2 - Source Material/AI/机器指令是什么, 和汇编语言有什么关系.md",
-    "6 - Main Notes/算数逻辑单元(Arithmetic Logic Unit, ALU).md",
-    "6 - Main Notes/补码.md",
-    "6 - Main Notes/二进制乘法.md",
-    "3 - Tags/计算机算数.md",
-    "6 - Main Notes/二进制算数移位运算.md",
+    "6 - Main Notes/十进制数和数串表示.md",
+    "3 - Tags/Computer Science.md",
+    "6 - Main Notes/寻址方式.md",
+    "2 - Source Material/AI/如何自定义枚举映射.md",
+    "6 - Main Notes/关于天赋的确认.md",
+    "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md",
     "7 - Resources/Pasted image 20250102110832.png",
     "7 - Resources/Pasted image 20250102110644.png",
     "7 - Resources/Pasted image 20250102110515.png",
@@ -242,8 +227,6 @@
     "7 - Resources/Pasted image 20241228232052.png",
     "7 - Resources/详细的user表设计.png",
     "7 - Resources/若依数据库中部分表展示.png",
-    "7 - Resources/数据库建表规约2.png",
-    "7 - Resources/数据库建表规约1.png",
     "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
     "2 - Source Material/源码",
     "2 - Source Material/AI",
