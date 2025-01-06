@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "挣值管理(Earned Value Management, EVM)",
+      "path": "6 - Main Notes/挣值管理(Earned Value Management, EVM).md"
+    },
+    {
+      "basename": "完工估计",
+      "path": "2 - Source Material/AI/完工估计.md"
+    },
+    {
+      "basename": "挣值管理的由来",
+      "path": "2 - Source Material/AI/挣值管理的由来.md"
+    },
+    {
       "basename": "项目管理(Project Management)",
       "path": "3 - Tags/项目管理(Project Management).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "计算机算数",
       "path": "3 - Tags/计算机算数.md"
-    },
-    {
-      "basename": "二进制算数移位运算",
-      "path": "6 - Main Notes/二进制算数移位运算.md"
-    },
-    {
-      "basename": "游戏精神",
-      "path": "6 - Main Notes/游戏精神.md"
-    },
-    {
-      "basename": "计算机组成原理(第三版)-蒋本珊著",
-      "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
     }
   ],
   "omittedPaths": [],

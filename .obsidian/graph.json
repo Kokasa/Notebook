@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"3 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12755456
+      }
+    },
+    {
+      "query": "path:\"2 - Source Material/AI\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11530995
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 16.0034602076125,
   "linkStrength": 1,
   "linkDistance": 284,
-  "scale": 0.09220616523347187,
+  "scale": 0.08649275839095595,
   "close": true
 }
