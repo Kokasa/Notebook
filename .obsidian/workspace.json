@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "64b7e31316d45476",
+        "id": "cf555765cb21a67b",
         "type": "tabs",
         "children": [
           {
-            "id": "84ed93cb1821d8bc",
+            "id": "bb63ea44a56ffde9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/挣值管理(Earned Value Management, EVM).md",
+                "file": "6 - Main Notes/ICONIX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "挣值管理(Earned Value Management, EVM)"
+              "title": "ICONIX"
+            }
+          },
+          {
+            "id": "5f657c331de97b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/序列图(Sequence Diagram).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "序列图(Sequence Diagram)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu",
+                "query": "Ico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +113,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,49 +201,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ed93cb1821d8bc",
+  "active": "5f657c331de97b85",
   "lastOpenFiles": [
-    "2 - Source Material/AI/完工估计.md",
-    "6 - Main Notes/挣值管理(Earned Value Management, EVM).md",
-    "2 - Source Material/AI/挣值管理的由来.md",
-    "3 - Tags/项目管理(Project Management).md",
-    "6 - Main Notes/项目启动阶段-产品构思.md",
-    "3 - Tags/Java.md",
-    "6 - Main Notes/投资回收期.md",
-    "6 - Main Notes/投资回报率(Return on Investment, ROI).md",
-    "2 - Source Material/AI/什么是ROI.md",
-    "6 - Main Notes/净现值分析(Net Present Value, NPV).md",
-    "6 - Main Notes/NPV的诞生.md",
-    "2 - Source Material/AI/NPV是如何计算的.md",
-    "2 - Source Material/AI/TVM在投资中的地位.md",
-    "6 - Main Notes/通货膨胀.md",
-    "3 - Tags/收益分析.md",
-    "6 - Main Notes/组织结构.md",
-    "6 - Main Notes/项目经理(Project Managers).md",
-    "7 - Resources/Pasted image 20250105204918.png",
-    "7 - Resources/Pasted image 20250105203938.png",
-    "3 - Tags/IT(Information Technology, 信息技术).md",
-    "6 - Main Notes/项目(Project).md",
-    "6 - Main Notes/CPU中主要的寄存器.md",
-    "2 - Source Material/AI/深入浅出cpu中五种专用寄存器.md",
-    "3 - Tags/CPU中央处理器.md",
-    "6 - Main Notes/程序计数器(Program Counter, PC).md",
-    "6 - Main Notes/十进制数和数串表示.md",
-    "3 - Tags/Computer Science.md",
-    "6 - Main Notes/寻址方式.md",
-    "7 - Resources/Pasted image 20250102110832.png",
-    "7 - Resources/Pasted image 20250102110644.png",
-    "7 - Resources/Pasted image 20250102110515.png",
-    "7 - Resources/Pasted image 20250102110408.png",
+    "2 - Source Material/AI/什么是序列图.md",
+    "6 - Main Notes/序列图(Sequence Diagram).md",
+    "7 - Resources/Pasted image 20250108000000.png",
+    "6 - Main Notes/ICONIX.md",
+    "6 - Main Notes/健壮性分析(Robustness Analysis).md",
+    "2 - Source Material/AI/ICONIX中的健壮性分析.md",
+    "6 - Main Notes/反序列化.md",
+    "7 - Resources/Pasted image 20250107234203.png",
+    "7 - Resources/Pasted image 20250107234154.png",
+    "7 - Resources/Pasted image 20250107234136.png",
+    "7 - Resources/Pasted image 20250107234115.png",
+    "7 - Resources/Pasted image 20250107234050.png",
+    "6 - Main Notes/项目层级.md",
+    "6 - Main Notes/未命名 1.md",
+    "6 - Main Notes/领域图(Domain Model Diagram).md",
+    "2 - Source Material/AI/领域模型图设计.md",
+    "7 - Resources/Pasted image 20250107232250.png",
+    "6 - Main Notes/用例图(Use Case Diagram).md",
+    "6 - Main Notes/类图(Class Diagram).md",
+    "2 - Source Material/AI/用例图的介绍.md",
+    "7 - Resources/Pasted image 20250107231051.png",
+    "7 - Resources/Pasted image 20250107230512.png",
+    "7 - Resources/Pasted image 20250107230448.png",
+    "6 - Main Notes/UML.md",
+    "2 - Source Material/AI/为什么使用用例进行软件开发.md",
+    "2 - Source Material/AI/ICONIX为什么轻量.md",
+    "6 - Main Notes/XP开发.md",
+    "6 - Main Notes/RUP.md",
+    "2 - Source Material/AI/ICONIX的历史.md",
+    "2 - Source Material/AI/ICONIX名称的由来.md",
+    "6 - Main Notes/Scrum.md",
+    "3 - Tags/软件测试(Software Testing).md",
+    "6 - Main Notes/写出好的缺陷报告.md",
+    "6 - Main Notes/测试过程的管理.md",
+    "6 - Main Notes/集成测试.md",
+    "6 - Main Notes/系统测试.md",
     "构造方法",
     "2 - Source Material/源码/Animals/Dog.java",
     "2 - Source Material/源码/Animals/Animal.java",
     "2 - Source Material/源码/Animals/Main.java",
     "2 - Source Material/源码/Animals",
-    "7 - Resources/1FAFBF9A.png",
-    "7 - Resources/Pasted image 20241228232052.png",
-    "7 - Resources/详细的user表设计.png",
-    "7 - Resources/若依数据库中部分表展示.png",
     "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
     "2 - Source Material/源码",
     "2 - Source Material/AI",

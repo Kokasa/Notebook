@@ -11,7 +11,6 @@ tags: [[项目管理(Project Management)]]
 - **计划值(Planned Value, PV)**: 也可以称为预算成本, 就是到这个时间计划要做多少钱的工作
 - **挣值(Earned Value, EV)**: 已完成的工作的预估价值, 就是到现在实际完成了多少钱的工作
 - **实际成本(Actual Cost, AC)**: 已完成工作的实际成本, 就是到此为止实际花了多少
-
 ## 衍生出的绩效指标
 
 - **进度偏差(Schedule Variance, SV)**: $$SV=EV-PV$$

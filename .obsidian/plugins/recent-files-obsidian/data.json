@@ -1,48 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "序列图(Sequence Diagram)",
+      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
+    },
+    {
+      "basename": "什么是序列图",
+      "path": "2 - Source Material/AI/什么是序列图.md"
+    },
+    {
+      "basename": "ICONIX",
+      "path": "6 - Main Notes/ICONIX.md"
+    },
+    {
+      "basename": "健壮性分析(Robustness Analysis)",
+      "path": "6 - Main Notes/健壮性分析(Robustness Analysis).md"
+    },
+    {
+      "basename": "ICONIX中的健壮性分析",
+      "path": "2 - Source Material/AI/ICONIX中的健壮性分析.md"
+    },
+    {
+      "basename": "反序列化",
+      "path": "6 - Main Notes/反序列化.md"
+    },
+    {
+      "basename": "项目层级",
+      "path": "6 - Main Notes/项目层级.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "6 - Main Notes/未命名 1.md"
+    },
+    {
+      "basename": "领域图(Domain Model Diagram)",
+      "path": "6 - Main Notes/领域图(Domain Model Diagram).md"
+    },
+    {
+      "basename": "领域模型图设计",
+      "path": "2 - Source Material/AI/领域模型图设计.md"
+    },
+    {
+      "basename": "用例图(Use Case Diagram)",
+      "path": "6 - Main Notes/用例图(Use Case Diagram).md"
+    },
+    {
+      "basename": "类图(Class Diagram)",
+      "path": "6 - Main Notes/类图(Class Diagram).md"
+    },
+    {
+      "basename": "用例图的介绍",
+      "path": "2 - Source Material/AI/用例图的介绍.md"
+    },
+    {
+      "basename": "UML",
+      "path": "6 - Main Notes/UML.md"
+    },
+    {
+      "basename": "为什么使用用例进行软件开发",
+      "path": "2 - Source Material/AI/为什么使用用例进行软件开发.md"
+    },
+    {
+      "basename": "ICONIX为什么轻量",
+      "path": "2 - Source Material/AI/ICONIX为什么轻量.md"
+    },
+    {
+      "basename": "XP开发",
+      "path": "6 - Main Notes/XP开发.md"
+    },
+    {
+      "basename": "RUP",
+      "path": "6 - Main Notes/RUP.md"
+    },
+    {
+      "basename": "ICONIX的历史",
+      "path": "2 - Source Material/AI/ICONIX的历史.md"
+    },
+    {
+      "basename": "ICONIX名称的由来",
+      "path": "2 - Source Material/AI/ICONIX名称的由来.md"
+    },
+    {
+      "basename": "Scrum",
+      "path": "6 - Main Notes/Scrum.md"
+    },
+    {
+      "basename": "软件测试(Software Testing)",
+      "path": "3 - Tags/软件测试(Software Testing).md"
+    },
+    {
+      "basename": "写出好的缺陷报告",
+      "path": "6 - Main Notes/写出好的缺陷报告.md"
+    },
+    {
+      "basename": "测试过程的管理",
+      "path": "6 - Main Notes/测试过程的管理.md"
+    },
+    {
+      "basename": "集成测试",
+      "path": "6 - Main Notes/集成测试.md"
+    },
+    {
+      "basename": "系统测试",
+      "path": "6 - Main Notes/系统测试.md"
+    },
+    {
+      "basename": "桩模块(Stubs)",
+      "path": "6 - Main Notes/桩模块(Stubs).md"
+    },
+    {
+      "basename": "驱动模块(Drivers)",
+      "path": "6 - Main Notes/驱动模块(Drivers).md"
+    },
+    {
+      "basename": "单元测试",
+      "path": "6 - Main Notes/单元测试.md"
+    },
+    {
+      "basename": "驱动模块和桩模块在单元测试中的作用",
+      "path": "2 - Source Material/AI/驱动模块和桩模块在单元测试中的作用.md"
+    },
+    {
+      "basename": "软件测试层次",
+      "path": "6 - Main Notes/软件测试层次.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "4 - Indexes/Software Engineering.md"
+    },
+    {
       "basename": "挣值管理(Earned Value Management, EVM)",
       "path": "6 - Main Notes/挣值管理(Earned Value Management, EVM).md"
     },
     {
-      "basename": "完工估计",
-      "path": "2 - Source Material/AI/完工估计.md"
-    },
-    {
-      "basename": "挣值管理的由来",
-      "path": "2 - Source Material/AI/挣值管理的由来.md"
+      "basename": "敏捷开发的简单介绍",
+      "path": "2 - Source Material/AI/敏捷开发的简单介绍.md"
     },
     {
       "basename": "项目管理(Project Management)",
       "path": "3 - Tags/项目管理(Project Management).md"
     },
     {
-      "basename": "项目启动阶段-产品构思",
-      "path": "6 - Main Notes/项目启动阶段-产品构思.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
-    },
-    {
-      "basename": "投资回收期",
-      "path": "6 - Main Notes/投资回收期.md"
-    },
-    {
       "basename": "投资回报率(Return on Investment, ROI)",
       "path": "6 - Main Notes/投资回报率(Return on Investment, ROI).md"
     },
     {
-      "basename": "什么是ROI",
-      "path": "2 - Source Material/AI/什么是ROI.md"
+      "basename": "项目启动阶段-产品构思",
+      "path": "6 - Main Notes/项目启动阶段-产品构思.md"
     },
     {
       "basename": "净现值分析(Net Present Value, NPV)",
       "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
     },
     {
-      "basename": "NPV的诞生",
-      "path": "6 - Main Notes/NPV的诞生.md"
+      "basename": "投资回收期",
+      "path": "6 - Main Notes/投资回收期.md"
+    },
+    {
+      "basename": "组织结构",
+      "path": "6 - Main Notes/组织结构.md"
     },
     {
       "basename": "NPV是如何计算的",
@@ -53,152 +173,32 @@
       "path": "2 - Source Material/AI/TVM在投资中的地位.md"
     },
     {
+      "basename": "银弹",
+      "path": "6 - Main Notes/银弹.md"
+    },
+    {
+      "basename": "完工估计",
+      "path": "2 - Source Material/AI/完工估计.md"
+    },
+    {
+      "basename": "挣值管理的由来",
+      "path": "2 - Source Material/AI/挣值管理的由来.md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "什么是ROI",
+      "path": "2 - Source Material/AI/什么是ROI.md"
+    },
+    {
+      "basename": "NPV的诞生",
+      "path": "6 - Main Notes/NPV的诞生.md"
+    },
+    {
       "basename": "通货膨胀",
       "path": "6 - Main Notes/通货膨胀.md"
-    },
-    {
-      "basename": "收益分析",
-      "path": "3 - Tags/收益分析.md"
-    },
-    {
-      "basename": "组织结构",
-      "path": "6 - Main Notes/组织结构.md"
-    },
-    {
-      "basename": "项目经理(Project Managers)",
-      "path": "6 - Main Notes/项目经理(Project Managers).md"
-    },
-    {
-      "basename": "IT(Information Technology, 信息技术)",
-      "path": "3 - Tags/IT(Information Technology, 信息技术).md"
-    },
-    {
-      "basename": "项目(Project)",
-      "path": "6 - Main Notes/项目(Project).md"
-    },
-    {
-      "basename": "CPU中主要的寄存器",
-      "path": "6 - Main Notes/CPU中主要的寄存器.md"
-    },
-    {
-      "basename": "深入浅出cpu中五种专用寄存器",
-      "path": "2 - Source Material/AI/深入浅出cpu中五种专用寄存器.md"
-    },
-    {
-      "basename": "CPU中央处理器",
-      "path": "3 - Tags/CPU中央处理器.md"
-    },
-    {
-      "basename": "程序计数器(Program Counter, PC)",
-      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
-    },
-    {
-      "basename": "十进制数和数串表示",
-      "path": "6 - Main Notes/十进制数和数串表示.md"
-    },
-    {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
-    },
-    {
-      "basename": "寻址方式",
-      "path": "6 - Main Notes/寻址方式.md"
-    },
-    {
-      "basename": "如何自定义枚举映射",
-      "path": "2 - Source Material/AI/如何自定义枚举映射.md"
-    },
-    {
-      "basename": "关于天赋的确认",
-      "path": "6 - Main Notes/关于天赋的确认.md"
-    },
-    {
-      "basename": "相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算",
-      "path": "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md"
-    },
-    {
-      "basename": "精简指令集计算机(Reduced Instruction Set Computer)",
-      "path": "6 - Main Notes/精简指令集计算机(Reduced Instruction Set Computer).md"
-    },
-    {
-      "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
-      "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
-    },
-    {
-      "basename": "偏移寻址方式",
-      "path": "6 - Main Notes/偏移寻址方式.md"
-    },
-    {
-      "basename": "堆栈指针(Stack Pointer, SP)",
-      "path": "6 - Main Notes/堆栈指针(Stack Pointer, SP).md"
-    },
-    {
-      "basename": "内存管理单元(MMU)",
-      "path": "6 - Main Notes/内存管理单元(MMU).md"
-    },
-    {
-      "basename": "寻址和编址",
-      "path": "2 - Source Material/AI/寻址和编址.md"
-    },
-    {
-      "basename": "深度剖析计算机机器指令的组成",
-      "path": "2 - Source Material/AI/深度剖析计算机机器指令的组成.md"
-    },
-    {
-      "basename": "拓展操作码",
-      "path": "6 - Main Notes/拓展操作码.md"
-    },
-    {
-      "basename": "拓展操作码是如何实现的",
-      "path": "2 - Source Material/AI/拓展操作码是如何实现的.md"
-    },
-    {
-      "basename": "有趣的拓展操作码",
-      "path": "2 - Source Material/AI/有趣的拓展操作码.md"
-    },
-    {
-      "basename": "机器指令中的操作码, 以及操作码长度不固定时需要做什么",
-      "path": "2 - Source Material/AI/机器指令中的操作码, 以及操作码长度不固定时需要做什么.md"
-    },
-    {
-      "basename": "累加器(Accumulate, Acc)",
-      "path": "6 - Main Notes/累加器(Accumulate, Acc).md"
-    },
-    {
-      "basename": "机器指令",
-      "path": "6 - Main Notes/机器指令.md"
-    },
-    {
-      "basename": "累加器是什么, 如何参与到机器指令的工作中",
-      "path": "2 - Source Material/AI/累加器是什么, 如何参与到机器指令的工作中.md"
-    },
-    {
-      "basename": "PC如何指向下一条指令",
-      "path": "2 - Source Material/AI/PC如何指向下一条指令.md"
-    },
-    {
-      "basename": "什么是程序计数器(PC)",
-      "path": "2 - Source Material/AI/什么是程序计数器(PC).md"
-    },
-    {
-      "basename": "机器指令是什么, 和汇编语言有什么关系",
-      "path": "2 - Source Material/AI/机器指令是什么, 和汇编语言有什么关系.md"
-    },
-    {
-      "basename": "算数逻辑单元(Arithmetic Logic Unit, ALU)",
-      "path": "6 - Main Notes/算数逻辑单元(Arithmetic Logic Unit, ALU).md"
-    },
-    {
-      "basename": "补码",
-      "path": "6 - Main Notes/补码.md"
-    },
-    {
-      "basename": "二进制乘法",
-      "path": "6 - Main Notes/二进制乘法.md"
-    },
-    {
-      "basename": "计算机算数",
-      "path": "3 - Tags/计算机算数.md"
     }
   ],
   "omittedPaths": [],
