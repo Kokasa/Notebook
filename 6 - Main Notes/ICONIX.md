@@ -17,7 +17,7 @@ ICONIX软件过程不需要像[[RUP]]一样书写详细的项目文档, 也不�
 - **关注健壮性**: ICONIX额外关注软件的健壮性, 甚至专门进行健壮性分析来确保系统能够有效地处理各种异常情况和错误
 - **四种核心图**: ICONIX主要使用四种UML图: 
 	- **[[用例图(Use Case Diagram)]]**
-	- **[[领域图(Domain Model Diagram)]]**
+	- **[[领域图(Domain Model Diagram)]]**`
 	- **[[健壮性分析(Robustness Analysis)]]**
 	- **[[序列图(Sequence Diagram)]]**
 

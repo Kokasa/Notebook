@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "敏捷宣言核心概念解读",
+      "path": "6 - Main Notes/敏捷宣言核心概念解读.md"
+    },
+    {
+      "basename": "Scrum",
+      "path": "6 - Main Notes/Scrum.md"
+    },
+    {
+      "basename": "ICONIX",
+      "path": "6 - Main Notes/ICONIX.md"
+    },
+    {
+      "basename": "健壮性分析(Robustness Analysis)",
+      "path": "6 - Main Notes/健壮性分析(Robustness Analysis).md"
+    },
+    {
+      "basename": "序列图(Sequence Diagram)",
+      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
+    },
+    {
+      "basename": "UML",
+      "path": "6 - Main Notes/UML.md"
+    },
+    {
+      "basename": "领域图(Domain Model Diagram)",
+      "path": "6 - Main Notes/领域图(Domain Model Diagram).md"
+    },
+    {
+      "basename": "用例图(Use Case Diagram)",
+      "path": "6 - Main Notes/用例图(Use Case Diagram).md"
+    },
+    {
+      "basename": "敏捷模型(敏捷开发)(Agile Model)",
+      "path": "6 - Main Notes/敏捷模型(敏捷开发)(Agile Model).md"
+    },
+    {
+      "basename": "敏捷开发四个思想总结",
+      "path": "2 - Source Material/AI/敏捷开发四个思想总结.md"
+    },
+    {
+      "basename": "02SCRUM过程中每个过程的目的",
+      "path": "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md"
+    },
+    {
+      "basename": "ICONIX为什么轻量",
+      "path": "2 - Source Material/AI/ICONIX为什么轻量.md"
+    },
+    {
       "basename": "软件开发过程的生命周期",
       "path": "6 - Main Notes/软件开发过程的生命周期.md"
     },
     {
+      "basename": "什么是序列图",
+      "path": "2 - Source Material/AI/什么是序列图.md"
+    },
+    {
+      "basename": "软件工程（Software Engineering）的发展历史",
+      "path": "2 - Source Material/AI/软件工程（Software Engineering）的发展历史.md"
+    },
+    {
+      "basename": "注重认知顺序的学习",
+      "path": "6 - Main Notes/注重认知顺序的学习.md"
+    },
+    {
+      "basename": "敏捷宣言",
+      "path": "2 - Source Material/文章/敏捷宣言.md"
+    },
+    {
       "basename": "软件开发模型",
       "path": "6 - Main Notes/软件开发模型.md"
+    },
+    {
+      "basename": "软件开发生命周期和软件开发模型",
+      "path": "2 - Source Material/AI/软件开发生命周期和软件开发模型.md"
     },
     {
       "basename": "软件危机(Software Crisis)",
@@ -47,22 +115,6 @@
     {
       "basename": "社会科学",
       "path": "3 - Tags/社会科学.md"
-    },
-    {
-      "basename": "软件工程（Software Engineering）的发展历史",
-      "path": "2 - Source Material/AI/软件工程（Software Engineering）的发展历史.md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "6 - Main Notes/Scrum.md"
-    },
-    {
-      "basename": "ICONIX",
-      "path": "6 - Main Notes/ICONIX.md"
-    },
-    {
-      "basename": "健壮性分析(Robustness Analysis)",
-      "path": "6 - Main Notes/健壮性分析(Robustness Analysis).md"
     },
     {
       "basename": "Software",
@@ -141,64 +193,12 @@
       "path": "6 - Main Notes/RUP.md"
     },
     {
-      "basename": "序列图(Sequence Diagram)",
-      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
-    },
-    {
-      "basename": "什么是序列图",
-      "path": "2 - Source Material/AI/什么是序列图.md"
-    },
-    {
       "basename": "ICONIX中的健壮性分析",
       "path": "2 - Source Material/AI/ICONIX中的健壮性分析.md"
     },
     {
       "basename": "反序列化",
       "path": "6 - Main Notes/反序列化.md"
-    },
-    {
-      "basename": "项目层级",
-      "path": "6 - Main Notes/项目层级.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "6 - Main Notes/未命名 1.md"
-    },
-    {
-      "basename": "领域图(Domain Model Diagram)",
-      "path": "6 - Main Notes/领域图(Domain Model Diagram).md"
-    },
-    {
-      "basename": "领域模型图设计",
-      "path": "2 - Source Material/AI/领域模型图设计.md"
-    },
-    {
-      "basename": "用例图(Use Case Diagram)",
-      "path": "6 - Main Notes/用例图(Use Case Diagram).md"
-    },
-    {
-      "basename": "类图(Class Diagram)",
-      "path": "6 - Main Notes/类图(Class Diagram).md"
-    },
-    {
-      "basename": "用例图的介绍",
-      "path": "2 - Source Material/AI/用例图的介绍.md"
-    },
-    {
-      "basename": "UML",
-      "path": "6 - Main Notes/UML.md"
-    },
-    {
-      "basename": "为什么使用用例进行软件开发",
-      "path": "2 - Source Material/AI/为什么使用用例进行软件开发.md"
-    },
-    {
-      "basename": "ICONIX为什么轻量",
-      "path": "2 - Source Material/AI/ICONIX为什么轻量.md"
-    },
-    {
-      "basename": "XP开发",
-      "path": "6 - Main Notes/XP开发.md"
     }
   ],
   "omittedPaths": [],
