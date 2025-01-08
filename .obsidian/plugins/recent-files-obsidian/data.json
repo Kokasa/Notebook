@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "序列图(Sequence Diagram)",
-      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
+      "basename": "软件开发过程的生命周期",
+      "path": "6 - Main Notes/软件开发过程的生命周期.md"
     },
     {
-      "basename": "什么是序列图",
-      "path": "2 - Source Material/AI/什么是序列图.md"
+      "basename": "软件开发模型",
+      "path": "6 - Main Notes/软件开发模型.md"
+    },
+    {
+      "basename": "软件危机(Software Crisis)",
+      "path": "6 - Main Notes/软件危机(Software Crisis).md"
+    },
+    {
+      "basename": "导致软件危机的因素分析",
+      "path": "2 - Source Material/AI/导致软件危机的因素分析.md"
+    },
+    {
+      "basename": "软件危机的出现和软件危机",
+      "path": "2 - Source Material/AI/软件危机的出现和软件危机.md"
+    },
+    {
+      "basename": "软件工程学",
+      "path": "6 - Main Notes/软件工程学.md"
+    },
+    {
+      "basename": "未命名 2",
+      "path": "6 - Main Notes/未命名 2.md"
+    },
+    {
+      "basename": "什么是软件工程",
+      "path": "2 - Source Material/AI/什么是软件工程.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "4 - Indexes/Software Engineering.md"
+    },
+    {
+      "basename": "方法, 工具, 过程三要素在软件工程中的意义",
+      "path": "6 - Main Notes/方法, 工具, 过程三要素在软件工程中的意义.md"
+    },
+    {
+      "basename": "方法, 工具, 过程从社会科学看软件工程的三要素",
+      "path": "2 - Source Material/AI/方法, 工具, 过程从社会科学看软件工程的三要素.md"
+    },
+    {
+      "basename": "社会科学",
+      "path": "3 - Tags/社会科学.md"
+    },
+    {
+      "basename": "软件工程（Software Engineering）的发展历史",
+      "path": "2 - Source Material/AI/软件工程（Software Engineering）的发展历史.md"
+    },
+    {
+      "basename": "Scrum",
+      "path": "6 - Main Notes/Scrum.md"
     },
     {
       "basename": "ICONIX",
@@ -15,6 +63,90 @@
     {
       "basename": "健壮性分析(Robustness Analysis)",
       "path": "6 - Main Notes/健壮性分析(Robustness Analysis).md"
+    },
+    {
+      "basename": "Software",
+      "path": "3 - Tags/Software.md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "测试环境",
+      "path": "6 - Main Notes/测试环境.md"
+    },
+    {
+      "basename": "写出好的缺陷报告",
+      "path": "6 - Main Notes/写出好的缺陷报告.md"
+    },
+    {
+      "basename": "软件缺陷(Software Defect)",
+      "path": "6 - Main Notes/软件缺陷(Software Defect).md"
+    },
+    {
+      "basename": "软件测试(Software Testing)",
+      "path": "3 - Tags/软件测试(Software Testing).md"
+    },
+    {
+      "basename": "软件测试的分类",
+      "path": "6 - Main Notes/软件测试的分类.md"
+    },
+    {
+      "basename": "四种软件测试过程模型简单介绍",
+      "path": "2 - Source Material/AI/四种软件测试过程模型简单介绍.md"
+    },
+    {
+      "basename": "因果图中的约束",
+      "path": "2 - Source Material/AI/因果图中的约束.md"
+    },
+    {
+      "basename": "黑盒测试",
+      "path": "6 - Main Notes/黑盒测试.md"
+    },
+    {
+      "basename": "软件测试层次",
+      "path": "6 - Main Notes/软件测试层次.md"
+    },
+    {
+      "basename": "系统测试",
+      "path": "6 - Main Notes/系统测试.md"
+    },
+    {
+      "basename": "集成测试",
+      "path": "6 - Main Notes/集成测试.md"
+    },
+    {
+      "basename": "单元测试",
+      "path": "6 - Main Notes/单元测试.md"
+    },
+    {
+      "basename": "测试过程的管理",
+      "path": "6 - Main Notes/测试过程的管理.md"
+    },
+    {
+      "basename": "测试用例的设计",
+      "path": "6 - Main Notes/测试用例的设计.md"
+    },
+    {
+      "basename": "软件测试环境需要什么",
+      "path": "2 - Source Material/AI/软件测试环境需要什么.md"
+    },
+    {
+      "basename": "软件需求规格说明书(Software Requirements Specification, SRS)",
+      "path": "6 - Main Notes/软件需求规格说明书(Software Requirements Specification, SRS).md"
+    },
+    {
+      "basename": "RUP",
+      "path": "6 - Main Notes/RUP.md"
+    },
+    {
+      "basename": "序列图(Sequence Diagram)",
+      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
+    },
+    {
+      "basename": "什么是序列图",
+      "path": "2 - Source Material/AI/什么是序列图.md"
     },
     {
       "basename": "ICONIX中的健壮性分析",
@@ -67,138 +199,6 @@
     {
       "basename": "XP开发",
       "path": "6 - Main Notes/XP开发.md"
-    },
-    {
-      "basename": "RUP",
-      "path": "6 - Main Notes/RUP.md"
-    },
-    {
-      "basename": "ICONIX的历史",
-      "path": "2 - Source Material/AI/ICONIX的历史.md"
-    },
-    {
-      "basename": "ICONIX名称的由来",
-      "path": "2 - Source Material/AI/ICONIX名称的由来.md"
-    },
-    {
-      "basename": "Scrum",
-      "path": "6 - Main Notes/Scrum.md"
-    },
-    {
-      "basename": "软件测试(Software Testing)",
-      "path": "3 - Tags/软件测试(Software Testing).md"
-    },
-    {
-      "basename": "写出好的缺陷报告",
-      "path": "6 - Main Notes/写出好的缺陷报告.md"
-    },
-    {
-      "basename": "测试过程的管理",
-      "path": "6 - Main Notes/测试过程的管理.md"
-    },
-    {
-      "basename": "集成测试",
-      "path": "6 - Main Notes/集成测试.md"
-    },
-    {
-      "basename": "系统测试",
-      "path": "6 - Main Notes/系统测试.md"
-    },
-    {
-      "basename": "桩模块(Stubs)",
-      "path": "6 - Main Notes/桩模块(Stubs).md"
-    },
-    {
-      "basename": "驱动模块(Drivers)",
-      "path": "6 - Main Notes/驱动模块(Drivers).md"
-    },
-    {
-      "basename": "单元测试",
-      "path": "6 - Main Notes/单元测试.md"
-    },
-    {
-      "basename": "驱动模块和桩模块在单元测试中的作用",
-      "path": "2 - Source Material/AI/驱动模块和桩模块在单元测试中的作用.md"
-    },
-    {
-      "basename": "软件测试层次",
-      "path": "6 - Main Notes/软件测试层次.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
-    },
-    {
-      "basename": "Software Engineering",
-      "path": "4 - Indexes/Software Engineering.md"
-    },
-    {
-      "basename": "挣值管理(Earned Value Management, EVM)",
-      "path": "6 - Main Notes/挣值管理(Earned Value Management, EVM).md"
-    },
-    {
-      "basename": "敏捷开发的简单介绍",
-      "path": "2 - Source Material/AI/敏捷开发的简单介绍.md"
-    },
-    {
-      "basename": "项目管理(Project Management)",
-      "path": "3 - Tags/项目管理(Project Management).md"
-    },
-    {
-      "basename": "投资回报率(Return on Investment, ROI)",
-      "path": "6 - Main Notes/投资回报率(Return on Investment, ROI).md"
-    },
-    {
-      "basename": "项目启动阶段-产品构思",
-      "path": "6 - Main Notes/项目启动阶段-产品构思.md"
-    },
-    {
-      "basename": "净现值分析(Net Present Value, NPV)",
-      "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
-    },
-    {
-      "basename": "投资回收期",
-      "path": "6 - Main Notes/投资回收期.md"
-    },
-    {
-      "basename": "组织结构",
-      "path": "6 - Main Notes/组织结构.md"
-    },
-    {
-      "basename": "NPV是如何计算的",
-      "path": "2 - Source Material/AI/NPV是如何计算的.md"
-    },
-    {
-      "basename": "TVM在投资中的地位",
-      "path": "2 - Source Material/AI/TVM在投资中的地位.md"
-    },
-    {
-      "basename": "银弹",
-      "path": "6 - Main Notes/银弹.md"
-    },
-    {
-      "basename": "完工估计",
-      "path": "2 - Source Material/AI/完工估计.md"
-    },
-    {
-      "basename": "挣值管理的由来",
-      "path": "2 - Source Material/AI/挣值管理的由来.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
-    },
-    {
-      "basename": "什么是ROI",
-      "path": "2 - Source Material/AI/什么是ROI.md"
-    },
-    {
-      "basename": "NPV的诞生",
-      "path": "6 - Main Notes/NPV的诞生.md"
-    },
-    {
-      "basename": "通货膨胀",
-      "path": "6 - Main Notes/通货膨胀.md"
     }
   ],
   "omittedPaths": [],
