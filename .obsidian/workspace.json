@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cf555765cb21a67b",
+        "id": "cc6a9f9c3c0f7f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "78f9ded7f2bc176e",
+            "id": "9f53269a38288525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/ICONIX.md",
+                "file": "6 - Main Notes/地址分配与拓展存储器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICONIX"
-            }
-          },
-          {
-            "id": "598cbeff902d0ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Scrum.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scrum"
-            }
-          },
-          {
-            "id": "19e9c467e6ea0018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/敏捷宣言核心概念解读.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "敏捷宣言核心概念解读"
+              "title": "地址分配与拓展存储器"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ICo",
+                "query": "主存储",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,8 +97,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Main Notes/地址分配与拓展存储器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "地址分配与拓展存储器 的反向链接列表"
             }
           },
           {
@@ -191,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/敏捷宣言核心概念解读.md"
+                "file": "2 - Source Material/AI/ICONIX名称的由来.md"
               },
               "icon": "lucide-list",
-              "title": "敏捷宣言核心概念解读 的大纲"
+              "title": "ICONIX名称的由来 的大纲"
             }
           }
         ],
@@ -216,44 +185,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19e9c467e6ea0018",
+  "active": "9f53269a38288525",
   "lastOpenFiles": [
-    "6 - Main Notes/Scrum.md",
-    "6 - Main Notes/敏捷宣言核心概念解读.md",
-    "6 - Main Notes/ICONIX.md",
-    "6 - Main Notes/健壮性分析(Robustness Analysis).md",
-    "6 - Main Notes/序列图(Sequence Diagram).md",
-    "6 - Main Notes/UML.md",
-    "6 - Main Notes/领域图(Domain Model Diagram).md",
-    "6 - Main Notes/用例图(Use Case Diagram).md",
-    "6 - Main Notes/敏捷模型(敏捷开发)(Agile Model).md",
+    "6 - Main Notes/未命名 3.md",
+    "6 - Main Notes/片选(Chip Select, CS).md",
+    "6 - Main Notes/主存储器的拓展.md",
+    "2 - Source Material/AI/对于主存储器拓展图的解释.md",
+    "7 - Resources/Pasted image 20250109001756.png",
+    "7 - Resources/Pasted image 20250109001738.png",
+    "7 - Resources/Pasted image 20250109001104.png",
+    "6 - Main Notes/地址译码器.md",
+    "6 - Main Notes/地址总线(Address Bus).md",
+    "6 - Main Notes/数据总线(Data Bus).md",
+    "2 - Source Material/AI/数据总线, 地址译码器和片选信号.md",
+    "6 - Main Notes/RAM芯片.md",
+    "2 - Source Material/AI/RAM芯片结构.md",
+    "6 - Main Notes/只读存储器(Read-Only Memory, ROM).md",
+    "6 - Main Notes/地址复用技术.md",
+    "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
+    "6 - Main Notes/动态RAM三种刷新方式.md",
+    "6 - Main Notes/主存储器(Main Memory).md",
+    "2 - Source Material/AI/DRAM的刷新详解.md",
+    "7 - Resources/Pasted image 20250108220537.png",
+    "6 - Main Notes/存储器.md",
+    "6 - Main Notes/存储系统层次结构.md",
+    "6 - Main Notes/SAM.md",
+    "6 - Main Notes/DAM.md",
+    "3 - Tags/Computer Science.md",
+    "2 - Source Material/书籍/Computer Organization and Architecture.md",
     "2 - Source Material/AI/敏捷开发四个思想总结.md",
-    "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md",
-    "2 - Source Material/AI/ICONIX为什么轻量.md",
-    "6 - Main Notes/软件开发过程的生命周期.md",
-    "2 - Source Material/AI/什么是序列图.md",
-    "2 - Source Material/AI/软件工程（Software Engineering）的发展历史.md",
-    "6 - Main Notes/注重认知顺序的学习.md",
+    "2 - Source Material/AI/ICONIX名称的由来.md",
+    "6 - Main Notes/敏捷宣言核心概念解读.md",
     "2 - Source Material/文章/敏捷宣言.md",
     "7 - Resources/Pasted image 20250108120048.png",
-    "6 - Main Notes/软件开发模型.md",
-    "2 - Source Material/AI/软件开发生命周期和软件开发模型.md",
-    "6 - Main Notes/软件危机(Software Crisis).md",
-    "2 - Source Material/AI/导致软件危机的因素分析.md",
-    "2 - Source Material/AI/软件危机的出现和软件危机.md",
-    "6 - Main Notes/软件工程学.md",
-    "6 - Main Notes/未命名 2.md",
-    "2 - Source Material/AI/什么是软件工程.md",
-    "4 - Indexes/Software Engineering.md",
     "7 - Resources/Pasted image 20250108000000.png",
     "7 - Resources/Pasted image 20250107234203.png",
     "7 - Resources/Pasted image 20250107234154.png",
     "7 - Resources/Pasted image 20250107234136.png",
     "7 - Resources/Pasted image 20250107234115.png",
-    "7 - Resources/Pasted image 20250107234050.png",
-    "7 - Resources/Pasted image 20250107232250.png",
-    "7 - Resources/Pasted image 20250107231051.png",
-    "7 - Resources/Pasted image 20250107230512.png",
     "构造方法",
     "2 - Source Material/源码/Animals/Dog.java",
     "2 - Source Material/源码/Animals/Animal.java",
