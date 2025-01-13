@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "地址分配与拓展存储器",
-      "path": "6 - Main Notes/地址分配与拓展存储器.md"
+      "basename": "URI(Uniform Resource Identifier)",
+      "path": "6 - Main Notes/URI(Uniform Resource Identifier).md"
     },
     {
-      "basename": "片选(Chip Select, CS)",
-      "path": "6 - Main Notes/片选(Chip Select, CS).md"
+      "basename": "资源在网络中是如何流动的",
+      "path": "6 - Main Notes/资源在网络中是如何流动的.md"
     },
     {
-      "basename": "主存储器的拓展",
-      "path": "6 - Main Notes/主存储器的拓展.md"
+      "basename": "网络本身也有存储功能吗",
+      "path": "2 - Source Material/AI/网络本身也有存储功能吗.md"
     },
     {
-      "basename": "对于主存储器拓展图的解释",
-      "path": "2 - Source Material/AI/对于主存储器拓展图的解释.md"
+      "basename": "API设计风格",
+      "path": "3 - Tags/API设计风格.md"
     },
     {
-      "basename": "地址译码器",
-      "path": "6 - Main Notes/地址译码器.md"
+      "basename": "RUSTful的无状态性为什么好",
+      "path": "2 - Source Material/AI/RUSTful的无状态性为什么好.md"
     },
     {
-      "basename": "地址总线(Address Bus)",
-      "path": "6 - Main Notes/地址总线(Address Bus).md"
+      "basename": "RESTful之外的API设计风格",
+      "path": "2 - Source Material/AI/RESTful之外的API设计风格.md"
     },
     {
-      "basename": "数据总线(Data Bus)",
-      "path": "6 - Main Notes/数据总线(Data Bus).md"
+      "basename": "什么是RESTful API设计风格",
+      "path": "2 - Source Material/AI/什么是RESTful API设计风格.md"
     },
     {
-      "basename": "数据总线, 地址译码器和片选信号",
-      "path": "2 - Source Material/AI/数据总线, 地址译码器和片选信号.md"
+      "basename": "为什么RESTful这么流行",
+      "path": "2 - Source Material/AI/为什么RESTful这么流行.md"
     },
     {
-      "basename": "RAM芯片",
-      "path": "6 - Main Notes/RAM芯片.md"
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
     },
     {
-      "basename": "RAM芯片结构",
-      "path": "2 - Source Material/AI/RAM芯片结构.md"
+      "basename": "成绩分析功能所需的接口设计",
+      "path": "2 - Source Material/AI/成绩分析功能所需的接口设计.md"
     },
     {
-      "basename": "只读存储器(Read-Only Memory, ROM)",
-      "path": "6 - Main Notes/只读存储器(Read-Only Memory, ROM).md"
+      "basename": "Fine系统中关于成绩模块的设计",
+      "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
     },
     {
-      "basename": "地址复用技术",
-      "path": "6 - Main Notes/地址复用技术.md"
+      "basename": "RESTful",
+      "path": "6 - Main Notes/RESTful.md"
     },
     {
-      "basename": "随机存取存储器(Random Access Memory, RAM)",
-      "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
+      "basename": "RESTful API名称解释",
+      "path": "2 - Source Material/AI/RESTful API名称解释.md"
     },
     {
-      "basename": "动态RAM三种刷新方式",
-      "path": "6 - Main Notes/动态RAM三种刷新方式.md"
+      "basename": "REST(Representational State Transfer)",
+      "path": "6 - Main Notes/REST(Representational State Transfer).md"
     },
     {
-      "basename": "主存储器(Main Memory)",
-      "path": "6 - Main Notes/主存储器(Main Memory).md"
+      "basename": "http的多种请求方法",
+      "path": "6 - Main Notes/http的多种请求方法.md"
     },
     {
-      "basename": "DRAM的刷新详解",
-      "path": "2 - Source Material/AI/DRAM的刷新详解.md"
+      "basename": "Kant 康德",
+      "path": "3 - Tags/Kant 康德.md"
     },
     {
-      "basename": "存储器",
-      "path": "6 - Main Notes/存储器.md"
+      "basename": "Http(s)",
+      "path": "3 - Tags/Http(s).md"
     },
     {
-      "basename": "存储系统层次结构",
-      "path": "6 - Main Notes/存储系统层次结构.md"
+      "basename": "如何读懂常见的接口文档？-apifoxDoc",
+      "path": "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md"
     },
     {
-      "basename": "SAM",
-      "path": "6 - Main Notes/SAM.md"
+      "basename": "别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!)",
+      "path": "2 - Source Material/书籍/别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!).md"
     },
     {
-      "basename": "DAM",
-      "path": "6 - Main Notes/DAM.md"
+      "basename": "流式接口(Fluent Interface)",
+      "path": "6 - Main Notes/流式接口(Fluent Interface).md"
     },
     {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
+      "basename": "献给阿尔吉侬的花束",
+      "path": "2 - Source Material/书籍/献给阿尔吉侬的花束.md"
     },
     {
-      "basename": "Computer Organization and Architecture",
-      "path": "2 - Source Material/书籍/Computer Organization and Architecture.md"
+      "basename": "别忘了在阿尔吉侬的坟头放上花束",
+      "path": "6 - Main Notes/别忘了在阿尔吉侬的坟头放上花束.md"
     },
     {
-      "basename": "敏捷开发四个思想总结",
-      "path": "2 - Source Material/AI/敏捷开发四个思想总结.md"
-    },
-    {
-      "basename": "ICONIX名称的由来",
-      "path": "2 - Source Material/AI/ICONIX名称的由来.md"
-    },
-    {
-      "basename": "敏捷宣言核心概念解读",
-      "path": "6 - Main Notes/敏捷宣言核心概念解读.md"
-    },
-    {
-      "basename": "敏捷宣言",
-      "path": "2 - Source Material/文章/敏捷宣言.md"
-    },
-    {
-      "basename": "ICONIX的历史",
-      "path": "2 - Source Material/AI/ICONIX的历史.md"
+      "basename": "thoughts",
+      "path": "3 - Tags/thoughts.md"
     },
     {
       "basename": "ICONIX",
       "path": "6 - Main Notes/ICONIX.md"
     },
     {
-      "basename": "敏捷模型(敏捷开发)(Agile Model)",
-      "path": "6 - Main Notes/敏捷模型(敏捷开发)(Agile Model).md"
+      "basename": "提问在学习中的作用",
+      "path": "6 - Main Notes/提问在学习中的作用.md"
     },
     {
-      "basename": "Scrum",
-      "path": "6 - Main Notes/Scrum.md"
+      "basename": "Fine系统中课程表模块设计",
+      "path": "6 - Main Notes/Fine系统中课程表模块设计.md"
     },
     {
-      "basename": "健壮性分析(Robustness Analysis)",
-      "path": "6 - Main Notes/健壮性分析(Robustness Analysis).md"
+      "basename": "程序计数器(Program Counter, PC)",
+      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
     },
     {
-      "basename": "领域图(Domain Model Diagram)",
-      "path": "6 - Main Notes/领域图(Domain Model Diagram).md"
+      "basename": "理解人的学习",
+      "path": "6 - Main Notes/理解人的学习.md"
     },
     {
-      "basename": "用例图(Use Case Diagram)",
-      "path": "6 - Main Notes/用例图(Use Case Diagram).md"
+      "basename": "定长整数补码和反码的范围详解",
+      "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
     },
     {
-      "basename": "序列图(Sequence Diagram)",
-      "path": "6 - Main Notes/序列图(Sequence Diagram).md"
+      "basename": "测试用例的设计",
+      "path": "6 - Main Notes/测试用例的设计.md"
     },
     {
-      "basename": "UML",
-      "path": "6 - Main Notes/UML.md"
+      "basename": "边写边改(Code-and-Fix Model)",
+      "path": "6 - Main Notes/边写边改(Code-and-Fix Model).md"
     },
     {
-      "basename": "02SCRUM过程中每个过程的目的",
-      "path": "2 - Source Material/AI/02SCRUM过程中每个过程的目的.md"
+      "basename": "TVM在投资中的地位",
+      "path": "2 - Source Material/AI/TVM在投资中的地位.md"
     },
     {
-      "basename": "ICONIX为什么轻量",
-      "path": "2 - Source Material/AI/ICONIX为什么轻量.md"
+      "basename": "NPV是如何计算的",
+      "path": "2 - Source Material/AI/NPV是如何计算的.md"
     },
     {
-      "basename": "软件开发过程的生命周期",
-      "path": "6 - Main Notes/软件开发过程的生命周期.md"
+      "basename": "NPV的诞生",
+      "path": "6 - Main Notes/NPV的诞生.md"
     },
     {
-      "basename": "什么是序列图",
-      "path": "2 - Source Material/AI/什么是序列图.md"
+      "basename": "序列化",
+      "path": "2 - Source Material/AI/序列化.md"
     },
     {
-      "basename": "软件工程（Software Engineering）的发展历史",
-      "path": "2 - Source Material/AI/软件工程（Software Engineering）的发展历史.md"
+      "basename": "关于序列化",
+      "path": "2 - Source Material/AI/关于序列化.md"
     },
     {
-      "basename": "注重认知顺序的学习",
-      "path": "6 - Main Notes/注重认知顺序的学习.md"
+      "basename": "净现值分析(Net Present Value, NPV)",
+      "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
     },
     {
-      "basename": "软件开发模型",
-      "path": "6 - Main Notes/软件开发模型.md"
+      "basename": "Booth乘法是什么",
+      "path": "2 - Source Material/AI/Booth乘法是什么.md"
     },
     {
-      "basename": "软件开发生命周期和软件开发模型",
-      "path": "2 - Source Material/AI/软件开发生命周期和软件开发模型.md"
+      "basename": "计算机组成原理期末冲刺知识点粗解",
+      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
     },
     {
-      "basename": "软件危机(Software Crisis)",
-      "path": "6 - Main Notes/软件危机(Software Crisis).md"
+      "basename": "寻址和编址",
+      "path": "2 - Source Material/AI/寻址和编址.md"
     },
     {
-      "basename": "导致软件危机的因素分析",
-      "path": "2 - Source Material/AI/导致软件危机的因素分析.md"
+      "basename": "寻址方式",
+      "path": "6 - Main Notes/寻址方式.md"
     },
     {
-      "basename": "软件危机的出现和软件危机",
-      "path": "2 - Source Material/AI/软件危机的出现和软件危机.md"
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
     },
     {
-      "basename": "软件工程学",
-      "path": "6 - Main Notes/软件工程学.md"
+      "basename": "基地址(Base Address)",
+      "path": "6 - Main Notes/基地址(Base Address).md"
     },
     {
-      "basename": "什么是软件工程",
-      "path": "2 - Source Material/AI/什么是软件工程.md"
+      "basename": "补码",
+      "path": "6 - Main Notes/补码.md"
     },
     {
-      "basename": "Software Engineering",
-      "path": "4 - Indexes/Software Engineering.md"
+      "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
+      "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
+    },
+    {
+      "basename": "CPU中央处理器",
+      "path": "3 - Tags/CPU中央处理器.md"
+    },
+    {
+      "basename": "算数逻辑单元(Arithmetic Logic Unit, ALU)",
+      "path": "6 - Main Notes/算数逻辑单元(Arithmetic Logic Unit, ALU).md"
+    },
+    {
+      "basename": "数据总线(Data Bus)",
+      "path": "6 - Main Notes/数据总线(Data Bus).md"
+    },
+    {
+      "basename": "偏移寻址方式",
+      "path": "6 - Main Notes/偏移寻址方式.md"
+    },
+    {
+      "basename": "寄存器(Register)",
+      "path": "6 - Main Notes/寄存器(Register).md"
     }
   ],
   "omittedPaths": [],
