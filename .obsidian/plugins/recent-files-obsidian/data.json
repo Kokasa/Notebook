@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "如何高效学习",
+      "path": "2 - Source Material/书籍/如何高效学习.md"
+    },
+    {
+      "basename": "古今数学思想",
+      "path": "2 - Source Material/书籍/古今数学思想.md"
+    },
+    {
+      "basename": "高等数学",
+      "path": "3 - Tags/高等数学.md"
+    },
+    {
+      "basename": "什么是数学",
+      "path": "2 - Source Material/书籍/什么是数学.md"
+    },
+    {
+      "basename": "微积分的力量",
+      "path": "2 - Source Material/书籍/微积分的力量.md"
+    },
+    {
+      "basename": "Math",
+      "path": "4 - Indexes/Math.md"
+    },
+    {
+      "basename": "API请求PHP脚本",
+      "path": "2 - Source Material/AI/API请求PHP脚本.md"
+    },
+    {
+      "basename": "早期论坛url分析",
+      "path": "2 - Source Material/AI/早期论坛url分析.md"
+    },
+    {
+      "basename": "php时代基于查询字符串的API设计",
+      "path": "6 - Main Notes/php时代基于查询字符串的API设计.md"
+    },
+    {
+      "basename": "RESTful",
+      "path": "6 - Main Notes/RESTful.md"
+    },
+    {
+      "basename": "PHP",
+      "path": "3 - Tags/PHP.md"
+    },
+    {
+      "basename": "Java",
+      "path": "3 - Tags/Java.md"
+    },
+    {
+      "basename": "RESTful之外的API设计风格",
+      "path": "2 - Source Material/AI/RESTful之外的API设计风格.md"
+    },
+    {
+      "basename": "API设计风格",
+      "path": "3 - Tags/API设计风格.md"
+    },
+    {
+      "basename": "内容分发网络(CDN)",
+      "path": "6 - Main Notes/内容分发网络(CDN).md"
+    },
+    {
+      "basename": "缓存命中",
+      "path": "6 - Main Notes/缓存命中.md"
+    },
+    {
+      "basename": "Cache(缓存)",
+      "path": "6 - Main Notes/Cache(缓存).md"
+    },
+    {
       "basename": "URI(Uniform Resource Identifier)",
       "path": "6 - Main Notes/URI(Uniform Resource Identifier).md"
     },
@@ -13,16 +81,8 @@
       "path": "2 - Source Material/AI/网络本身也有存储功能吗.md"
     },
     {
-      "basename": "API设计风格",
-      "path": "3 - Tags/API设计风格.md"
-    },
-    {
       "basename": "RUSTful的无状态性为什么好",
       "path": "2 - Source Material/AI/RUSTful的无状态性为什么好.md"
-    },
-    {
-      "basename": "RESTful之外的API设计风格",
-      "path": "2 - Source Material/AI/RESTful之外的API设计风格.md"
     },
     {
       "basename": "什么是RESTful API设计风格",
@@ -33,20 +93,12 @@
       "path": "2 - Source Material/AI/为什么RESTful这么流行.md"
     },
     {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
-    },
-    {
       "basename": "成绩分析功能所需的接口设计",
       "path": "2 - Source Material/AI/成绩分析功能所需的接口设计.md"
     },
     {
       "basename": "Fine系统中关于成绩模块的设计",
       "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
-    },
-    {
-      "basename": "RESTful",
-      "path": "6 - Main Notes/RESTful.md"
     },
     {
       "basename": "RESTful API名称解释",
@@ -147,58 +199,6 @@
     {
       "basename": "净现值分析(Net Present Value, NPV)",
       "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
-    },
-    {
-      "basename": "Booth乘法是什么",
-      "path": "2 - Source Material/AI/Booth乘法是什么.md"
-    },
-    {
-      "basename": "计算机组成原理期末冲刺知识点粗解",
-      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
-    },
-    {
-      "basename": "寻址和编址",
-      "path": "2 - Source Material/AI/寻址和编址.md"
-    },
-    {
-      "basename": "寻址方式",
-      "path": "6 - Main Notes/寻址方式.md"
-    },
-    {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
-    },
-    {
-      "basename": "基地址(Base Address)",
-      "path": "6 - Main Notes/基地址(Base Address).md"
-    },
-    {
-      "basename": "补码",
-      "path": "6 - Main Notes/补码.md"
-    },
-    {
-      "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
-      "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
-    },
-    {
-      "basename": "CPU中央处理器",
-      "path": "3 - Tags/CPU中央处理器.md"
-    },
-    {
-      "basename": "算数逻辑单元(Arithmetic Logic Unit, ALU)",
-      "path": "6 - Main Notes/算数逻辑单元(Arithmetic Logic Unit, ALU).md"
-    },
-    {
-      "basename": "数据总线(Data Bus)",
-      "path": "6 - Main Notes/数据总线(Data Bus).md"
-    },
-    {
-      "basename": "偏移寻址方式",
-      "path": "6 - Main Notes/偏移寻址方式.md"
-    },
-    {
-      "basename": "寄存器(Register)",
-      "path": "6 - Main Notes/寄存器(Register).md"
     }
   ],
   "omittedPaths": [],

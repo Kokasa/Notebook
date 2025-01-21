@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "614f530197931c21",
+        "id": "5228760a323fb134",
         "type": "tabs",
         "children": [
           {
-            "id": "cb914b6eaa1bdd5a",
+            "id": "73762d0daf955b79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/URI.md",
+                "file": "2 - Source Material/书籍/如何高效学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URI"
-            }
-          },
-          {
-            "id": "394492f882628644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/API设计风格.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API设计风格"
+              "title": "如何高效学习"
             }
           }
         ]
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aPI",
+                "query": "cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,8 +97,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,120 +185,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "0ccd2e994da12115",
-    "type": "floating",
-    "children": [
-      {
-        "id": "daac28101dcbd4df",
-        "type": "window",
-        "children": [
-          {
-            "id": "7a0e5cbf06f6e6ee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9fbc5c70488551b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/什么是RESTful API设计风格.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "什么是RESTful API设计风格"
-                }
-              },
-              {
-                "id": "4c3d0152f418a4e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/为什么RESTful这么流行.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "为什么RESTful这么流行"
-                }
-              },
-              {
-                "id": "15d8fb7a7d5d253f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/RESTful之外的API设计风格.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RESTful之外的API设计风格"
-                }
-              },
-              {
-                "id": "8c2b7132f8afe605",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Material/AI/RUSTful的无状态性为什么好.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RUSTful的无状态性为什么好"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 46,
-        "y": 32,
-        "width": 686,
-        "height": 946,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "15d8fb7a7d5d253f",
+  "active": "73762d0daf955b79",
   "lastOpenFiles": [
+    "2 - Source Material/书籍/如何高效学习.md",
+    "2 - Source Material/书籍/古今数学思想.md",
+    "3 - Tags/高等数学.md",
+    "2 - Source Material/书籍/什么是数学.md",
+    "2 - Source Material/书籍/微积分的力量.md",
+    "4 - Indexes/Math.md",
+    "2 - Source Material/AI/API请求PHP脚本.md",
+    "2 - Source Material/AI/早期论坛url分析.md",
+    "6 - Main Notes/php时代基于查询字符串的API设计.md",
+    "6 - Main Notes/RESTful.md",
+    "3 - Tags/PHP.md",
+    "3 - Tags/Java.md",
+    "2 - Source Material/AI/RESTful之外的API设计风格.md",
+    "3 - Tags/API设计风格.md",
+    "6 - Main Notes/内容分发网络(CDN).md",
+    "6 - Main Notes/缓存命中.md",
+    "6 - Main Notes/Cache(缓存).md",
     "2 - Source Material/AI/RUSTful的无状态性为什么好.md",
     "2 - Source Material/AI/什么是RESTful API设计风格.md",
     "2 - Source Material/AI/为什么RESTful这么流行.md",
-    "2 - Source Material/AI/RESTful之外的API设计风格.md",
     "6 - Main Notes/URI.md",
-    "3 - Tags/API设计风格.md",
-    "6 - Main Notes/RESTful.md",
     "2 - Source Material/AI/RESTful API名称解释.md",
     "6 - Main Notes/REST(Representational State Transfer).md",
     "6 - Main Notes/http的多种请求方法.md",
     "3 - Tags/Kant 康德.md",
     "3 - Tags/Http(s).md",
-    "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md",
-    "2 - Source Material/书籍/别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!).md",
-    "6 - Main Notes/流式接口(Fluent Interface).md",
-    "2 - Source Material/书籍/献给阿尔吉侬的花束.md",
-    "6 - Main Notes/别忘了在阿尔吉侬的坟头放上花束.md",
-    "3 - Tags/thoughts.md",
-    "6 - Main Notes/ICONIX.md",
-    "6 - Main Notes/提问在学习中的作用.md",
-    "6 - Main Notes/Fine系统中课程表模块设计.md",
-    "6 - Main Notes/程序计数器(Program Counter, PC).md",
-    "6 - Main Notes/理解人的学习.md",
-    "6 - Main Notes/定长整数补码和反码的范围详解.md",
-    "6 - Main Notes/测试用例的设计.md",
-    "6 - Main Notes/边写边改(Code-and-Fix Model).md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",

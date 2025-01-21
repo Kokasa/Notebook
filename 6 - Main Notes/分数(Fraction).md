@@ -1,7 +1,7 @@
 2024-12-15    16:19
 
 status: #adult 
-tags: [[math]]
+tags: [[Math]]
 
 
 # 分数(Fraction)
