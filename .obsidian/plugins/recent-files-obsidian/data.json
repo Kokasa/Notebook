@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "呐喊-孔乙己",
+      "path": "2 - Source Material/书籍/呐喊-孔乙己.md"
+    },
+    {
+      "basename": "呐喊-药",
+      "path": "2 - Source Material/书籍/呐喊-药.md"
+    },
+    {
+      "basename": "鲁迅小说 药 悲剧与赤裸的讽刺",
+      "path": "6 - Main Notes/鲁迅小说 药 悲剧与赤裸的讽刺.md"
+    },
+    {
+      "basename": "中国文学",
+      "path": "3 - Tags/中国文学.md"
+    },
+    {
+      "basename": "鲁迅",
+      "path": "3 - Tags/鲁迅.md"
+    },
+    {
       "basename": "如何高效学习",
       "path": "2 - Source Material/书籍/如何高效学习.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "边写边改(Code-and-Fix Model)",
       "path": "6 - Main Notes/边写边改(Code-and-Fix Model).md"
-    },
-    {
-      "basename": "TVM在投资中的地位",
-      "path": "2 - Source Material/AI/TVM在投资中的地位.md"
-    },
-    {
-      "basename": "NPV是如何计算的",
-      "path": "2 - Source Material/AI/NPV是如何计算的.md"
-    },
-    {
-      "basename": "NPV的诞生",
-      "path": "6 - Main Notes/NPV的诞生.md"
-    },
-    {
-      "basename": "序列化",
-      "path": "2 - Source Material/AI/序列化.md"
-    },
-    {
-      "basename": "关于序列化",
-      "path": "2 - Source Material/AI/关于序列化.md"
-    },
-    {
-      "basename": "净现值分析(Net Present Value, NPV)",
-      "path": "6 - Main Notes/净现值分析(Net Present Value, NPV).md"
     }
   ],
   "omittedPaths": [],
