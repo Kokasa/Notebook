@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fee2851acd647db",
+            "id": "e74f6211449b72f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/书籍/呐喊-孔乙己.md",
+                "file": "6 - Main Notes/Double游戏中的数学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呐喊-孔乙己"
-            }
-          },
-          {
-            "id": "3f08a2b70de7e5ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/孔乙己-种下人性的种子.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "孔乙己-种下人性的种子"
+              "title": "Double游戏中的数学"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f08a2b70de7e5ee",
+  "active": "e74f6211449b72f5",
   "lastOpenFiles": [
+    "7 - Resources/Pasted image 20250123235859.png",
+    "2 - Source Material/AI/Double中的奥秘.md",
+    "6 - Main Notes/Double游戏中的数学.md",
     "2 - Source Material/书籍/呐喊-孔乙己.md",
     "6 - Main Notes/孔乙己-种下人性的种子.md",
     "2 - Source Material/书籍/呐喊-药.md",
@@ -226,9 +213,6 @@
     "6 - Main Notes/内容分发网络(CDN).md",
     "6 - Main Notes/缓存命中.md",
     "6 - Main Notes/Cache(缓存).md",
-    "2 - Source Material/AI/RUSTful的无状态性为什么好.md",
-    "2 - Source Material/AI/什么是RESTful API设计风格.md",
-    "2 - Source Material/AI/为什么RESTful这么流行.md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",

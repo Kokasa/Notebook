@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "Double游戏中的数学",
+      "path": "6 - Main Notes/Double游戏中的数学.md"
+    },
+    {
+      "basename": "Double中的奥秘",
+      "path": "2 - Source Material/AI/Double中的奥秘.md"
     },
     {
       "basename": "呐喊-孔乙己",
       "path": "2 - Source Material/书籍/呐喊-孔乙己.md"
+    },
+    {
+      "basename": "孔乙己-种下人性的种子",
+      "path": "6 - Main Notes/孔乙己-种下人性的种子.md"
     },
     {
       "basename": "呐喊-药",
@@ -191,14 +199,6 @@
     {
       "basename": "定长整数补码和反码的范围详解",
       "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
-    },
-    {
-      "basename": "测试用例的设计",
-      "path": "6 - Main Notes/测试用例的设计.md"
-    },
-    {
-      "basename": "边写边改(Code-and-Fix Model)",
-      "path": "6 - Main Notes/边写边改(Code-and-Fix Model).md"
     }
   ],
   "omittedPaths": [],
