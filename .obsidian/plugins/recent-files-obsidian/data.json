@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "人月神话",
+      "path": "2 - Source Material/书籍/人月神话.md"
+    },
+    {
       "basename": "Double游戏中的数学",
       "path": "6 - Main Notes/Double游戏中的数学.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "程序计数器(Program Counter, PC)",
       "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
-    },
-    {
-      "basename": "理解人的学习",
-      "path": "6 - Main Notes/理解人的学习.md"
-    },
-    {
-      "basename": "定长整数补码和反码的范围详解",
-      "path": "6 - Main Notes/定长整数补码和反码的范围详解.md"
     }
   ],
   "omittedPaths": [],
