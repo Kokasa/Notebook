@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e74f6211449b72f5",
+            "id": "0fc1e34762c7c6f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/书籍/人月神话.md",
+                "file": "6 - Main Notes/兔子洞学科模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人月神话"
-            }
-          },
-          {
-            "id": "098c75f6eefe8b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/测试在软件开发过程中地位的缺失.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "测试在软件开发过程中地位的缺失"
+              "title": "兔子洞学科模型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098c75f6eefe8b2f",
+  "active": "0fc1e34762c7c6f0",
   "lastOpenFiles": [
+    "6 - Main Notes/项目型学习(Project-Based Learning, PBL).md",
+    "6 - Main Notes/兔子洞学科模型.md",
+    "6 - Main Notes/为什么PBL令人着迷.md",
+    "6 - Main Notes/整体性学习划分的五种信息种类.md",
+    "6 - Main Notes/关于整体性学习中的五个阶段.md",
+    "6 - Main Notes/整体性学习.md",
     "6 - Main Notes/测试在软件开发过程中地位的缺失.md",
     "2 - Source Material/书籍/人月神话.md",
     "6 - Main Notes/Double游戏中的数学.md",
@@ -224,12 +214,6 @@
     "2 - Source Material/AI/早期论坛url分析.md",
     "6 - Main Notes/php时代基于查询字符串的API设计.md",
     "6 - Main Notes/RESTful.md",
-    "3 - Tags/PHP.md",
-    "3 - Tags/Java.md",
-    "2 - Source Material/AI/RESTful之外的API设计风格.md",
-    "3 - Tags/API设计风格.md",
-    "6 - Main Notes/内容分发网络(CDN).md",
-    "6 - Main Notes/缓存命中.md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",
