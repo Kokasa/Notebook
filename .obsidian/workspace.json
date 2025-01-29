@@ -11,18 +11,24 @@
             "id": "0fc1e34762c7c6f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/兔子洞学科模型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "兔子洞学科模型"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "4fd0b5a5f54b8681",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/浮点数(Floating Point).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "浮点数(Floating Point) 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -136,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/IEEE 745 标准浮点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "IEEE 745 标准浮点数 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -185,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fc1e34762c7c6f0",
+  "active": "4fd0b5a5f54b8681",
   "lastOpenFiles": [
-    "6 - Main Notes/项目型学习(Project-Based Learning, PBL).md",
+    "2 - Source Material/AI/从生活开始认识导数.md",
     "6 - Main Notes/兔子洞学科模型.md",
+    "6 - Main Notes/项目型学习(Project-Based Learning, PBL).md",
     "6 - Main Notes/为什么PBL令人着迷.md",
     "6 - Main Notes/整体性学习划分的五种信息种类.md",
     "6 - Main Notes/关于整体性学习中的五个阶段.md",
@@ -213,7 +218,6 @@
     "2 - Source Material/AI/API请求PHP脚本.md",
     "2 - Source Material/AI/早期论坛url分析.md",
     "6 - Main Notes/php时代基于查询字符串的API设计.md",
-    "6 - Main Notes/RESTful.md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",

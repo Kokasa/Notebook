@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "从生活开始认识导数",
+      "path": "2 - Source Material/AI/从生活开始认识导数.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
       "basename": "兔子洞模型",
       "path": "6 - Main Notes/兔子洞模型.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!)",
       "path": "2 - Source Material/书籍/别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!).md"
-    },
-    {
-      "basename": "流式接口(Fluent Interface)",
-      "path": "6 - Main Notes/流式接口(Fluent Interface).md"
-    },
-    {
-      "basename": "献给阿尔吉侬的花束",
-      "path": "2 - Source Material/书籍/献给阿尔吉侬的花束.md"
     }
   ],
   "omittedPaths": [],
