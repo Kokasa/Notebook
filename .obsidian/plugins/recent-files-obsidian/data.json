@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "双译码结构对线路的优化",
+      "path": "6 - Main Notes/双译码结构对线路的优化.md"
+    },
+    {
+      "basename": "计算机组成原理微课堂-湖科大",
+      "path": "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md"
+    },
+    {
+      "basename": "译码器",
+      "path": "6 - Main Notes/译码器.md"
+    },
+    {
       "basename": "直接存储技术(Direct Memory Access, DMA)",
       "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "RESTful API名称解释",
       "path": "2 - Source Material/AI/RESTful API名称解释.md"
-    },
-    {
-      "basename": "REST(Representational State Transfer)",
-      "path": "6 - Main Notes/REST(Representational State Transfer).md"
-    },
-    {
-      "basename": "http的多种请求方法",
-      "path": "6 - Main Notes/http的多种请求方法.md"
-    },
-    {
-      "basename": "Kant 康德",
-      "path": "3 - Tags/Kant 康德.md"
     }
   ],
   "omittedPaths": [],
