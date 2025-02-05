@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "从生活开始认识导数",
-      "path": "2 - Source Material/AI/从生活开始认识导数.md"
+      "basename": "直接存储技术(Direct Memory Access, DMA)",
+      "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
     },
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "为什么没有间接存储器这种说法",
+      "path": "2 - Source Material/AI/为什么没有间接存储器这种说法.md"
+    },
+    {
+      "basename": "是否存在 间接存储器",
+      "path": "2 - Source Material/AI/是否存在 间接存储器.md"
+    },
+    {
+      "basename": "数学归纳法-就像是多米诺骨牌",
+      "path": "2 - Source Material/AI/数学归纳法-就像是多米诺骨牌.md"
+    },
+    {
+      "basename": "从生活开始认识导数",
+      "path": "2 - Source Material/AI/从生活开始认识导数.md"
     },
     {
       "basename": "兔子洞模型",
@@ -187,18 +199,6 @@
     {
       "basename": "Kant 康德",
       "path": "3 - Tags/Kant 康德.md"
-    },
-    {
-      "basename": "Http(s)",
-      "path": "3 - Tags/Http(s).md"
-    },
-    {
-      "basename": "如何读懂常见的接口文档？-apifoxDoc",
-      "path": "2 - Source Material/文章/如何读懂常见的接口文档？-apifoxDoc.md"
-    },
-    {
-      "basename": "别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!)",
-      "path": "2 - Source Material/书籍/别闹了, 费曼先生(Surely You're Joking, Mr. Feynman!).md"
     }
   ],
   "omittedPaths": [],
