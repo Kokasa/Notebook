@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "随机存取存储器(Random Access Memory, RAM)",
+      "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
+    },
+    {
+      "basename": "使用名词对抽象概念进行解释",
+      "path": "6 - Main Notes/使用名词对抽象概念进行解释.md"
+    },
+    {
+      "basename": "AI是否适合布尔巴基学派风格",
+      "path": "2 - Source Material/AI/AI是否适合布尔巴基学派风格.md"
+    },
+    {
       "basename": "双译码结构对线路的优化",
       "path": "6 - Main Notes/双译码结构对线路的优化.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "为什么RESTful这么流行",
       "path": "2 - Source Material/AI/为什么RESTful这么流行.md"
-    },
-    {
-      "basename": "成绩分析功能所需的接口设计",
-      "path": "2 - Source Material/AI/成绩分析功能所需的接口设计.md"
-    },
-    {
-      "basename": "Fine系统中关于成绩模块的设计",
-      "path": "6 - Main Notes/Fine系统中关于成绩模块的设计.md"
-    },
-    {
-      "basename": "RESTful API名称解释",
-      "path": "2 - Source Material/AI/RESTful API名称解释.md"
     }
   ],
   "omittedPaths": [],
