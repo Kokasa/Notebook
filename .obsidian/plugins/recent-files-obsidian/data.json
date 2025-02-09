@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "双译码结构对线路的优化",
+      "path": "6 - Main Notes/双译码结构对线路的优化.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "4 - Indexes/Software Engineering.md"
+    },
+    {
       "basename": "随机存取存储器(Random Access Memory, RAM)",
       "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "AI是否适合布尔巴基学派风格",
       "path": "2 - Source Material/AI/AI是否适合布尔巴基学派风格.md"
-    },
-    {
-      "basename": "双译码结构对线路的优化",
-      "path": "6 - Main Notes/双译码结构对线路的优化.md"
     },
     {
       "basename": "计算机组成原理微课堂-湖科大",
@@ -191,14 +199,6 @@
     {
       "basename": "RUSTful的无状态性为什么好",
       "path": "2 - Source Material/AI/RUSTful的无状态性为什么好.md"
-    },
-    {
-      "basename": "什么是RESTful API设计风格",
-      "path": "2 - Source Material/AI/什么是RESTful API设计风格.md"
-    },
-    {
-      "basename": "为什么RESTful这么流行",
-      "path": "2 - Source Material/AI/为什么RESTful这么流行.md"
     }
   ],
   "omittedPaths": [],
