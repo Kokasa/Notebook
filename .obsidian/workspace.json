@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "已知和未知的处理效率"
             }
+          },
+          {
+            "id": "dd0b01ff78241459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/AI/如何面对习得性无助.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何面对习得性无助"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d034fa075516f732",
+  "active": "dd0b01ff78241459",
   "lastOpenFiles": [
+    "2 - Source Material/AI/如何面对习得性无助.md",
     "6 - Main Notes/已知和未知的处理效率.md",
     "6 - Main Notes/双译码结构对线路的优化.md",
     "4 - Indexes/Software Engineering.md",
@@ -230,7 +246,6 @@
     "2 - Source Material/AI/Double中的奥秘.md",
     "2 - Source Material/书籍/呐喊-孔乙己.md",
     "6 - Main Notes/孔乙己-种下人性的种子.md",
-    "2 - Source Material/书籍/呐喊-药.md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",

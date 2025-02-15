@@ -5,6 +5,10 @@
       "path": "6 - Main Notes/未命名.md"
     },
     {
+      "basename": "已知和未知的处理效率",
+      "path": "6 - Main Notes/已知和未知的处理效率.md"
+    },
+    {
       "basename": "双译码结构对线路的优化",
       "path": "6 - Main Notes/双译码结构对线路的优化.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "网络本身也有存储功能吗",
       "path": "2 - Source Material/AI/网络本身也有存储功能吗.md"
-    },
-    {
-      "basename": "RUSTful的无状态性为什么好",
-      "path": "2 - Source Material/AI/RUSTful的无状态性为什么好.md"
     }
   ],
   "omittedPaths": [],
