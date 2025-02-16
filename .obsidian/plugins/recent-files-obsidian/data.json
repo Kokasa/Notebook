@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "直观理解四种IO控制方式",
+      "path": "6 - Main Notes/直观理解四种IO控制方式.md"
+    },
+    {
+      "basename": "九种寻址方式",
+      "path": "6 - Main Notes/九种寻址方式.md"
+    },
+    {
+      "basename": "三总线结构计算机",
+      "path": "6 - Main Notes/三总线结构计算机.md"
+    },
+    {
+      "basename": "计算机中的总线",
+      "path": "6 - Main Notes/计算机中的总线.md"
+    },
+    {
+      "basename": "控制总线(Control Bus)",
+      "path": "6 - Main Notes/控制总线(Control Bus).md"
+    },
+    {
+      "basename": "三种偏移寻址方式",
+      "path": "6 - Main Notes/三种偏移寻址方式.md"
+    },
+    {
+      "basename": "零地址指令与栈结构",
+      "path": "6 - Main Notes/零地址指令与栈结构.md"
+    },
+    {
+      "basename": "栈(stack)",
+      "path": "6 - Main Notes/栈(stack).md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "3 - Tags/数据结构.md"
+    },
+    {
+      "basename": "拓展操作码是如何实现的",
+      "path": "2 - Source Material/AI/拓展操作码是如何实现的.md"
+    },
+    {
+      "basename": "TLB, 页,  Cache, 主存 四者的关系",
+      "path": "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md"
+    },
+    {
+      "basename": "快表(Translation Lookaside Buffer, TLB)",
+      "path": "6 - Main Notes/快表(Translation Lookaside Buffer, TLB).md"
+    },
+    {
+      "basename": "页访问流程",
+      "path": "6 - Main Notes/页访问流程.md"
+    },
+    {
+      "basename": "主存, MMU, 页表 以及三者关系",
+      "path": "2 - Source Material/AI/主存, MMU, 页表 以及三者关系.md"
+    },
+    {
+      "basename": "内存管理单元(Memory Management Unit, MMU)",
+      "path": "6 - Main Notes/内存管理单元(Memory Management Unit, MMU).md"
+    },
+    {
+      "basename": "页式虚拟存储器",
+      "path": "6 - Main Notes/页式虚拟存储器.md"
+    },
+    {
+      "basename": "按需加载-虚拟存储器",
+      "path": "2 - Source Material/AI/按需加载-虚拟存储器.md"
+    },
+    {
+      "basename": "是否存在 间接存储器",
+      "path": "2 - Source Material/AI/是否存在 间接存储器.md"
+    },
+    {
+      "basename": "为什么没有间接存储器这种说法",
+      "path": "2 - Source Material/AI/为什么没有间接存储器这种说法.md"
+    },
+    {
+      "basename": "直接存储技术(Direct Memory Access, DMA)",
+      "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
+    },
+    {
+      "basename": "译码器",
+      "path": "6 - Main Notes/译码器.md"
+    },
+    {
+      "basename": "计算机组成原理微课堂-湖科大",
+      "path": "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md"
+    },
+    {
+      "basename": "使用名词对抽象概念进行解释",
+      "path": "6 - Main Notes/使用名词对抽象概念进行解释.md"
     },
     {
       "basename": "已知和未知的处理效率",
@@ -13,40 +101,16 @@
       "path": "6 - Main Notes/双译码结构对线路的优化.md"
     },
     {
-      "basename": "Software Engineering",
-      "path": "4 - Indexes/Software Engineering.md"
-    },
-    {
       "basename": "随机存取存储器(Random Access Memory, RAM)",
       "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
     },
     {
-      "basename": "使用名词对抽象概念进行解释",
-      "path": "6 - Main Notes/使用名词对抽象概念进行解释.md"
+      "basename": "Software Engineering",
+      "path": "4 - Indexes/Software Engineering.md"
     },
     {
       "basename": "AI是否适合布尔巴基学派风格",
       "path": "2 - Source Material/AI/AI是否适合布尔巴基学派风格.md"
-    },
-    {
-      "basename": "计算机组成原理微课堂-湖科大",
-      "path": "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md"
-    },
-    {
-      "basename": "译码器",
-      "path": "6 - Main Notes/译码器.md"
-    },
-    {
-      "basename": "直接存储技术(Direct Memory Access, DMA)",
-      "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
-    },
-    {
-      "basename": "为什么没有间接存储器这种说法",
-      "path": "2 - Source Material/AI/为什么没有间接存储器这种说法.md"
-    },
-    {
-      "basename": "是否存在 间接存储器",
-      "path": "2 - Source Material/AI/是否存在 间接存储器.md"
     },
     {
       "basename": "数学归纳法-就像是多米诺骨牌",
@@ -135,70 +199,6 @@
     {
       "basename": "什么是数学",
       "path": "2 - Source Material/书籍/什么是数学.md"
-    },
-    {
-      "basename": "微积分的力量",
-      "path": "2 - Source Material/书籍/微积分的力量.md"
-    },
-    {
-      "basename": "Math",
-      "path": "4 - Indexes/Math.md"
-    },
-    {
-      "basename": "API请求PHP脚本",
-      "path": "2 - Source Material/AI/API请求PHP脚本.md"
-    },
-    {
-      "basename": "早期论坛url分析",
-      "path": "2 - Source Material/AI/早期论坛url分析.md"
-    },
-    {
-      "basename": "php时代基于查询字符串的API设计",
-      "path": "6 - Main Notes/php时代基于查询字符串的API设计.md"
-    },
-    {
-      "basename": "RESTful",
-      "path": "6 - Main Notes/RESTful.md"
-    },
-    {
-      "basename": "PHP",
-      "path": "3 - Tags/PHP.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3 - Tags/Java.md"
-    },
-    {
-      "basename": "RESTful之外的API设计风格",
-      "path": "2 - Source Material/AI/RESTful之外的API设计风格.md"
-    },
-    {
-      "basename": "API设计风格",
-      "path": "3 - Tags/API设计风格.md"
-    },
-    {
-      "basename": "内容分发网络(CDN)",
-      "path": "6 - Main Notes/内容分发网络(CDN).md"
-    },
-    {
-      "basename": "缓存命中",
-      "path": "6 - Main Notes/缓存命中.md"
-    },
-    {
-      "basename": "Cache(缓存)",
-      "path": "6 - Main Notes/Cache(缓存).md"
-    },
-    {
-      "basename": "URI(Uniform Resource Identifier)",
-      "path": "6 - Main Notes/URI(Uniform Resource Identifier).md"
-    },
-    {
-      "basename": "资源在网络中是如何流动的",
-      "path": "6 - Main Notes/资源在网络中是如何流动的.md"
-    },
-    {
-      "basename": "网络本身也有存储功能吗",
-      "path": "2 - Source Material/AI/网络本身也有存储功能吗.md"
     }
   ],
   "omittedPaths": [],

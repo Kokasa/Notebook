@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5228760a323fb134",
+        "id": "0018bb2beaca6282",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0d51bbfc769837",
+            "id": "77a382411cb60f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/双译码结构对线路的优化.md",
+                "file": "6 - Main Notes/直观理解四种IO控制方式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "双译码结构对线路的优化"
-            }
-          },
-          {
-            "id": "d034fa075516f732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/已知和未知的处理效率.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "已知和未知的处理效率"
-            }
-          },
-          {
-            "id": "dd0b01ff78241459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/AI/如何面对习得性无助.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何面对习得性无助"
+              "title": "直观理解四种IO控制方式"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sram",
+                "query": "总线",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,44 +184,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd0b01ff78241459",
+  "active": "77a382411cb60f0b",
   "lastOpenFiles": [
-    "2 - Source Material/AI/如何面对习得性无助.md",
+    "6 - Main Notes/直观理解四种IO控制方式.md",
+    "6 - Main Notes/九种寻址方式.md",
+    "6 - Main Notes/三总线结构计算机.md",
+    "6 - Main Notes/计算机中的总线.md",
+    "6 - Main Notes/控制总线(Control Bus).md",
+    "6 - Main Notes/内存管理单元(MMU).md",
+    "6 - Main Notes/三种偏移寻址方式.md",
+    "6 - Main Notes/零地址指令与栈结构.md",
+    "6 - Main Notes/栈(stack).md",
+    "3 - Tags/数据结构.md",
+    "2 - Source Material/AI/拓展操作码是如何实现的.md",
+    "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md",
+    "6 - Main Notes/快表(Translation Lookaside Buffer, TLB).md",
+    "6 - Main Notes/页访问流程.md",
+    "7 - Resources/Pasted image 20250216170134.png",
+    "7 - Resources/Pasted image 20250216170118.png",
+    "7 - Resources/Pasted image 20250216165835.png",
+    "2 - Source Material/AI/主存, MMU, 页表 以及三者关系.md",
+    "6 - Main Notes/内存管理单元(Memory Management Unit, MMU).md",
+    "6 - Main Notes/页式虚拟存储器.md",
+    "2 - Source Material/AI/按需加载-虚拟存储器.md",
+    "2 - Source Material/AI/是否存在 间接存储器.md",
+    "2 - Source Material/AI/为什么没有间接存储器这种说法.md",
+    "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md",
+    "6 - Main Notes/译码器.md",
+    "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md",
+    "6 - Main Notes/使用名词对抽象概念进行解释.md",
     "6 - Main Notes/已知和未知的处理效率.md",
     "6 - Main Notes/双译码结构对线路的优化.md",
-    "4 - Indexes/Software Engineering.md",
-    "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
-    "6 - Main Notes/使用名词对抽象概念进行解释.md",
-    "2 - Source Material/AI/AI是否适合布尔巴基学派风格.md",
-    "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md",
     "7 - Resources/Pasted image 20250205235941.png",
-    "6 - Main Notes/译码器.md",
     "7 - Resources/Pasted image 20250205235611.png",
-    "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md",
-    "2 - Source Material/AI/为什么没有间接存储器这种说法.md",
-    "2 - Source Material/AI/是否存在 间接存储器.md",
-    "2 - Source Material/AI/数学归纳法-就像是多米诺骨牌.md",
-    "2 - Source Material/AI/从生活开始认识导数.md",
-    "6 - Main Notes/兔子洞学科模型.md",
-    "6 - Main Notes/项目型学习(Project-Based Learning, PBL).md",
-    "6 - Main Notes/为什么PBL令人着迷.md",
-    "6 - Main Notes/整体性学习划分的五种信息种类.md",
-    "6 - Main Notes/关于整体性学习中的五个阶段.md",
-    "6 - Main Notes/整体性学习.md",
-    "6 - Main Notes/测试在软件开发过程中地位的缺失.md",
-    "2 - Source Material/书籍/人月神话.md",
-    "6 - Main Notes/Double游戏中的数学.md",
     "7 - Resources/Pasted image 20250123235859.png",
-    "2 - Source Material/AI/Double中的奥秘.md",
-    "2 - Source Material/书籍/呐喊-孔乙己.md",
-    "6 - Main Notes/孔乙己-种下人性的种子.md",
     "7 - Resources/Pasted image 20250109001756.png",
     "7 - Resources/Pasted image 20250109001738.png",
     "7 - Resources/Pasted image 20250109001104.png",
     "7 - Resources/Pasted image 20250108220537.png",
-    "7 - Resources/Pasted image 20250108120048.png",
-    "7 - Resources/Pasted image 20250108000000.png",
-    "7 - Resources/Pasted image 20250107234203.png",
     "构造方法",
     "2 - Source Material/源码/Animals/Dog.java",
     "2 - Source Material/源码/Animals/Animal.java",
