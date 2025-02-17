@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "直观理解四种IO控制方式",
-      "path": "6 - Main Notes/直观理解四种IO控制方式.md"
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "计算机性能指标",
+      "path": "6 - Main Notes/计算机性能指标.md"
+    },
+    {
+      "basename": "Cache",
+      "path": "6 - Main Notes/Cache.md"
+    },
+    {
+      "basename": "时钟周期(Clock Cycle)",
+      "path": "6 - Main Notes/时钟周期(Clock Cycle).md"
+    },
+    {
+      "basename": "计算机中的周期",
+      "path": "6 - Main Notes/计算机中的周期.md"
+    },
+    {
+      "basename": "指令周期(Instruction Cycle)",
+      "path": "6 - Main Notes/指令周期(Instruction Cycle).md"
+    },
+    {
+      "basename": "机器周期(Machine Cycle)",
+      "path": "6 - Main Notes/机器周期(Machine Cycle).md"
+    },
+    {
+      "basename": "内存管理单元(Memory Management Unit, MMU)",
+      "path": "6 - Main Notes/内存管理单元(Memory Management Unit, MMU).md"
+    },
+    {
+      "basename": "中断(Interrupt)",
+      "path": "6 - Main Notes/中断(Interrupt).md"
+    },
+    {
+      "basename": "四种IO控制方式",
+      "path": "6 - Main Notes/四种IO控制方式.md"
     },
     {
       "basename": "九种寻址方式",
       "path": "6 - Main Notes/九种寻址方式.md"
+    },
+    {
+      "basename": "间接寻址以及寄存器的作用",
+      "path": "2 - Source Material/AI/间接寻址以及寄存器的作用.md"
+    },
+    {
+      "basename": "堆栈寻址(Stack Addressing)",
+      "path": "6 - Main Notes/堆栈寻址(Stack Addressing).md"
+    },
+    {
+      "basename": "用堆栈操作来'恢复现场'",
+      "path": "2 - Source Material/AI/用堆栈操作来'恢复现场'.md"
+    },
+    {
+      "basename": "三种偏移寻址方式",
+      "path": "6 - Main Notes/三种偏移寻址方式.md"
+    },
+    {
+      "basename": "为什么相对寻址跳转指令不会'跳出去'",
+      "path": "2 - Source Material/AI/为什么相对寻址跳转指令不会'跳出去'.md"
+    },
+    {
+      "basename": "三种偏移寻址方式的应用场景",
+      "path": "2 - Source Material/AI/三种偏移寻址方式的应用场景.md"
+    },
+    {
+      "basename": "计算机组成原理期末冲刺知识点粗解",
+      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
+    },
+    {
+      "basename": "寻址和编址",
+      "path": "2 - Source Material/AI/寻址和编址.md"
     },
     {
       "basename": "三总线结构计算机",
@@ -19,10 +87,6 @@
     {
       "basename": "控制总线(Control Bus)",
       "path": "6 - Main Notes/控制总线(Control Bus).md"
-    },
-    {
-      "basename": "三种偏移寻址方式",
-      "path": "6 - Main Notes/三种偏移寻址方式.md"
     },
     {
       "basename": "零地址指令与栈结构",
@@ -55,10 +119,6 @@
     {
       "basename": "主存, MMU, 页表 以及三者关系",
       "path": "2 - Source Material/AI/主存, MMU, 页表 以及三者关系.md"
-    },
-    {
-      "basename": "内存管理单元(Memory Management Unit, MMU)",
-      "path": "6 - Main Notes/内存管理单元(Memory Management Unit, MMU).md"
     },
     {
       "basename": "页式虚拟存储器",
@@ -139,66 +199,6 @@
     {
       "basename": "关于整体性学习中的五个阶段",
       "path": "6 - Main Notes/关于整体性学习中的五个阶段.md"
-    },
-    {
-      "basename": "整体性学习",
-      "path": "6 - Main Notes/整体性学习.md"
-    },
-    {
-      "basename": "测试在软件开发过程中地位的缺失",
-      "path": "6 - Main Notes/测试在软件开发过程中地位的缺失.md"
-    },
-    {
-      "basename": "人月神话",
-      "path": "2 - Source Material/书籍/人月神话.md"
-    },
-    {
-      "basename": "Double游戏中的数学",
-      "path": "6 - Main Notes/Double游戏中的数学.md"
-    },
-    {
-      "basename": "Double中的奥秘",
-      "path": "2 - Source Material/AI/Double中的奥秘.md"
-    },
-    {
-      "basename": "呐喊-孔乙己",
-      "path": "2 - Source Material/书籍/呐喊-孔乙己.md"
-    },
-    {
-      "basename": "孔乙己-种下人性的种子",
-      "path": "6 - Main Notes/孔乙己-种下人性的种子.md"
-    },
-    {
-      "basename": "呐喊-药",
-      "path": "2 - Source Material/书籍/呐喊-药.md"
-    },
-    {
-      "basename": "鲁迅小说 药 悲剧与赤裸的讽刺",
-      "path": "6 - Main Notes/鲁迅小说 药 悲剧与赤裸的讽刺.md"
-    },
-    {
-      "basename": "中国文学",
-      "path": "3 - Tags/中国文学.md"
-    },
-    {
-      "basename": "鲁迅",
-      "path": "3 - Tags/鲁迅.md"
-    },
-    {
-      "basename": "如何高效学习",
-      "path": "2 - Source Material/书籍/如何高效学习.md"
-    },
-    {
-      "basename": "古今数学思想",
-      "path": "2 - Source Material/书籍/古今数学思想.md"
-    },
-    {
-      "basename": "高等数学",
-      "path": "3 - Tags/高等数学.md"
-    },
-    {
-      "basename": "什么是数学",
-      "path": "2 - Source Material/书籍/什么是数学.md"
     }
   ],
   "omittedPaths": [],
