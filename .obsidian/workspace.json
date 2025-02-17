@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93576f0fed711974",
+            "id": "49677c37f1d40a8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/AI/ICONIX中的健壮性分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ICONIX中的健壮性分析"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iconix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +97,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,8 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7763411bc0754ae",
+  "active": "49677c37f1d40a8e",
   "lastOpenFiles": [
+    "6 - Main Notes/ICONIX.md",
+    "6 - Main Notes/只读存储器(Read-Only Memory, ROM).md",
+    "6 - Main Notes/存储器.md",
+    "6 - Main Notes/可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM).md",
     "6 - Main Notes/学习流程总结与补充.md",
     "6 - Main Notes/计算机性能指标.md",
     "6 - Main Notes/Cache.md",
@@ -202,10 +212,6 @@
     "2 - Source Material/AI/寻址和编址.md",
     "6 - Main Notes/三总线结构计算机.md",
     "6 - Main Notes/计算机中的总线.md",
-    "6 - Main Notes/控制总线(Control Bus).md",
-    "6 - Main Notes/内存管理单元(MMU).md",
-    "6 - Main Notes/零地址指令与栈结构.md",
-    "6 - Main Notes/栈(stack).md",
     "7 - Resources/Pasted image 20250216170134.png",
     "7 - Resources/Pasted image 20250216170118.png",
     "7 - Resources/Pasted image 20250216165835.png",

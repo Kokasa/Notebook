@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "6 - Main Notes/未命名.md"
+      "basename": "ICONIX中的健壮性分析",
+      "path": "2 - Source Material/AI/ICONIX中的健壮性分析.md"
+    },
+    {
+      "basename": "ICONIX",
+      "path": "6 - Main Notes/ICONIX.md"
+    },
+    {
+      "basename": "只读存储器(Read-Only Memory, ROM)",
+      "path": "6 - Main Notes/只读存储器(Read-Only Memory, ROM).md"
+    },
+    {
+      "basename": "存储器",
+      "path": "6 - Main Notes/存储器.md"
+    },
+    {
+      "basename": "可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM)",
+      "path": "6 - Main Notes/可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM).md"
+    },
+    {
+      "basename": "学习流程总结与补充",
+      "path": "6 - Main Notes/学习流程总结与补充.md"
     },
     {
       "basename": "计算机性能指标",
@@ -179,26 +199,6 @@
     {
       "basename": "从生活开始认识导数",
       "path": "2 - Source Material/AI/从生活开始认识导数.md"
-    },
-    {
-      "basename": "兔子洞模型",
-      "path": "6 - Main Notes/兔子洞模型.md"
-    },
-    {
-      "basename": "项目型学习(Project-Based Learning, PBL)",
-      "path": "6 - Main Notes/项目型学习(Project-Based Learning, PBL).md"
-    },
-    {
-      "basename": "为什么PBL令人着迷",
-      "path": "6 - Main Notes/为什么PBL令人着迷.md"
-    },
-    {
-      "basename": "整体性学习划分的五种信息种类",
-      "path": "6 - Main Notes/整体性学习划分的五种信息种类.md"
-    },
-    {
-      "basename": "关于整体性学习中的五个阶段",
-      "path": "6 - Main Notes/关于整体性学习中的五个阶段.md"
     }
   ],
   "omittedPaths": [],
