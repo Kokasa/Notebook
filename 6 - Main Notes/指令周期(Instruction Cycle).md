@@ -1,7 +1,7 @@
 2025-02-17    14:40
 
 status: #adult 
-tags: [[Computer Science]]
+tags: [[计算机指令]]
 
 
 # 指令周期(Instruction Cycle)

@@ -1,6 +1,138 @@
 {
   "recentFiles": [
     {
+      "basename": "九种寻址方式",
+      "path": "6 - Main Notes/九种寻址方式.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "6 - Main Notes/未命名.md"
+    },
+    {
+      "basename": "指令格式",
+      "path": "6 - Main Notes/指令格式.md"
+    },
+    {
+      "basename": "计算机指令",
+      "path": "6 - Main Notes/计算机指令.md"
+    },
+    {
+      "basename": "PC如何指向下一条指令",
+      "path": "2 - Source Material/AI/PC如何指向下一条指令.md"
+    },
+    {
+      "basename": "指令周期(Instruction Cycle)",
+      "path": "6 - Main Notes/指令周期(Instruction Cycle).md"
+    },
+    {
+      "basename": "累加器是什么, 如何参与到机器指令的工作中",
+      "path": "2 - Source Material/AI/累加器是什么, 如何参与到机器指令的工作中.md"
+    },
+    {
+      "basename": "复杂指令集计算机(Complex Instruction Set Computer)",
+      "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer).md"
+    },
+    {
+      "basename": "机器指令",
+      "path": "6 - Main Notes/机器指令.md"
+    },
+    {
+      "basename": "零地址指令与栈结构",
+      "path": "6 - Main Notes/零地址指令与栈结构.md"
+    },
+    {
+      "basename": "计算机系统的指挥者-CPU的主要功能介绍",
+      "path": "6 - Main Notes/计算机系统的指挥者-CPU的主要功能介绍.md"
+    },
+    {
+      "basename": "CPU中央处理器",
+      "path": "3 - Tags/CPU中央处理器.md"
+    },
+    {
+      "basename": "四种IO控制方式",
+      "path": "6 - Main Notes/四种IO控制方式.md"
+    },
+    {
+      "basename": "CPU的基本组成",
+      "path": "6 - Main Notes/CPU的基本组成.md"
+    },
+    {
+      "basename": "对cpu基本组成的补充",
+      "path": "2 - Source Material/AI/对cpu基本组成的补充.md"
+    },
+    {
+      "basename": "cpu哪些部分是可视的, 为什么很多元件的位宽相等",
+      "path": "2 - Source Material/AI/cpu哪些部分是可视的, 为什么很多元件的位宽相等.md"
+    },
+    {
+      "basename": "CPU中主要的寄存器",
+      "path": "6 - Main Notes/CPU中主要的寄存器.md"
+    },
+    {
+      "basename": "为什么计算机总是读取一整行内存单元",
+      "path": "6 - Main Notes/为什么计算机总是读取一整行内存单元.md"
+    },
+    {
+      "basename": "主存储器(Main Memory)",
+      "path": "6 - Main Notes/主存储器(Main Memory).md"
+    },
+    {
+      "basename": "时钟信号",
+      "path": "2 - Source Material/AI/时钟信号.md"
+    },
+    {
+      "basename": "时钟周期(Clock Cycle)",
+      "path": "6 - Main Notes/时钟周期(Clock Cycle).md"
+    },
+    {
+      "basename": "多普勒效应",
+      "path": "6 - Main Notes/多普勒效应.md"
+    },
+    {
+      "basename": "Big Bang",
+      "path": "6 - Main Notes/Big Bang.md"
+    },
+    {
+      "basename": "简单认识碳同位素测年法",
+      "path": "2 - Source Material/AI/简单认识碳同位素测年法.md"
+    },
+    {
+      "basename": "物理现象-多普勒效应",
+      "path": "2 - Source Material/AI/物理现象-多普勒效应.md"
+    },
+    {
+      "basename": "支撑BigBang的两个重要依据",
+      "path": "2 - Source Material/AI/支撑BigBang的两个重要依据.md"
+    },
+    {
+      "basename": "波的传播和移动-多普勒效应",
+      "path": "2 - Source Material/AI/波的传播和移动-多普勒效应.md"
+    },
+    {
+      "basename": "pysics",
+      "path": "3 - Tags/pysics.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "中断(Interrupt)",
+      "path": "6 - Main Notes/中断(Interrupt).md"
+    },
+    {
+      "basename": "直接存储技术(Direct Memory Access, DMA)",
+      "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
+    },
+    {
+      "basename": "存储器",
+      "path": "6 - Main Notes/存储器.md"
+    },
+    {
+      "basename": "SAM",
+      "path": "6 - Main Notes/SAM.md"
+    },
+    {
       "basename": "ICONIX中的健壮性分析",
       "path": "2 - Source Material/AI/ICONIX中的健壮性分析.md"
     },
@@ -11,10 +143,6 @@
     {
       "basename": "只读存储器(Read-Only Memory, ROM)",
       "path": "6 - Main Notes/只读存储器(Read-Only Memory, ROM).md"
-    },
-    {
-      "basename": "存储器",
-      "path": "6 - Main Notes/存储器.md"
     },
     {
       "basename": "可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM)",
@@ -33,16 +161,8 @@
       "path": "6 - Main Notes/Cache.md"
     },
     {
-      "basename": "时钟周期(Clock Cycle)",
-      "path": "6 - Main Notes/时钟周期(Clock Cycle).md"
-    },
-    {
       "basename": "计算机中的周期",
       "path": "6 - Main Notes/计算机中的周期.md"
-    },
-    {
-      "basename": "指令周期(Instruction Cycle)",
-      "path": "6 - Main Notes/指令周期(Instruction Cycle).md"
     },
     {
       "basename": "机器周期(Machine Cycle)",
@@ -51,18 +171,6 @@
     {
       "basename": "内存管理单元(Memory Management Unit, MMU)",
       "path": "6 - Main Notes/内存管理单元(Memory Management Unit, MMU).md"
-    },
-    {
-      "basename": "中断(Interrupt)",
-      "path": "6 - Main Notes/中断(Interrupt).md"
-    },
-    {
-      "basename": "四种IO控制方式",
-      "path": "6 - Main Notes/四种IO控制方式.md"
-    },
-    {
-      "basename": "九种寻址方式",
-      "path": "6 - Main Notes/九种寻址方式.md"
     },
     {
       "basename": "间接寻址以及寄存器的作用",
@@ -91,114 +199,6 @@
     {
       "basename": "计算机组成原理期末冲刺知识点粗解",
       "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
-    },
-    {
-      "basename": "寻址和编址",
-      "path": "2 - Source Material/AI/寻址和编址.md"
-    },
-    {
-      "basename": "三总线结构计算机",
-      "path": "6 - Main Notes/三总线结构计算机.md"
-    },
-    {
-      "basename": "计算机中的总线",
-      "path": "6 - Main Notes/计算机中的总线.md"
-    },
-    {
-      "basename": "控制总线(Control Bus)",
-      "path": "6 - Main Notes/控制总线(Control Bus).md"
-    },
-    {
-      "basename": "零地址指令与栈结构",
-      "path": "6 - Main Notes/零地址指令与栈结构.md"
-    },
-    {
-      "basename": "栈(stack)",
-      "path": "6 - Main Notes/栈(stack).md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "3 - Tags/数据结构.md"
-    },
-    {
-      "basename": "拓展操作码是如何实现的",
-      "path": "2 - Source Material/AI/拓展操作码是如何实现的.md"
-    },
-    {
-      "basename": "TLB, 页,  Cache, 主存 四者的关系",
-      "path": "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md"
-    },
-    {
-      "basename": "快表(Translation Lookaside Buffer, TLB)",
-      "path": "6 - Main Notes/快表(Translation Lookaside Buffer, TLB).md"
-    },
-    {
-      "basename": "页访问流程",
-      "path": "6 - Main Notes/页访问流程.md"
-    },
-    {
-      "basename": "主存, MMU, 页表 以及三者关系",
-      "path": "2 - Source Material/AI/主存, MMU, 页表 以及三者关系.md"
-    },
-    {
-      "basename": "页式虚拟存储器",
-      "path": "6 - Main Notes/页式虚拟存储器.md"
-    },
-    {
-      "basename": "按需加载-虚拟存储器",
-      "path": "2 - Source Material/AI/按需加载-虚拟存储器.md"
-    },
-    {
-      "basename": "是否存在 间接存储器",
-      "path": "2 - Source Material/AI/是否存在 间接存储器.md"
-    },
-    {
-      "basename": "为什么没有间接存储器这种说法",
-      "path": "2 - Source Material/AI/为什么没有间接存储器这种说法.md"
-    },
-    {
-      "basename": "直接存储技术(Direct Memory Access, DMA)",
-      "path": "6 - Main Notes/直接存储技术(Direct Memory Access, DMA).md"
-    },
-    {
-      "basename": "译码器",
-      "path": "6 - Main Notes/译码器.md"
-    },
-    {
-      "basename": "计算机组成原理微课堂-湖科大",
-      "path": "2 - Source Material/视频/计算机组成原理微课堂-湖科大.md"
-    },
-    {
-      "basename": "使用名词对抽象概念进行解释",
-      "path": "6 - Main Notes/使用名词对抽象概念进行解释.md"
-    },
-    {
-      "basename": "已知和未知的处理效率",
-      "path": "6 - Main Notes/已知和未知的处理效率.md"
-    },
-    {
-      "basename": "双译码结构对线路的优化",
-      "path": "6 - Main Notes/双译码结构对线路的优化.md"
-    },
-    {
-      "basename": "随机存取存储器(Random Access Memory, RAM)",
-      "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
-    },
-    {
-      "basename": "Software Engineering",
-      "path": "4 - Indexes/Software Engineering.md"
-    },
-    {
-      "basename": "AI是否适合布尔巴基学派风格",
-      "path": "2 - Source Material/AI/AI是否适合布尔巴基学派风格.md"
-    },
-    {
-      "basename": "数学归纳法-就像是多米诺骨牌",
-      "path": "2 - Source Material/AI/数学归纳法-就像是多米诺骨牌.md"
-    },
-    {
-      "basename": "从生活开始认识导数",
-      "path": "2 - Source Material/AI/从生活开始认识导数.md"
     }
   ],
   "omittedPaths": [],
