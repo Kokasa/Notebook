@@ -1,7 +1,7 @@
 2025-01-04    17:34
 
 status: #adult 
-tags: [[Computer Science]]
+tags: [[CPU中主要的寄存器]]
 
 
 # 程序计数器(Program Counter, PC)

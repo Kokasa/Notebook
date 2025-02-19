@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2cc0ffc90a5d89f4","x":120,"y":-380,"width":400,"height":400,"type":"file","file":"6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer, CISC).md"},
+		{"id":"849872f47cc4cbdc","x":-140,"y":80,"width":400,"height":400,"type":"file","file":"6 - Main Notes/RISC和CISC的比较.md"},
+		{"id":"2b207709fe4b8b30","x":-400,"y":-380,"width":400,"height":400,"type":"file","file":"6 - Main Notes/精简指令集计算机(Reduced Instruction Set Computer, RISC).md"}
+	],
+	"edges":[
+		{"id":"640e0c3547279b50","fromNode":"2b207709fe4b8b30","fromSide":"right","toNode":"849872f47cc4cbdc","toSide":"top"},
+		{"id":"da1831159367d210","fromNode":"2cc0ffc90a5d89f4","fromSide":"left","toNode":"849872f47cc4cbdc","toSide":"top"}
+	]
+}

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignHorizontalJustifyCenter",
+      "LiCircuitBoard",
+      "LiAtSign",
       "LiBean",
-      "LiBotMessageSquare",
-      "LiFacebook",
-      "LiBrain",
-      "LiAperture"
+      "LiBotMessageSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,7 +40,6 @@
   "4 - Indexes": "LiIndent",
   "5 - Templates": "LiLayoutTemplate",
   "6 - Main Notes": "LiNotebookPen",
-  "7 - Resources": "LiAtSign",
   "8 - Textbook Notes": "LiBookOpenText",
   "2 - Source Material/视频": "LiVideo",
   "2 - Source Material/书籍": "LiBook",
@@ -48,5 +47,7 @@
   "2 - Source Material/源码": "LiCode2",
   "2 - Source Material/AI": "LiBotMessageSquare",
   "2 - Source Material/社区": "LiFacebook",
-  "2 - Source Material/其他": "LiBean"
+  "2 - Source Material/其他": "LiBean",
+  "7 - Resources": "LiAtSign",
+  "8- Canvas": "LiAlignHorizontalJustifyCenter"
 }

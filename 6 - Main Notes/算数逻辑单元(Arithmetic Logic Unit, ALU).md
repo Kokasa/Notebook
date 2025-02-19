@@ -1,7 +1,7 @@
 2025-01-04    17:03
 
 status: #adult 
-tags: [[Computer Science]]
+tags: [[CPU中央处理器]]
 
 
 # 算数逻辑单元(Arithmetic Logic Unit, ALU)
