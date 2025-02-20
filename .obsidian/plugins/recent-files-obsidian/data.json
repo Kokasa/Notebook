@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "四种机器码的推导",
-      "path": "6 - Main Notes/四种机器码的推导.md"
+      "basename": "我对于计算机使用补码表示法的理解",
+      "path": "6 - Main Notes/我对于计算机使用补码表示法的理解.md"
+    },
+    {
+      "basename": "四种机器数的理解",
+      "path": "2 - Source Material/AI/四种机器数的理解.md"
+    },
+    {
+      "basename": "补码",
+      "path": "6 - Main Notes/补码.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "计算机指令",
+      "path": "6 - Main Notes/计算机指令.md"
     },
     {
       "basename": "指令周期(Instruction Cycle)",
       "path": "6 - Main Notes/指令周期(Instruction Cycle).md"
     },
     {
-      "basename": "计算机指令",
-      "path": "6 - Main Notes/计算机指令.md"
+      "basename": "八进制和十六进制的转换(低效)",
+      "path": "6 - Main Notes/八进制和十六进制的转换(低效).md"
+    },
+    {
+      "basename": "数制",
+      "path": "6 - Main Notes/数制.md"
+    },
+    {
+      "basename": "四种机器码的推导",
+      "path": "6 - Main Notes/四种机器码的推导.md"
     },
     {
       "basename": "CPU的基本组成",
@@ -175,26 +199,6 @@
     {
       "basename": "为什么计算机总是读取一整行内存单元",
       "path": "6 - Main Notes/为什么计算机总是读取一整行内存单元.md"
-    },
-    {
-      "basename": "时钟信号",
-      "path": "2 - Source Material/AI/时钟信号.md"
-    },
-    {
-      "basename": "时钟周期(Clock Cycle)",
-      "path": "6 - Main Notes/时钟周期(Clock Cycle).md"
-    },
-    {
-      "basename": "多普勒效应",
-      "path": "6 - Main Notes/多普勒效应.md"
-    },
-    {
-      "basename": "Big Bang",
-      "path": "6 - Main Notes/Big Bang.md"
-    },
-    {
-      "basename": "简单认识碳同位素测年法",
-      "path": "2 - Source Material/AI/简单认识碳同位素测年法.md"
     }
   ],
   "omittedPaths": [],
