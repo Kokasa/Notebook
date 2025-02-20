@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3864045f8a9a4aab",
+        "id": "70e036be63b54ea7",
         "type": "tabs",
         "children": [
           {
-            "id": "cf86354c165976d0",
+            "id": "ce6a0cf9516024ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/IEEE 754 标准浮点数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "IEEE 754 标准浮点数"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四种机器码的推导01",
+                "query": "浮点数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +97,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,49 +186,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf86354c165976d0",
+  "active": "ce6a0cf9516024ef",
   "lastOpenFiles": [
-    "6 - Main Notes/我对于计算机使用补码表示法的理解.md",
-    "2 - Source Material/AI/四种机器数的理解.md",
+    "7 - Resources/IEEE 754 标准浮点数-1740059909468.jpeg",
+    "2 - Source Material/视频/【计算机组成原理微课堂】- 湖科大版.md",
+    "6 - Main Notes/IEEE 754 标准浮点数.md",
+    "6 - Main Notes/规格化浮点数.md",
+    "6 - Main Notes/浮点数(Floating Point).md",
+    "7 - Resources/浮点数_Floating Point_-1740059377790.jpeg",
     "6 - Main Notes/补码.md",
-    "3 - Tags/Computer Science.md",
-    "6 - Main Notes/计算机指令.md",
-    "6 - Main Notes/指令周期(Instruction Cycle).md",
-    "6 - Main Notes/八进制和十六进制的转换(低效).md",
-    "6 - Main Notes/数制.md",
+    "6 - Main Notes/补码的位权.md",
+    "6 - Main Notes/机器数.md",
+    "6 - Main Notes/原码, 补码, 反码, 移码的比较.md",
+    "6 - Main Notes/反码.md",
+    "6 - Main Notes/移码.md",
+    "7 - Resources/原码, 补码, 反码, 移码的比较-1740057899372.jpeg",
+    "7 - Resources/移码-1740057647023.jpeg",
+    "7 - Resources/原码, 补码, 反码的比较-1740057602368.jpeg",
     "6 - Main Notes/四种机器码的推导.md",
-    "2 - Source Material/AI/四种机器码的推导01.md",
+    "6 - Main Notes/双符号位机器数.md",
+    "2 - Source Material/AI/四种机器数的理解.md",
+    "6 - Main Notes/为什么使用反码+1计算补码.md",
+    "6 - Main Notes/为什么同一个机器数表示补码时范围比反码大.md",
+    "6 - Main Notes/我对于计算机使用补码表示法的理解.md",
+    "6 - Main Notes/定长整数补码和反码的范围详解.md",
+    "6 - Main Notes/原码.md",
+    "2 - Source Material/AI/补码的最大值和最小值为什么互补.md",
+    "2 - Source Material/AI/补码在计算机中解决的问题.md",
+    "6 - Main Notes/模运算(mod).md",
+    "2 - Source Material/AI/RAM芯片结构.md",
+    "2 - Source Material/AI/因果图中的约束.md",
+    "2 - Source Material/AI/什么是基地址.md",
+    "2 - Source Material/AI/课程表模块需要的数据校验.md",
     "7 - Resources/指令周期_Instruction Cycle_-1739954246192.jpeg",
-    "6 - Main Notes/CPU的基本组成.md",
-    "6 - Main Notes/计算机中的周期.md",
-    "2 - Source Material/AI/PC如何指向下一条指令.md",
     "7 - Resources/计算机中的周期-1739953902051.jpeg",
-    "6 - Main Notes/指令流水线技术.md",
-    "6 - Main Notes/对比微程序控制器和硬布线技术.md",
-    "6 - Main Notes/精简指令集计算机(Reduced Instruction Set Computer, RISC).md",
-    "6 - Main Notes/微程序控制器.md",
-    "6 - Main Notes/硬布线控制器(Hardwired Controller).md",
     "8- Canvas/CISC和RISC.canvas",
-    "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer, CISC).md",
-    "6 - Main Notes/RISC和CISC的比较.md",
     "7 - Resources/RISC和CISC的比较-1739949587434.jpeg",
     "7 - Resources/RISC和CISC的比较-1739949551180.png",
-    "2 - Source Material/AI/如何看待RISC和CISC的发展.md",
-    "6 - Main Notes/九种寻址方式.md",
-    "6 - Main Notes/堆栈寻址(Stack Addressing).md",
-    "6 - Main Notes/未命名 1.md",
     "未命名.canvas",
     "8- Canvas",
     "未命名 1.canvas",
-    "6 - Main Notes/主存储器(Main Memory).md",
-    "6 - Main Notes/大端方式小端方式.md",
     "7 - Resources - 副本/详细的user表设计.png",
     "7 - Resources - 副本/若依数据库中部分表展示.png",
-    "7 - Resources - 副本/数据库建表规约2.png",
-    "7 - Resources - 副本/数据库建表规约1.png",
     "7 - Resources - 副本/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
-    "7 - Resources - 副本/九种寻址方式-1739930480289.png",
-    "7 - Resources - 副本/Pasted image 20250107230448.png",
     "7 - Resources - 副本",
     "7 - Resources/什么是内容管理系统 (CMS)？ _ Oracle 中国.html",
     "7 - Resources",
