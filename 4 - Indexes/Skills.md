@@ -3,5 +3,5 @@
 
 ## how系列
 
-[[how to study]]
+[[how to learning]]
 [[how to use AI]]

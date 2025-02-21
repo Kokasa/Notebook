@@ -1,7 +1,7 @@
 2025-01-29    15:36
 
 status: #adult 
-tags: [[how to study]]
+tags: [[how to learning]]
 
 
 # 项目型学习(Project-Based Learning, PBL)

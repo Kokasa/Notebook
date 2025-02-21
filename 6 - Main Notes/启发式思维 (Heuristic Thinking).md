@@ -2,7 +2,7 @@
 
 status: #baby
 
-tags: [[Sharpen Yourself]], [[how to study]], [[cognition]], [[Philosophy]]
+tags: [[Sharpen Yourself]], [[how to learning]], [[cognition]], [[Philosophy]]
 
 
 # 启发式思维 (Heuristic Thinking)
