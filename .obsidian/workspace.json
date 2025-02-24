@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d346a30dabcb32e6",
+            "id": "955a83212a7a11bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/溢出判断.md",
+                "file": "6 - Main Notes/总线性能指标.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "溢出判断"
+              "title": "总线性能指标"
             }
           },
           {
-            "id": "2a1a52ebed5879d3",
+            "id": "c37505517dc97f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/认知模型探讨.md",
+                "file": "6 - Main Notes/总线仲裁机制.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "认知模型探讨"
+              "title": "总线仲裁机制"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "溢出",
+                "query": "仲裁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "right": {
     "id": "4fd855ee517ae850",
@@ -202,46 +202,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a1a52ebed5879d3",
+  "active": "c37505517dc97f9a",
   "lastOpenFiles": [
-    "2 - Source Material/AI/知识认知模型的创新探讨.md",
-    "6 - Main Notes/认知模型探讨.md",
-    "6 - Main Notes/溢出判断.md",
-    "6 - Main Notes/补码的位权.md",
-    "6 - Main Notes/为什么我们需要不断练习.md",
-    "6 - Main Notes/知识筛选.md",
-    "3 - Tags/how to learning.md",
-    "6 - Main Notes/补码.md",
-    "6 - Main Notes/算数移位.md",
+    "6 - Main Notes/总线性能指标.md",
+    "6 - Main Notes/总线.md",
+    "6 - Main Notes/时钟周期(Clock Cycle).md",
+    "6 - Main Notes/主存储器的拓展.md",
+    "6 - Main Notes/系统总线.md",
+    "6 - Main Notes/单总线结构计算机.md",
+    "6 - Main Notes/控制总线(Control Bus).md",
+    "3 - Tags/Computer Science.md",
+    "6 - Main Notes/通道方式.md",
+    "6 - Main Notes/四种IO控制方式.md",
+    "6 - Main Notes/总线仲裁机制.md",
+    "6 - Main Notes/数据总线(Data Bus).md",
+    "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md",
+    "6 - Main Notes/地址总线(Address Bus).md",
+    "2 - Source Material/AI/一周课表的拓展.md",
+    "2 - Source Material/AI/对于主存储器拓展图的解释.md",
+    "6 - Main Notes/地址分配与拓展存储器.md",
+    "6 - Main Notes/可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM).md",
+    "2 - Source Material/AI/DRAM的刷新详解.md",
+    "6 - Main Notes/寻址方式.md",
+    "6 - Main Notes/动态RAM三种刷新方式.md",
+    "7 - Resources/动态RAM三种刷新方式-1740358461721.jpeg",
+    "7 - Resources/动态RAM三种刷新方式-1740358415046.jpeg",
+    "7 - Resources/动态RAM三种刷新方式-1740358402417.jpeg",
+    "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
+    "6 - Main Notes/通过联想和找规律记忆不理解原理的法则-以booth乘法为例.md",
+    "6 - Main Notes/LN-浮点数范围.md",
+    "3 - Tags/Leaves Node(LN, 叶节点).md",
+    "6 - Main Notes/原码一位乘法和无符号数乘法.md",
+    "7 - Resources/原码一位乘法和无符号数乘法-1740282483422.jpeg",
+    "7 - Resources/原码一位乘法和无符号数乘法-1740282406251.jpeg",
     "7 - Resources/算数移位-1740121604924.jpeg",
-    "2 - Source Material/AI/补码的算数移位运算规则.md",
     "7 - Resources/算数移位-1740120141084.jpeg",
-    "6 - Main Notes/逻辑移位.md",
-    "6 - Main Notes/二进制移位运算.md",
-    "6 - Main Notes/循环移位.md",
     "7 - Resources/循环移位-1740119777471.jpeg",
     "7 - Resources/循环移位-1740119507594.jpeg",
-    "3 - Tags/计算机算数.md",
-    "6 - Main Notes/计算机中机器数的存储方式.md",
-    "6 - Main Notes/模型蒸馏简单理解.md",
-    "2 - Source Material/AI/计算机中的机器数是怎样存储的.md",
-    "6 - Main Notes/浮点数(Floating Point).md",
-    "6 - Main Notes/整型和浮点型之间的转换.md",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
-    "6 - Main Notes/浮点数在数轴上的分布.md",
     "7 - Resources/浮点数在数轴上的分布-1740109334585.jpeg",
-    "7 - Resources/浮点数在数轴上的分布-1740108884448.jpeg",
-    "6 - Main Notes/康奈尔笔记法.md",
-    "6 - Main Notes/我的笔记流程.md",
-    "5 - Templates/Template-Main Note.md",
-    "6 - Main Notes/test.md",
-    "5 - Templates/Template-模块设计说明书.md",
-    "6 - Main Notes/哈希算法.md",
-    "7 - Resources/IEEE 754 标准浮点数-1740059909468.jpeg",
-    "7 - Resources/浮点数_Floating Point_-1740059377790.jpeg",
-    "7 - Resources/原码, 补码, 反码, 移码的比较-1740057899372.jpeg",
-    "7 - Resources/移码-1740057647023.jpeg",
     "未命名.canvas",
     "8- Canvas",
     "未命名 1.canvas",

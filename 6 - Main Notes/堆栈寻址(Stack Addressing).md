@@ -1,7 +1,7 @@
 2025-02-17    11:28
 
 status: #adult 
-tags: [[九种寻址方式]]
+tags: [[寻址方式]]
 
 
 # 堆栈寻址(Stack Addressing)
