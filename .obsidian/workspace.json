@@ -8,37 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "955a83212a7a11bd",
+            "id": "e85cf7a250d1d94c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/总线性能指标.md",
+                "file": "6 - Main Notes/大端方式小端方式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总线性能指标"
+              "title": "大端方式小端方式"
             }
           },
           {
-            "id": "c37505517dc97f9a",
+            "id": "c05b6fad23c0817a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/从指令到微操作.md",
+                "file": "6 - Main Notes/主存储器(Main Memory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从指令到微操作"
+              "title": "主存储器(Main Memory)"
+            }
+          },
+          {
+            "id": "f83f8524506a9968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/微程序控制器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微程序控制器"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "指令",
+                "query": "微指令",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,46 +217,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37505517dc97f9a",
+  "active": "f83f8524506a9968",
   "lastOpenFiles": [
+    "6 - Main Notes/对比微程序控制器和硬布线技术.md",
+    "6 - Main Notes/从指令到微操作.md",
+    "6 - Main Notes/中断(Interrupt).md",
+    "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md",
+    "6 - Main Notes/高速缓存(Cache).md",
+    "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
+    "6 - Main Notes/机器指令.md",
+    "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer, CISC).md",
+    "6 - Main Notes/计算机组成原理期末冲刺.md",
+    "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md",
+    "6 - Main Notes/边界对齐.md",
+    "7 - Resources/边界对齐-1740464920676.jpeg",
+    "7 - Resources/边界对齐-1740464790537.jpeg",
+    "6 - Main Notes/主存储器(Main Memory).md",
+    "6 - Main Notes/大端方式小端方式.md",
+    "6 - Main Notes/海明码校验.md",
+    "2 - Source Material/视频/【海明码！不用记！本质就是分组校验！（25全新版、附带例题）】.md",
+    "7 - Resources/海明码校验-1740463308897.jpeg",
+    "7 - Resources/海明码校验-1740463263341.jpeg",
+    "3 - Tags/差错检验.md",
+    "6 - Main Notes/控制器.md",
+    "6 - Main Notes/微程序控制器.md",
+    "6 - Main Notes/控制方式.md",
+    "6 - Main Notes/硬布线控制器.md",
+    "6 - Main Notes/未命名.md",
     "6 - Main Notes/计算机指令.md",
     "6 - Main Notes/指令周期(Instruction Cycle).md",
-    "6 - Main Notes/从指令到微操作.md",
     "6 - Main Notes/指令格式.md",
     "2 - Source Material/AI/有趣的拓展操作码.md",
     "6 - Main Notes/指令流水线技术.md",
-    "2 - Source Material/AI/深度剖析计算机机器指令的组成.md",
-    "6 - Main Notes/计算机组成原理期末冲刺.md",
-    "3 - Tags/Computer Science.md",
-    "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md",
-    "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md",
-    "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md",
-    "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
-    "6 - Main Notes/总线.md",
-    "6 - Main Notes/总线仲裁机制.md",
-    "6 - Main Notes/总线性能指标.md",
-    "6 - Main Notes/时钟周期(Clock Cycle).md",
-    "6 - Main Notes/主存储器的拓展.md",
-    "6 - Main Notes/系统总线.md",
-    "6 - Main Notes/单总线结构计算机.md",
-    "6 - Main Notes/控制总线(Control Bus).md",
-    "6 - Main Notes/通道方式.md",
-    "6 - Main Notes/四种IO控制方式.md",
-    "6 - Main Notes/数据总线(Data Bus).md",
-    "6 - Main Notes/地址总线(Address Bus).md",
-    "2 - Source Material/AI/一周课表的拓展.md",
     "7 - Resources/动态RAM三种刷新方式-1740358461721.jpeg",
     "7 - Resources/动态RAM三种刷新方式-1740358415046.jpeg",
     "7 - Resources/动态RAM三种刷新方式-1740358402417.jpeg",
     "7 - Resources/原码一位乘法和无符号数乘法-1740282483422.jpeg",
     "7 - Resources/原码一位乘法和无符号数乘法-1740282406251.jpeg",
     "7 - Resources/算数移位-1740121604924.jpeg",
-    "7 - Resources/算数移位-1740120141084.jpeg",
-    "7 - Resources/循环移位-1740119777471.jpeg",
-    "7 - Resources/循环移位-1740119507594.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
-    "7 - Resources/浮点数在数轴上的分布-1740109334585.jpeg",
     "未命名.canvas",
     "8- Canvas",
     "未命名 1.canvas",
