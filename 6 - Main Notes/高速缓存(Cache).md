@@ -10,3 +10,5 @@ tags: [[CPU中央处理器]], [[缓存]],
 
 
 # References
+
+[[cache替换算法]]

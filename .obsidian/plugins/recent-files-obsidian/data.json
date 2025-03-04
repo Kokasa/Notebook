@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "6 - Main Notes/未命名 1.md"
+    },
+    {
+      "basename": "数学视角下的计算机",
+      "path": "2 - Source Material/AI/数学视角下的计算机.md"
+    },
+    {
+      "basename": "计算机组成原理期末冲刺",
+      "path": "6 - Main Notes/计算机组成原理期末冲刺.md"
+    },
+    {
+      "basename": "计算机组成原理期末冲刺知识点粗解",
+      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
+    },
+    {
+      "basename": "存储器",
+      "path": "6 - Main Notes/存储器.md"
+    },
+    {
+      "basename": "DAM",
+      "path": "6 - Main Notes/DAM.md"
+    },
+    {
+      "basename": "TLB, 页,  Cache, 主存 四者的关系",
+      "path": "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md"
+    },
+    {
+      "basename": "主存储器(Main Memory)",
+      "path": "6 - Main Notes/主存储器(Main Memory).md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "3 - Tags/Computer Science.md"
+    },
+    {
+      "basename": "系统总线",
+      "path": "6 - Main Notes/系统总线.md"
+    },
+    {
+      "basename": "控制总线(Control Bus)",
+      "path": "6 - Main Notes/控制总线(Control Bus).md"
+    },
+    {
+      "basename": "总线",
+      "path": "6 - Main Notes/总线.md"
+    },
+    {
+      "basename": "通道方式",
+      "path": "6 - Main Notes/通道方式.md"
+    },
+    {
+      "basename": "四种IO控制方式",
+      "path": "6 - Main Notes/四种IO控制方式.md"
+    },
+    {
+      "basename": "中断(Interrupt)",
+      "path": "6 - Main Notes/中断(Interrupt).md"
+    },
+    {
+      "basename": "随机存取存储器(Random Access Memory, RAM)",
+      "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
+    },
+    {
+      "basename": "动态RAM三种刷新方式",
+      "path": "6 - Main Notes/动态RAM三种刷新方式.md"
+    },
+    {
+      "basename": "原码一位除法",
+      "path": "6 - Main Notes/原码一位除法.md"
+    },
+    {
+      "basename": "二进制乘法",
+      "path": "6 - Main Notes/二进制乘法.md"
+    },
+    {
+      "basename": "算数移位",
+      "path": "6 - Main Notes/算数移位.md"
+    },
+    {
+      "basename": "原码一位乘法和无符号数乘法",
+      "path": "6 - Main Notes/原码一位乘法和无符号数乘法.md"
+    },
+    {
+      "basename": "通过联想和找规律记忆不理解原理的法则-以booth乘法为例",
+      "path": "6 - Main Notes/通过联想和找规律记忆不理解原理的法则-以booth乘法为例.md"
+    },
+    {
+      "basename": "第2章 数据的机器层次表示",
+      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
+    },
+    {
+      "basename": "补码在计算机中解决的问题",
+      "path": "2 - Source Material/AI/补码在计算机中解决的问题.md"
+    },
+    {
+      "basename": "补码",
+      "path": "6 - Main Notes/补码.md"
+    },
+    {
+      "basename": "Booth乘法是什么",
+      "path": "2 - Source Material/AI/Booth乘法是什么.md"
+    },
+    {
+      "basename": "补码的算数移位运算规则",
+      "path": "2 - Source Material/AI/补码的算数移位运算规则.md"
+    },
+    {
+      "basename": "cache替换算法",
+      "path": "2 - Source Material/AI/cache替换算法.md"
+    },
+    {
+      "basename": "高速缓存(Cache)",
+      "path": "6 - Main Notes/高速缓存(Cache).md"
+    },
+    {
+      "basename": "快表(Translation Lookaside Buffer, TLB)",
+      "path": "6 - Main Notes/快表(Translation Lookaside Buffer, TLB).md"
+    },
+    {
       "basename": "微程序控制器",
       "path": "6 - Main Notes/微程序控制器.md"
     },
@@ -13,22 +133,6 @@
       "path": "6 - Main Notes/从指令到微操作.md"
     },
     {
-      "basename": "中断(Interrupt)",
-      "path": "6 - Main Notes/中断(Interrupt).md"
-    },
-    {
-      "basename": "TLB, 页,  Cache, 主存 四者的关系",
-      "path": "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md"
-    },
-    {
-      "basename": "高速缓存(Cache)",
-      "path": "6 - Main Notes/高速缓存(Cache).md"
-    },
-    {
-      "basename": "随机存取存储器(Random Access Memory, RAM)",
-      "path": "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md"
-    },
-    {
       "basename": "机器指令",
       "path": "6 - Main Notes/机器指令.md"
     },
@@ -37,20 +141,8 @@
       "path": "6 - Main Notes/复杂指令集计算机(Complex Instruction Set Computer, CISC).md"
     },
     {
-      "basename": "计算机组成原理期末冲刺",
-      "path": "6 - Main Notes/计算机组成原理期末冲刺.md"
-    },
-    {
-      "basename": "计算机组成原理期末冲刺知识点粗解",
-      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
-    },
-    {
       "basename": "边界对齐",
       "path": "6 - Main Notes/边界对齐.md"
-    },
-    {
-      "basename": "主存储器(Main Memory)",
-      "path": "6 - Main Notes/主存储器(Main Memory).md"
     },
     {
       "basename": "大端方式小端方式",
@@ -105,100 +197,8 @@
       "path": "2 - Source Material/AI/深度剖析计算机机器指令的组成.md"
     },
     {
-      "basename": "Computer Science",
-      "path": "3 - Tags/Computer Science.md"
-    },
-    {
       "basename": "计算机组成原理(第三版)-蒋本珊著",
       "path": "6 - Main Notes/计算机组成原理(第三版)-蒋本珊著.md"
-    },
-    {
-      "basename": "第1章 计算机系统概述",
-      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
-    },
-    {
-      "basename": "第0章-规划-计算机组成原理",
-      "path": "6 - Main Notes/计算机组成原理/第0章-规划-计算机组成原理.md"
-    },
-    {
-      "basename": "第2章 数据的机器层次表示",
-      "path": "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md"
-    },
-    {
-      "basename": "总线",
-      "path": "6 - Main Notes/总线.md"
-    },
-    {
-      "basename": "总线仲裁机制",
-      "path": "6 - Main Notes/总线仲裁机制.md"
-    },
-    {
-      "basename": "总线性能指标",
-      "path": "6 - Main Notes/总线性能指标.md"
-    },
-    {
-      "basename": "时钟周期(Clock Cycle)",
-      "path": "6 - Main Notes/时钟周期(Clock Cycle).md"
-    },
-    {
-      "basename": "主存储器的拓展",
-      "path": "6 - Main Notes/主存储器的拓展.md"
-    },
-    {
-      "basename": "系统总线",
-      "path": "6 - Main Notes/系统总线.md"
-    },
-    {
-      "basename": "单总线结构计算机",
-      "path": "6 - Main Notes/单总线结构计算机.md"
-    },
-    {
-      "basename": "控制总线(Control Bus)",
-      "path": "6 - Main Notes/控制总线(Control Bus).md"
-    },
-    {
-      "basename": "通道方式",
-      "path": "6 - Main Notes/通道方式.md"
-    },
-    {
-      "basename": "四种IO控制方式",
-      "path": "6 - Main Notes/四种IO控制方式.md"
-    },
-    {
-      "basename": "数据总线(Data Bus)",
-      "path": "6 - Main Notes/数据总线(Data Bus).md"
-    },
-    {
-      "basename": "地址总线(Address Bus)",
-      "path": "6 - Main Notes/地址总线(Address Bus).md"
-    },
-    {
-      "basename": "一周课表的拓展",
-      "path": "2 - Source Material/AI/一周课表的拓展.md"
-    },
-    {
-      "basename": "对于主存储器拓展图的解释",
-      "path": "2 - Source Material/AI/对于主存储器拓展图的解释.md"
-    },
-    {
-      "basename": "地址分配与拓展存储器",
-      "path": "6 - Main Notes/地址分配与拓展存储器.md"
-    },
-    {
-      "basename": "可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM)",
-      "path": "6 - Main Notes/可擦除可编程只读存储器(Erasable Programmable Read-Only Memory, EPROM).md"
-    },
-    {
-      "basename": "DRAM的刷新详解",
-      "path": "2 - Source Material/AI/DRAM的刷新详解.md"
-    },
-    {
-      "basename": "寻址方式",
-      "path": "6 - Main Notes/寻址方式.md"
-    },
-    {
-      "basename": "动态RAM三种刷新方式",
-      "path": "6 - Main Notes/动态RAM三种刷新方式.md"
     }
   ],
   "omittedPaths": [],
