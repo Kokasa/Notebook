@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c951e6d5d9520798",
+        "id": "193cf96a9b73ce90",
         "type": "tabs",
         "children": [
           {
-            "id": "e7295f61429dfd7a",
+            "id": "392a43857ad8f2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "常见数学符号的英文表示"
             }
+          },
+          {
+            "id": "6f3fe0d2f9e942f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/trig functions basic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trig functions basic"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +113,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/常见数学符号的英文表示.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "常见数学符号的英文表示 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -185,9 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7295f61429dfd7a",
+  "active": "6f3fe0d2f9e942f6",
   "lastOpenFiles": [
+    "6 - Main Notes/trig functions basic.md",
+    "6 - Main Notes/basic function learning.md",
     "6 - Main Notes/常见数学符号的英文表示.md",
+    "2 - Source Material/AI/Diff between could and did.md",
+    "2 - Source Material/AI/学习离散数学的建议.md",
+    "2 - Source Material/AI/数据结构需要的数学知识.md",
+    "6 - Main Notes/the Distinction Between 'do you' and 'are you'.md",
+    "2 - Source Material/AI/interrogative sentence.md",
+    "6 - Main Notes/Key Distinction Between Modal verb. And Auxiliary verb..md",
+    "3 - Tags/Verb..md",
+    "4 - Indexes/ENGLISH LANGUAGE.md",
     "2 - Source Material/AI/数学视角下的计算机.md",
     "6 - Main Notes/计算机组成原理期末冲刺.md",
     "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md",
@@ -203,16 +228,6 @@
     "6 - Main Notes/四种IO控制方式.md",
     "6 - Main Notes/中断(Interrupt).md",
     "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
-    "6 - Main Notes/动态RAM三种刷新方式.md",
-    "6 - Main Notes/原码一位除法.md",
-    "6 - Main Notes/二进制乘法.md",
-    "6 - Main Notes/算数移位.md",
-    "6 - Main Notes/原码一位乘法和无符号数乘法.md",
-    "6 - Main Notes/通过联想和找规律记忆不理解原理的法则-以booth乘法为例.md",
-    "6 - Main Notes/计算机组成原理/第2章 数据的机器层次表示.md",
-    "2 - Source Material/AI/补码在计算机中解决的问题.md",
-    "6 - Main Notes/补码.md",
-    "2 - Source Material/AI/Booth乘法是什么.md",
     "7 - Resources/边界对齐-1740464920676.jpeg",
     "7 - Resources/边界对齐-1740464790537.jpeg",
     "7 - Resources/海明码校验-1740463308897.jpeg",
