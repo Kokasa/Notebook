@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "392a43857ad8f2e5",
+            "id": "0f29132cd2a80121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/常见数学符号的英文表示.md",
+                "file": "3 - Tags/计算机网络性能指标.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常见数学符号的英文表示"
-            }
-          },
-          {
-            "id": "6f3fe0d2f9e942f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/trig functions basic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "trig functions basic"
+              "title": "计算机网络性能指标"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计算机",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,44 +184,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f3fe0d2f9e942f6",
+  "active": "0f29132cd2a80121",
   "lastOpenFiles": [
+    "3 - Tags/计算机网络性能指标.md",
+    "6 - Main Notes/计算机网络定义以及分类.md",
+    "2 - Source Material/AI/函数和方法的区别和联系.md",
+    "6 - Main Notes/计算机网络三种交换方式.md",
+    "7 - Resources/计算机网络三种交换方式-1741592701639.jpeg",
+    "7 - Resources/计算机网络三种交换方式-1741592495273.jpeg",
+    "7 - Resources/计算机网络三种交换方式-1741592229857.jpeg",
+    "6 - Main Notes/网络, 互联网, 因特网.md",
+    "7 - Resources/网络, 互联网, 因特网-1741591954635.jpeg",
+    "7 - Resources/网络, 互联网, 因特网-1741591933235.jpeg",
+    "7 - Resources/计算机网络三种交换方式-1741591807208.jpeg",
+    "3 - Tags/计算机网络.md",
+    "6 - Main Notes/计算机性能指标.md",
+    "6 - Main Notes/计算机发展历史(冯诺依曼结构的诞生).md",
+    "6 - Main Notes/冯诺依曼结构特点.md",
+    "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md",
+    "2 - Source Material/AI/冯诺依曼结构和哈佛结构.md",
+    "6 - Main Notes/取指操作流程.md",
+    "6 - Main Notes/程序计数器(Program Counter, PC).md",
+    "6 - Main Notes/The Sandwich Principle.md",
+    "6 - Main Notes/整体性学习.md",
+    "6 - Main Notes/主存储器(Main Memory).md",
+    "6 - Main Notes/指令周期(Instruction Cycle).md",
     "6 - Main Notes/trig functions basic.md",
-    "6 - Main Notes/basic function learning.md",
     "6 - Main Notes/常见数学符号的英文表示.md",
+    "6 - Main Notes/basic function learning.md",
     "2 - Source Material/AI/Diff between could and did.md",
     "2 - Source Material/AI/学习离散数学的建议.md",
     "2 - Source Material/AI/数据结构需要的数学知识.md",
     "6 - Main Notes/the Distinction Between 'do you' and 'are you'.md",
     "2 - Source Material/AI/interrogative sentence.md",
     "6 - Main Notes/Key Distinction Between Modal verb. And Auxiliary verb..md",
-    "3 - Tags/Verb..md",
-    "4 - Indexes/ENGLISH LANGUAGE.md",
-    "2 - Source Material/AI/数学视角下的计算机.md",
-    "6 - Main Notes/计算机组成原理期末冲刺.md",
-    "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md",
-    "6 - Main Notes/存储器.md",
-    "6 - Main Notes/DAM.md",
-    "6 - Main Notes/TLB, 页,  Cache, 主存 四者的关系.md",
-    "6 - Main Notes/主存储器(Main Memory).md",
-    "3 - Tags/Computer Science.md",
-    "6 - Main Notes/系统总线.md",
-    "6 - Main Notes/控制总线(Control Bus).md",
-    "6 - Main Notes/总线.md",
-    "6 - Main Notes/通道方式.md",
-    "6 - Main Notes/四种IO控制方式.md",
-    "6 - Main Notes/中断(Interrupt).md",
-    "6 - Main Notes/随机存取存储器(Random Access Memory, RAM).md",
     "7 - Resources/边界对齐-1740464920676.jpeg",
     "7 - Resources/边界对齐-1740464790537.jpeg",
     "7 - Resources/海明码校验-1740463308897.jpeg",
     "7 - Resources/海明码校验-1740463263341.jpeg",
-    "7 - Resources/动态RAM三种刷新方式-1740358461721.jpeg",
-    "7 - Resources/动态RAM三种刷新方式-1740358415046.jpeg",
-    "7 - Resources/动态RAM三种刷新方式-1740358402417.jpeg",
-    "7 - Resources/原码一位乘法和无符号数乘法-1740282483422.jpeg",
-    "7 - Resources/原码一位乘法和无符号数乘法-1740282406251.jpeg",
-    "7 - Resources/算数移位-1740121604924.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",
