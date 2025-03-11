@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f29132cd2a80121",
+            "id": "d25e920631785030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/计算机网络性能指标.md",
+                "file": "6 - Main Notes/通过单调性进行问题正负区间的变换.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络性能指标"
+              "title": "通过单调性进行问题正负区间的变换"
+            }
+          },
+          {
+            "id": "700ec47d5c0b3f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/奇偶函数判断方法总结.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "奇偶函数判断方法总结"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,8 +200,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f29132cd2a80121",
+  "active": "700ec47d5c0b3f8c",
   "lastOpenFiles": [
+    "6 - Main Notes/通过单调性进行问题正负区间的变换.md",
+    "6 - Main Notes/奇偶函数判断方法总结.md",
+    "3 - Tags/奇偶性.md",
+    "6 - Main Notes/有界性.md",
+    "6 - Main Notes/周期性.md",
+    "6 - Main Notes/函数四大性质.md",
+    "3 - Tags/单调性.md",
+    "6 - Main Notes/线性分式分解.md",
+    "6 - Main Notes/分子归一化.md",
+    "6 - Main Notes/分解法.md",
+    "6 - Main Notes/微积分基本定理.md",
+    "3 - Tags/math-tool-box.md",
+    "7 - Resources/代数分解为常数与多项式之和-1741695262719.jpeg",
+    "7 - Resources/代数分解为常数与多项式之和-1741695258601.jpeg",
+    "6 - Main Notes/定积分的符号解释.md",
+    "6 - Main Notes/黎曼积分和微积分基本定理(为什么在计算积分时不需要求和操作).md",
+    "6 - Main Notes/黎曼积分(黎曼和).md",
+    "6 - Main Notes/微分.md",
+    "6 - Main Notes/导数的符号表示.md",
+    "3 - Tags/calculus.md",
     "3 - Tags/计算机网络性能指标.md",
     "6 - Main Notes/计算机网络定义以及分类.md",
     "2 - Source Material/AI/函数和方法的区别和联系.md",
@@ -200,28 +236,8 @@
     "3 - Tags/计算机网络.md",
     "6 - Main Notes/计算机性能指标.md",
     "6 - Main Notes/计算机发展历史(冯诺依曼结构的诞生).md",
-    "6 - Main Notes/冯诺依曼结构特点.md",
-    "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md",
-    "2 - Source Material/AI/冯诺依曼结构和哈佛结构.md",
-    "6 - Main Notes/取指操作流程.md",
-    "6 - Main Notes/程序计数器(Program Counter, PC).md",
-    "6 - Main Notes/The Sandwich Principle.md",
-    "6 - Main Notes/整体性学习.md",
-    "6 - Main Notes/主存储器(Main Memory).md",
-    "6 - Main Notes/指令周期(Instruction Cycle).md",
-    "6 - Main Notes/trig functions basic.md",
-    "6 - Main Notes/常见数学符号的英文表示.md",
-    "6 - Main Notes/basic function learning.md",
-    "2 - Source Material/AI/Diff between could and did.md",
-    "2 - Source Material/AI/学习离散数学的建议.md",
-    "2 - Source Material/AI/数据结构需要的数学知识.md",
-    "6 - Main Notes/the Distinction Between 'do you' and 'are you'.md",
-    "2 - Source Material/AI/interrogative sentence.md",
-    "6 - Main Notes/Key Distinction Between Modal verb. And Auxiliary verb..md",
     "7 - Resources/边界对齐-1740464920676.jpeg",
     "7 - Resources/边界对齐-1740464790537.jpeg",
-    "7 - Resources/海明码校验-1740463308897.jpeg",
-    "7 - Resources/海明码校验-1740463263341.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",
