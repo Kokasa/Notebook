@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "奇偶函数判断方法总结",
-      "path": "6 - Main Notes/奇偶函数判断方法总结.md"
+      "basename": "计算机网络体系结构分层中各层对数据的处理",
+      "path": "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md"
+    },
+    {
+      "basename": "计算机网络分层教学模型",
+      "path": "6 - Main Notes/计算机网络分层教学模型.md"
+    },
+    {
+      "basename": "应用层",
+      "path": "6 - Main Notes/应用层.md"
+    },
+    {
+      "basename": "传输层",
+      "path": "6 - Main Notes/传输层.md"
+    },
+    {
+      "basename": "网络层",
+      "path": "6 - Main Notes/网络层.md"
+    },
+    {
+      "basename": "数据链路层",
+      "path": "6 - Main Notes/数据链路层.md"
+    },
+    {
+      "basename": "TCP IP参考模型",
+      "path": "6 - Main Notes/TCP IP参考模型.md"
+    },
+    {
+      "basename": "计算机网络体系结构",
+      "path": "6 - Main Notes/计算机网络体系结构.md"
+    },
+    {
+      "basename": "OSI参考模型",
+      "path": "6 - Main Notes/OSI参考模型.md"
+    },
+    {
+      "basename": "计算机网络",
+      "path": "3 - Tags/计算机网络.md"
+    },
+    {
+      "basename": "英文表达 ''不知道''",
+      "path": "6 - Main Notes/英文表达 ''不知道''.md"
     },
     {
       "basename": "通过单调性进行问题正负区间的变换",
       "path": "6 - Main Notes/通过单调性进行问题正负区间的变换.md"
+    },
+    {
+      "basename": "奇偶函数判断方法总结",
+      "path": "6 - Main Notes/奇偶函数判断方法总结.md"
     },
     {
       "basename": "奇偶性",
@@ -89,10 +133,6 @@
       "path": "6 - Main Notes/网络, 互联网, 因特网.md"
     },
     {
-      "basename": "计算机网络",
-      "path": "3 - Tags/计算机网络.md"
-    },
-    {
       "basename": "计算机性能指标",
       "path": "6 - Main Notes/计算机性能指标.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "数据结构需要的数学知识",
       "path": "2 - Source Material/AI/数据结构需要的数学知识.md"
-    },
-    {
-      "basename": "the Distinction Between 'do you' and 'are you'",
-      "path": "6 - Main Notes/the Distinction Between 'do you' and 'are you'.md"
-    },
-    {
-      "basename": "interrogative sentence",
-      "path": "2 - Source Material/AI/interrogative sentence.md"
-    },
-    {
-      "basename": "Key Distinction Between Modal verb. And Auxiliary verb.",
-      "path": "6 - Main Notes/Key Distinction Between Modal verb. And Auxiliary verb..md"
-    },
-    {
-      "basename": "Verb.",
-      "path": "3 - Tags/Verb..md"
-    },
-    {
-      "basename": "ENGLISH LANGUAGE",
-      "path": "4 - Indexes/ENGLISH LANGUAGE.md"
-    },
-    {
-      "basename": "数学视角下的计算机",
-      "path": "2 - Source Material/AI/数学视角下的计算机.md"
-    },
-    {
-      "basename": "计算机组成原理期末冲刺",
-      "path": "6 - Main Notes/计算机组成原理期末冲刺.md"
-    },
-    {
-      "basename": "计算机组成原理期末冲刺知识点粗解",
-      "path": "2 - Source Material/AI/计算机组成原理期末冲刺知识点粗解.md"
-    },
-    {
-      "basename": "存储器",
-      "path": "6 - Main Notes/存储器.md"
-    },
-    {
-      "basename": "DAM",
-      "path": "6 - Main Notes/DAM.md"
     }
   ],
   "omittedPaths": [],
