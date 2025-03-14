@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "6 - Main Notes/未命名 1.md"
+    },
+    {
+      "basename": "补码",
+      "path": "6 - Main Notes/补码.md"
+    },
+    {
+      "basename": "补码的位权",
+      "path": "6 - Main Notes/补码的位权.md"
+    },
+    {
+      "basename": "大模型蒸馏",
+      "path": "2 - Source Material/AI/大模型蒸馏.md"
+    },
+    {
+      "basename": "从数学角度理解原码",
+      "path": "6 - Main Notes/从数学角度理解原码.md"
+    },
+    {
+      "basename": "算数移位",
+      "path": "6 - Main Notes/算数移位.md"
+    },
+    {
+      "basename": "补码的算数移位运算规则",
+      "path": "2 - Source Material/AI/补码的算数移位运算规则.md"
+    },
+    {
+      "basename": "原码",
+      "path": "6 - Main Notes/原码.md"
+    },
+    {
+      "basename": "ε(Epsilon)",
+      "path": "6 - Main Notes/ε(Epsilon).md"
+    },
+    {
       "basename": "计算机网络体系结构分层中各层对数据的处理",
       "path": "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "The Sandwich Principle",
       "path": "6 - Main Notes/The Sandwich Principle.md"
-    },
-    {
-      "basename": "整体性学习",
-      "path": "6 - Main Notes/整体性学习.md"
-    },
-    {
-      "basename": "主存储器(Main Memory)",
-      "path": "6 - Main Notes/主存储器(Main Memory).md"
-    },
-    {
-      "basename": "指令周期(Instruction Cycle)",
-      "path": "6 - Main Notes/指令周期(Instruction Cycle).md"
-    },
-    {
-      "basename": "trig functions basic",
-      "path": "6 - Main Notes/trig functions basic.md"
-    },
-    {
-      "basename": "常见数学符号的英文表示",
-      "path": "6 - Main Notes/常见数学符号的英文表示.md"
-    },
-    {
-      "basename": "basic function learning",
-      "path": "6 - Main Notes/basic function learning.md"
-    },
-    {
-      "basename": "Diff between could and did",
-      "path": "2 - Source Material/AI/Diff between could and did.md"
-    },
-    {
-      "basename": "学习离散数学的建议",
-      "path": "2 - Source Material/AI/学习离散数学的建议.md"
-    },
-    {
-      "basename": "数据结构需要的数学知识",
-      "path": "2 - Source Material/AI/数据结构需要的数学知识.md"
     }
   ],
   "omittedPaths": [],

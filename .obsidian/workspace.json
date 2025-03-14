@@ -11,13 +11,64 @@
             "id": "66b8fbe85ed4db3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/补码.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "补码"
+            }
+          },
+          {
+            "id": "b1b262eed3bfed56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/补码的位权.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "补码的位权"
+            }
+          },
+          {
+            "id": "f7b0f09eac841307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/AI/大模型蒸馏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大模型蒸馏"
+            }
+          },
+          {
+            "id": "664fab886f535fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/补码带来的直觉困惑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "补码带来的直觉困惑"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,10 +99,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "原码",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -92,7 +143,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,8 +230,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b8fbe85ed4db3e",
+  "active": "664fab886f535fa2",
   "lastOpenFiles": [
+    "6 - Main Notes/补码带来的直觉困惑.md",
+    "6 - Main Notes/补码.md",
+    "6 - Main Notes/补码的位权.md",
+    "2 - Source Material/AI/大模型蒸馏.md",
+    "6 - Main Notes/从数学角度理解原码.md",
+    "6 - Main Notes/算数移位.md",
+    "2 - Source Material/AI/补码的算数移位运算规则.md",
+    "6 - Main Notes/原码.md",
+    "7 - Resources/原码-1741939517513.jpeg",
+    "6 - Main Notes/ε(Epsilon).md",
     "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md",
     "7 - Resources/计算机网络体系结构分层中各层对数据的处理-1741781403067.jpeg",
     "6 - Main Notes/计算机网络分层教学模型.md",
@@ -201,20 +263,11 @@
     "6 - Main Notes/有界性.md",
     "6 - Main Notes/周期性.md",
     "6 - Main Notes/函数四大性质.md",
-    "3 - Tags/单调性.md",
-    "6 - Main Notes/线性分式分解.md",
-    "6 - Main Notes/分子归一化.md",
-    "6 - Main Notes/分解法.md",
-    "6 - Main Notes/微积分基本定理.md",
-    "3 - Tags/math-tool-box.md",
     "7 - Resources/代数分解为常数与多项式之和-1741695262719.jpeg",
     "7 - Resources/代数分解为常数与多项式之和-1741695258601.jpeg",
-    "6 - Main Notes/定积分的符号解释.md",
-    "6 - Main Notes/黎曼积分和微积分基本定理(为什么在计算积分时不需要求和操作).md",
     "7 - Resources/计算机网络三种交换方式-1741592701639.jpeg",
     "7 - Resources/计算机网络三种交换方式-1741592495273.jpeg",
     "7 - Resources/计算机网络三种交换方式-1741592229857.jpeg",
-    "7 - Resources/网络, 互联网, 因特网-1741591954635.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",
