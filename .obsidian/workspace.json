@@ -8,67 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66b8fbe85ed4db3e",
+            "id": "1bc0365a583db708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/补码.md",
+                "file": "6 - Main Notes/函数极限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补码"
+              "title": "函数极限"
             }
           },
           {
-            "id": "b1b262eed3bfed56",
+            "id": "79b9a195620d9d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/补码的位权.md",
+                "file": "6 - Main Notes/ε-δ 语言.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补码的位权"
-            }
-          },
-          {
-            "id": "f7b0f09eac841307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/AI/大模型蒸馏.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大模型蒸馏"
-            }
-          },
-          {
-            "id": "664fab886f535fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/补码带来的直觉困惑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "补码带来的直觉困惑"
+              "title": "ε-δ 语言"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原码",
+                "query": "函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,9 +175,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "6 - Main Notes/函数极限.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "函数极限 的大纲"
             }
           }
         ],
@@ -216,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +201,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "664fab886f535fa2",
+  "active": "1bc0365a583db708",
   "lastOpenFiles": [
+    "7 - Resources/函数极限-1742298958185.jpeg",
+    "6 - Main Notes/函数极限的三个性质.md",
+    "6 - Main Notes/ε-δ 语言.md",
+    "2 - Source Material/AI/ε-δ 语言的由来.md",
+    "2 - Source Material/AI/为什么强调函数极限的局部有界性.md",
+    "6 - Main Notes/局部线性误差估计.md",
+    "6 - Main Notes/函数极限.md",
+    "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md",
+    "7 - Resources/局部线性误差估计-1742284694902.jpeg",
+    "7 - Resources/局部线性误差估计-1742284684527.jpeg",
+    "3 - Tags/极限.md",
+    "4 - Indexes/Math.md",
+    "6 - Main Notes/数列极限的严格和一致.md",
+    "6 - Main Notes/函数极限以及困惑.md",
+    "6 - Main Notes/未命名 1.md",
+    "2 - Source Material/AI/未命名.md",
+    "6 - Main Notes/ε(Epsilon).md",
     "6 - Main Notes/补码带来的直觉困惑.md",
+    "6 - Main Notes/物理层.md",
+    "6 - Main Notes/计算机网络分层教学模型.md",
     "6 - Main Notes/补码.md",
+    "6 - Main Notes/浮点数(Floating Point).md",
     "6 - Main Notes/补码的位权.md",
     "2 - Source Material/AI/大模型蒸馏.md",
     "6 - Main Notes/从数学角度理解原码.md",
@@ -241,33 +232,13 @@
     "2 - Source Material/AI/补码的算数移位运算规则.md",
     "6 - Main Notes/原码.md",
     "7 - Resources/原码-1741939517513.jpeg",
-    "6 - Main Notes/ε(Epsilon).md",
-    "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md",
     "7 - Resources/计算机网络体系结构分层中各层对数据的处理-1741781403067.jpeg",
-    "6 - Main Notes/计算机网络分层教学模型.md",
-    "6 - Main Notes/应用层.md",
-    "6 - Main Notes/传输层.md",
-    "6 - Main Notes/网络层.md",
-    "6 - Main Notes/数据链路层.md",
-    "6 - Main Notes/TCP IP参考模型.md",
-    "6 - Main Notes/计算机网络体系结构.md",
-    "6 - Main Notes/OSI参考模型.md",
     "7 - Resources/TCP IP参考模型-1741771267380.jpeg",
     "7 - Resources/TCP IP参考模型-1741770879448.jpeg",
     "7 - Resources/计算机网络体系结构-1741770531895.jpeg",
-    "3 - Tags/计算机网络.md",
-    "6 - Main Notes/英文表达 ''不知道''.md",
-    "6 - Main Notes/通过单调性进行问题正负区间的变换.md",
-    "6 - Main Notes/奇偶函数判断方法总结.md",
-    "3 - Tags/奇偶性.md",
-    "6 - Main Notes/有界性.md",
-    "6 - Main Notes/周期性.md",
-    "6 - Main Notes/函数四大性质.md",
     "7 - Resources/代数分解为常数与多项式之和-1741695262719.jpeg",
     "7 - Resources/代数分解为常数与多项式之和-1741695258601.jpeg",
     "7 - Resources/计算机网络三种交换方式-1741592701639.jpeg",
-    "7 - Resources/计算机网络三种交换方式-1741592495273.jpeg",
-    "7 - Resources/计算机网络三种交换方式-1741592229857.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",

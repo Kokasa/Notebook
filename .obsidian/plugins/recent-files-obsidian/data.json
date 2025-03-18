@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名 1",
-      "path": "6 - Main Notes/未命名 1.md"
+      "basename": "函数极限",
+      "path": "6 - Main Notes/函数极限.md"
+    },
+    {
+      "basename": "函数极限的三个性质",
+      "path": "6 - Main Notes/函数极限的三个性质.md"
+    },
+    {
+      "basename": "ε-δ 语言",
+      "path": "6 - Main Notes/ε-δ 语言.md"
+    },
+    {
+      "basename": "ε-δ 语言的由来",
+      "path": "2 - Source Material/AI/ε-δ 语言的由来.md"
+    },
+    {
+      "basename": "为什么强调函数极限的局部有界性",
+      "path": "2 - Source Material/AI/为什么强调函数极限的局部有界性.md"
+    },
+    {
+      "basename": "局部线性误差估计",
+      "path": "6 - Main Notes/局部线性误差估计.md"
+    },
+    {
+      "basename": "局部线性误差估计如何体现在极限的证明中",
+      "path": "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md"
+    },
+    {
+      "basename": "极限",
+      "path": "3 - Tags/极限.md"
+    },
+    {
+      "basename": "Math",
+      "path": "4 - Indexes/Math.md"
+    },
+    {
+      "basename": "数列极限的严格和一致",
+      "path": "6 - Main Notes/数列极限的严格和一致.md"
+    },
+    {
+      "basename": "函数极限以及困惑",
+      "path": "6 - Main Notes/函数极限以及困惑.md"
+    },
+    {
+      "basename": "数列极限的严格和一致",
+      "path": "2 - Source Material/AI/数列极限的严格和一致.md"
+    },
+    {
+      "basename": "ε(Epsilon)",
+      "path": "6 - Main Notes/ε(Epsilon).md"
+    },
+    {
+      "basename": "补码带来的直觉困惑",
+      "path": "6 - Main Notes/补码带来的直觉困惑.md"
+    },
+    {
+      "basename": "物理层",
+      "path": "6 - Main Notes/物理层.md"
+    },
+    {
+      "basename": "计算机网络分层教学模型",
+      "path": "6 - Main Notes/计算机网络分层教学模型.md"
     },
     {
       "basename": "补码",
       "path": "6 - Main Notes/补码.md"
+    },
+    {
+      "basename": "浮点数(Floating Point)",
+      "path": "6 - Main Notes/浮点数(Floating Point).md"
     },
     {
       "basename": "补码的位权",
@@ -33,16 +97,8 @@
       "path": "6 - Main Notes/原码.md"
     },
     {
-      "basename": "ε(Epsilon)",
-      "path": "6 - Main Notes/ε(Epsilon).md"
-    },
-    {
       "basename": "计算机网络体系结构分层中各层对数据的处理",
       "path": "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md"
-    },
-    {
-      "basename": "计算机网络分层教学模型",
-      "path": "6 - Main Notes/计算机网络分层教学模型.md"
     },
     {
       "basename": "应用层",
@@ -143,62 +199,6 @@
     {
       "basename": "导数的符号表示",
       "path": "6 - Main Notes/导数的符号表示.md"
-    },
-    {
-      "basename": "calculus",
-      "path": "3 - Tags/calculus.md"
-    },
-    {
-      "basename": "计算机网络性能指标",
-      "path": "3 - Tags/计算机网络性能指标.md"
-    },
-    {
-      "basename": "计算机网络定义以及分类",
-      "path": "6 - Main Notes/计算机网络定义以及分类.md"
-    },
-    {
-      "basename": "函数和方法的区别和联系",
-      "path": "2 - Source Material/AI/函数和方法的区别和联系.md"
-    },
-    {
-      "basename": "计算机网络三种交换方式",
-      "path": "6 - Main Notes/计算机网络三种交换方式.md"
-    },
-    {
-      "basename": "网络, 互联网, 因特网",
-      "path": "6 - Main Notes/网络, 互联网, 因特网.md"
-    },
-    {
-      "basename": "计算机性能指标",
-      "path": "6 - Main Notes/计算机性能指标.md"
-    },
-    {
-      "basename": "计算机发展历史(冯诺依曼结构的诞生)",
-      "path": "6 - Main Notes/计算机发展历史(冯诺依曼结构的诞生).md"
-    },
-    {
-      "basename": "冯诺依曼结构特点",
-      "path": "6 - Main Notes/冯诺依曼结构特点.md"
-    },
-    {
-      "basename": "第1章 计算机系统概述",
-      "path": "6 - Main Notes/计算机组成原理/第1章 计算机系统概述.md"
-    },
-    {
-      "basename": "冯诺依曼结构和哈佛结构",
-      "path": "2 - Source Material/AI/冯诺依曼结构和哈佛结构.md"
-    },
-    {
-      "basename": "取指操作流程",
-      "path": "6 - Main Notes/取指操作流程.md"
-    },
-    {
-      "basename": "程序计数器(Program Counter, PC)",
-      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
-    },
-    {
-      "basename": "The Sandwich Principle",
-      "path": "6 - Main Notes/The Sandwich Principle.md"
     }
   ],
   "omittedPaths": [],
