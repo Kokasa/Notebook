@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "两个重要极限",
+      "path": "6 - Main Notes/两个重要极限.md"
+    },
+    {
+      "basename": "极限",
+      "path": "3 - Tags/极限.md"
+    },
+    {
+      "basename": "单调有界准则",
+      "path": "6 - Main Notes/单调有界准则.md"
+    },
+    {
+      "basename": "重要三角函数不等式",
+      "path": "6 - Main Notes/重要三角函数不等式.md"
+    },
+    {
+      "basename": "三角函数常用公式",
+      "path": "6 - Main Notes/三角函数常用公式.md"
+    },
+    {
+      "basename": "夹逼准则",
+      "path": "6 - Main Notes/夹逼准则.md"
+    },
+    {
+      "basename": "三角函数",
+      "path": "6 - Main Notes/三角函数.md"
+    },
+    {
+      "basename": "不等式",
+      "path": "6 - Main Notes/不等式.md"
+    },
+    {
+      "basename": "立方和 立方差 公式",
+      "path": "6 - Main Notes/立方和 立方差 公式.md"
+    },
+    {
+      "basename": "多项式最高项系数之比求极限值",
+      "path": "6 - Main Notes/多项式最高项系数之比求极限值.md"
+    },
+    {
+      "basename": "ε-δ 语言",
+      "path": "6 - Main Notes/ε-δ 语言.md"
+    },
+    {
+      "basename": "等比数列",
+      "path": "6 - Main Notes/等比数列.md"
+    },
+    {
+      "basename": "数列",
+      "path": "3 - Tags/数列.md"
+    },
+    {
       "basename": "函数极限",
       "path": "6 - Main Notes/函数极限.md"
     },
     {
       "basename": "函数极限的三个性质",
       "path": "6 - Main Notes/函数极限的三个性质.md"
-    },
-    {
-      "basename": "ε-δ 语言",
-      "path": "6 - Main Notes/ε-δ 语言.md"
     },
     {
       "basename": "ε-δ 语言的由来",
@@ -27,10 +75,6 @@
     {
       "basename": "局部线性误差估计如何体现在极限的证明中",
       "path": "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md"
-    },
-    {
-      "basename": "极限",
-      "path": "3 - Tags/极限.md"
     },
     {
       "basename": "Math",
@@ -155,50 +199,6 @@
     {
       "basename": "周期性",
       "path": "6 - Main Notes/周期性.md"
-    },
-    {
-      "basename": "函数四大性质",
-      "path": "6 - Main Notes/函数四大性质.md"
-    },
-    {
-      "basename": "单调性",
-      "path": "3 - Tags/单调性.md"
-    },
-    {
-      "basename": "线性分式分解",
-      "path": "6 - Main Notes/线性分式分解.md"
-    },
-    {
-      "basename": "分子归一化",
-      "path": "6 - Main Notes/分子归一化.md"
-    },
-    {
-      "basename": "微积分基本定理",
-      "path": "6 - Main Notes/微积分基本定理.md"
-    },
-    {
-      "basename": "math-tool-box",
-      "path": "3 - Tags/math-tool-box.md"
-    },
-    {
-      "basename": "定积分的符号解释",
-      "path": "6 - Main Notes/定积分的符号解释.md"
-    },
-    {
-      "basename": "黎曼积分和微积分基本定理(为什么在计算积分时不需要求和操作)",
-      "path": "6 - Main Notes/黎曼积分和微积分基本定理(为什么在计算积分时不需要求和操作).md"
-    },
-    {
-      "basename": "黎曼积分(黎曼和)",
-      "path": "6 - Main Notes/黎曼积分(黎曼和).md"
-    },
-    {
-      "basename": "微分",
-      "path": "6 - Main Notes/微分.md"
-    },
-    {
-      "basename": "导数的符号表示",
-      "path": "6 - Main Notes/导数的符号表示.md"
     }
   ],
   "omittedPaths": [],

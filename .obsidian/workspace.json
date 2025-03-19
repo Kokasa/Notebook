@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "193cf96a9b73ce90",
+        "id": "b980c370dadae721",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc0365a583db708",
+            "id": "2c6590793b312918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/函数极限.md",
+                "file": "6 - Main Notes/两个重要极限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数极限"
-            }
-          },
-          {
-            "id": "79b9a195620d9d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/ε-δ 语言.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ε-δ 语言"
+              "title": "两个重要极限"
             }
           }
         ]
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "函数",
+                "query": "极限",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,19 +186,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bc0365a583db708",
+  "active": "2c6590793b312918",
   "lastOpenFiles": [
+    "3 - Tags/极限.md",
+    "6 - Main Notes/单调有界准则.md",
+    "6 - Main Notes/重要三角函数不等式.md",
+    "6 - Main Notes/三角函数常用公式.md",
+    "6 - Main Notes/两个重要极限.md",
+    "6 - Main Notes/夹逼准则.md",
+    "7 - Resources/夹逼准则-1742370331743.jpeg",
+    "7 - Resources/重要三角函数不等式-1742369219925.jpeg",
+    "6 - Main Notes/三角函数.md",
+    "6 - Main Notes/不等式.md",
+    "6 - Main Notes/立方和 立方差 公式.md",
+    "6 - Main Notes/多项式最高项系数之比求极限值.md",
+    "7 - Resources/多项式最高项系数之比求极限值-1742354274837.jpeg",
+    "6 - Main Notes/ε-δ 语言.md",
+    "6 - Main Notes/等比数列.md",
+    "3 - Tags/数列.md",
+    "6 - Main Notes/函数极限.md",
     "7 - Resources/函数极限-1742298958185.jpeg",
     "6 - Main Notes/函数极限的三个性质.md",
-    "6 - Main Notes/ε-δ 语言.md",
     "2 - Source Material/AI/ε-δ 语言的由来.md",
     "2 - Source Material/AI/为什么强调函数极限的局部有界性.md",
     "6 - Main Notes/局部线性误差估计.md",
-    "6 - Main Notes/函数极限.md",
     "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md",
     "7 - Resources/局部线性误差估计-1742284694902.jpeg",
     "7 - Resources/局部线性误差估计-1742284684527.jpeg",
-    "3 - Tags/极限.md",
     "4 - Indexes/Math.md",
     "6 - Main Notes/数列极限的严格和一致.md",
     "6 - Main Notes/函数极限以及困惑.md",
@@ -221,24 +220,10 @@
     "2 - Source Material/AI/未命名.md",
     "6 - Main Notes/ε(Epsilon).md",
     "6 - Main Notes/补码带来的直觉困惑.md",
-    "6 - Main Notes/物理层.md",
-    "6 - Main Notes/计算机网络分层教学模型.md",
-    "6 - Main Notes/补码.md",
-    "6 - Main Notes/浮点数(Floating Point).md",
-    "6 - Main Notes/补码的位权.md",
-    "2 - Source Material/AI/大模型蒸馏.md",
-    "6 - Main Notes/从数学角度理解原码.md",
-    "6 - Main Notes/算数移位.md",
-    "2 - Source Material/AI/补码的算数移位运算规则.md",
-    "6 - Main Notes/原码.md",
     "7 - Resources/原码-1741939517513.jpeg",
     "7 - Resources/计算机网络体系结构分层中各层对数据的处理-1741781403067.jpeg",
     "7 - Resources/TCP IP参考模型-1741771267380.jpeg",
     "7 - Resources/TCP IP参考模型-1741770879448.jpeg",
-    "7 - Resources/计算机网络体系结构-1741770531895.jpeg",
-    "7 - Resources/代数分解为常数与多项式之和-1741695262719.jpeg",
-    "7 - Resources/代数分解为常数与多项式之和-1741695258601.jpeg",
-    "7 - Resources/计算机网络三种交换方式-1741592701639.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",
