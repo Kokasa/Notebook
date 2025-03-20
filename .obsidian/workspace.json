@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c6590793b312918",
+            "id": "fca120ec3621286e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/两个重要极限.md",
+                "file": "2 - Source Material/AI/香农公式和奈氏准则的联系.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "两个重要极限"
+              "title": "香农公式和奈氏准则的联系"
+            }
+          },
+          {
+            "id": "09f334e4d9914a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/以太网对有线传输介质命名规范.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "以太网对有线传输介质命名规范"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "极限",
+                "query": "码元",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,13 +202,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c6590793b312918",
+  "active": "09f334e4d9914a95",
   "lastOpenFiles": [
+    "7 - Resources/以太网对有线传输介质命名规范-1742459553921.jpeg",
+    "6 - Main Notes/以太网对有线传输介质命名规范.md",
+    "6 - Main Notes/奈氏准则(Nyquist Criterion).md",
+    "6 - Main Notes/香农公式(香农-哈特利定理, Shannon-Hartly Theorem).md",
+    "2 - Source Material/AI/香农公式和奈氏准则的联系.md",
+    "6 - Main Notes/信号失真.md",
+    "6 - Main Notes/信道传输速率.md",
+    "2 - Source Material/AI/考虑噪声的情况下, 计算码元传输速率有什么意义.md",
+    "7 - Resources/信号失真-1742447187862.jpeg",
+    "6 - Main Notes/编码方式.md",
+    "7 - Resources/编码方式-1742446738324.jpeg",
+    "7 - Resources/编码方式-1742445943294.jpeg",
+    "7 - Resources/编码方式-1742445881487.jpeg",
+    "7 - Resources/编码方式-1742445732008.jpeg",
+    "7 - Resources/编码方式-1742445706174.jpeg",
+    "6 - Main Notes/码元.md",
+    "7 - Resources/码元-1742445592188.jpeg",
+    "7 - Resources/码元-1742445561067.jpeg",
+    "6 - Main Notes/两个重要极限.md",
     "3 - Tags/极限.md",
     "6 - Main Notes/单调有界准则.md",
     "6 - Main Notes/重要三角函数不等式.md",
     "6 - Main Notes/三角函数常用公式.md",
-    "6 - Main Notes/两个重要极限.md",
     "6 - Main Notes/夹逼准则.md",
     "7 - Resources/夹逼准则-1742370331743.jpeg",
     "7 - Resources/重要三角函数不等式-1742369219925.jpeg",
@@ -200,30 +234,12 @@
     "6 - Main Notes/不等式.md",
     "6 - Main Notes/立方和 立方差 公式.md",
     "6 - Main Notes/多项式最高项系数之比求极限值.md",
-    "7 - Resources/多项式最高项系数之比求极限值-1742354274837.jpeg",
     "6 - Main Notes/ε-δ 语言.md",
     "6 - Main Notes/等比数列.md",
     "3 - Tags/数列.md",
     "6 - Main Notes/函数极限.md",
-    "7 - Resources/函数极限-1742298958185.jpeg",
     "6 - Main Notes/函数极限的三个性质.md",
     "2 - Source Material/AI/ε-δ 语言的由来.md",
-    "2 - Source Material/AI/为什么强调函数极限的局部有界性.md",
-    "6 - Main Notes/局部线性误差估计.md",
-    "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md",
-    "7 - Resources/局部线性误差估计-1742284694902.jpeg",
-    "7 - Resources/局部线性误差估计-1742284684527.jpeg",
-    "4 - Indexes/Math.md",
-    "6 - Main Notes/数列极限的严格和一致.md",
-    "6 - Main Notes/函数极限以及困惑.md",
-    "6 - Main Notes/未命名 1.md",
-    "2 - Source Material/AI/未命名.md",
-    "6 - Main Notes/ε(Epsilon).md",
-    "6 - Main Notes/补码带来的直觉困惑.md",
-    "7 - Resources/原码-1741939517513.jpeg",
-    "7 - Resources/计算机网络体系结构分层中各层对数据的处理-1741781403067.jpeg",
-    "7 - Resources/TCP IP参考模型-1741771267380.jpeg",
-    "7 - Resources/TCP IP参考模型-1741770879448.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",

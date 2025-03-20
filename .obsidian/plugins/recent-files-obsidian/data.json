@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "以太网对有线传输介质命名规范",
+      "path": "6 - Main Notes/以太网对有线传输介质命名规范.md"
+    },
+    {
+      "basename": "奈氏准则(Nyquist Criterion)",
+      "path": "6 - Main Notes/奈氏准则(Nyquist Criterion).md"
+    },
+    {
+      "basename": "香农公式(香农-哈特利定理, Shannon-Hartly Theorem)",
+      "path": "6 - Main Notes/香农公式(香农-哈特利定理, Shannon-Hartly Theorem).md"
+    },
+    {
+      "basename": "香农公式和奈氏准则的联系",
+      "path": "2 - Source Material/AI/香农公式和奈氏准则的联系.md"
+    },
+    {
+      "basename": "信号失真",
+      "path": "6 - Main Notes/信号失真.md"
+    },
+    {
+      "basename": "信道传输速率",
+      "path": "6 - Main Notes/信道传输速率.md"
+    },
+    {
+      "basename": "考虑噪声的情况下, 计算码元传输速率有什么意义",
+      "path": "2 - Source Material/AI/考虑噪声的情况下, 计算码元传输速率有什么意义.md"
+    },
+    {
+      "basename": "编码方式",
+      "path": "6 - Main Notes/编码方式.md"
+    },
+    {
+      "basename": "码元",
+      "path": "6 - Main Notes/码元.md"
+    },
+    {
       "basename": "两个重要极限",
       "path": "6 - Main Notes/两个重要极限.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "TCP IP参考模型",
       "path": "6 - Main Notes/TCP IP参考模型.md"
-    },
-    {
-      "basename": "计算机网络体系结构",
-      "path": "6 - Main Notes/计算机网络体系结构.md"
-    },
-    {
-      "basename": "OSI参考模型",
-      "path": "6 - Main Notes/OSI参考模型.md"
-    },
-    {
-      "basename": "计算机网络",
-      "path": "3 - Tags/计算机网络.md"
-    },
-    {
-      "basename": "英文表达 ''不知道''",
-      "path": "6 - Main Notes/英文表达 ''不知道''.md"
-    },
-    {
-      "basename": "通过单调性进行问题正负区间的变换",
-      "path": "6 - Main Notes/通过单调性进行问题正负区间的变换.md"
-    },
-    {
-      "basename": "奇偶函数判断方法总结",
-      "path": "6 - Main Notes/奇偶函数判断方法总结.md"
-    },
-    {
-      "basename": "奇偶性",
-      "path": "3 - Tags/奇偶性.md"
-    },
-    {
-      "basename": "有界性",
-      "path": "6 - Main Notes/有界性.md"
-    },
-    {
-      "basename": "周期性",
-      "path": "6 - Main Notes/周期性.md"
     }
   ],
   "omittedPaths": [],
