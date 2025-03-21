@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b980c370dadae721",
+        "id": "a40eb996cb54ee66",
         "type": "tabs",
         "children": [
           {
-            "id": "fca120ec3621286e",
+            "id": "265defc7c0ee278c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/AI/香农公式和奈氏准则的联系.md",
+                "file": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "香农公式和奈氏准则的联系"
-            }
-          },
-          {
-            "id": "09f334e4d9914a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/以太网对有线传输介质命名规范.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "以太网对有线传输介质命名规范"
+              "title": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "码元",
+                "query": "MAR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/溢出判断.md",
+                "file": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "溢出判断 的反向链接列表"
+              "title": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度) 的反向链接列表"
             }
           },
           {
@@ -153,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/认知模型探讨.md",
+                "file": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "认知模型探讨 的出链列表"
+              "title": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度) 的出链列表"
             }
           },
           {
@@ -177,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/函数极限.md"
+                "file": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md"
               },
               "icon": "lucide-list",
-              "title": "函数极限 的大纲"
+              "title": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度) 的大纲"
             }
           }
         ],
@@ -202,44 +186,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09f334e4d9914a95",
+  "active": "a8bf1b9e01c263a2",
   "lastOpenFiles": [
-    "7 - Resources/以太网对有线传输介质命名规范-1742459553921.jpeg",
+    "2 - Source Material/AI/计算机不同数据宽度与对应的元件.md",
+    "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md",
+    "6 - Main Notes/机器字长.md",
+    "6 - Main Notes/未命名.md",
+    "6 - Main Notes/存储字长.md",
+    "6 - Main Notes/指令字长.md",
+    "6 - Main Notes/地址长度.md",
+    "6 - Main Notes/CPU中主要的寄存器.md",
+    "6 - Main Notes/程序计数器(Program Counter, PC).md",
+    "6 - Main Notes/计算机地址.md",
+    "6 - Main Notes/高级语言的汇编过程.md",
+    "6 - Main Notes/固件(Firmware).md",
+    "6 - Main Notes/项目组织结构.md",
+    "6 - Main Notes/计算机网络体系结构.md",
+    "6 - Main Notes/高级语言编译过程.md",
+    "6 - Main Notes/控制流驱动方式.md",
+    "6 - Main Notes/冯诺依曼体系结构的存储器.md",
+    "6 - Main Notes/机器指令, 微程序, 微指令, 微命令之间的层级关系.md",
+    "6 - Main Notes/微程序控制器.md",
+    "6 - Main Notes/计算机指令.md",
+    "2 - Source Material/AI/计算机系统的多层次结构.md",
+    "6 - Main Notes/从指令到微操作.md",
     "6 - Main Notes/以太网对有线传输介质命名规范.md",
+    "7 - Resources/以太网对有线传输介质命名规范-1742459553921.jpeg",
     "6 - Main Notes/奈氏准则(Nyquist Criterion).md",
     "6 - Main Notes/香农公式(香农-哈特利定理, Shannon-Hartly Theorem).md",
     "2 - Source Material/AI/香农公式和奈氏准则的联系.md",
-    "6 - Main Notes/信号失真.md",
-    "6 - Main Notes/信道传输速率.md",
-    "2 - Source Material/AI/考虑噪声的情况下, 计算码元传输速率有什么意义.md",
     "7 - Resources/信号失真-1742447187862.jpeg",
-    "6 - Main Notes/编码方式.md",
     "7 - Resources/编码方式-1742446738324.jpeg",
     "7 - Resources/编码方式-1742445943294.jpeg",
     "7 - Resources/编码方式-1742445881487.jpeg",
     "7 - Resources/编码方式-1742445732008.jpeg",
     "7 - Resources/编码方式-1742445706174.jpeg",
-    "6 - Main Notes/码元.md",
     "7 - Resources/码元-1742445592188.jpeg",
     "7 - Resources/码元-1742445561067.jpeg",
-    "6 - Main Notes/两个重要极限.md",
-    "3 - Tags/极限.md",
-    "6 - Main Notes/单调有界准则.md",
-    "6 - Main Notes/重要三角函数不等式.md",
-    "6 - Main Notes/三角函数常用公式.md",
-    "6 - Main Notes/夹逼准则.md",
     "7 - Resources/夹逼准则-1742370331743.jpeg",
-    "7 - Resources/重要三角函数不等式-1742369219925.jpeg",
-    "6 - Main Notes/三角函数.md",
-    "6 - Main Notes/不等式.md",
-    "6 - Main Notes/立方和 立方差 公式.md",
-    "6 - Main Notes/多项式最高项系数之比求极限值.md",
-    "6 - Main Notes/ε-δ 语言.md",
-    "6 - Main Notes/等比数列.md",
-    "3 - Tags/数列.md",
-    "6 - Main Notes/函数极限.md",
-    "6 - Main Notes/函数极限的三个性质.md",
-    "2 - Source Material/AI/ε-δ 语言的由来.md",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",

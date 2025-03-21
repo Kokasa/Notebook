@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度)",
+      "path": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md"
+    },
+    {
+      "basename": "计算机不同数据宽度与对应的元件",
+      "path": "2 - Source Material/AI/计算机不同数据宽度与对应的元件.md"
+    },
+    {
+      "basename": "机器字长",
+      "path": "6 - Main Notes/机器字长.md"
+    },
+    {
+      "basename": "存储字长",
+      "path": "6 - Main Notes/存储字长.md"
+    },
+    {
+      "basename": "指令字长",
+      "path": "6 - Main Notes/指令字长.md"
+    },
+    {
+      "basename": "地址长度",
+      "path": "6 - Main Notes/地址长度.md"
+    },
+    {
+      "basename": "CPU中主要的寄存器",
+      "path": "6 - Main Notes/CPU中主要的寄存器.md"
+    },
+    {
+      "basename": "程序计数器(Program Counter, PC)",
+      "path": "6 - Main Notes/程序计数器(Program Counter, PC).md"
+    },
+    {
+      "basename": "计算机地址",
+      "path": "6 - Main Notes/计算机地址.md"
+    },
+    {
+      "basename": "高级语言的汇编过程",
+      "path": "6 - Main Notes/高级语言的汇编过程.md"
+    },
+    {
+      "basename": "固件(Firmware)",
+      "path": "6 - Main Notes/固件(Firmware).md"
+    },
+    {
+      "basename": "项目组织结构",
+      "path": "6 - Main Notes/项目组织结构.md"
+    },
+    {
+      "basename": "计算机网络体系结构",
+      "path": "6 - Main Notes/计算机网络体系结构.md"
+    },
+    {
+      "basename": "高级语言编译过程",
+      "path": "6 - Main Notes/高级语言编译过程.md"
+    },
+    {
+      "basename": "控制流驱动方式",
+      "path": "6 - Main Notes/控制流驱动方式.md"
+    },
+    {
+      "basename": "冯诺依曼体系结构的存储器",
+      "path": "6 - Main Notes/冯诺依曼体系结构的存储器.md"
+    },
+    {
+      "basename": "机器指令, 微程序, 微指令, 微命令之间的层级关系",
+      "path": "6 - Main Notes/机器指令, 微程序, 微指令, 微命令之间的层级关系.md"
+    },
+    {
+      "basename": "微程序控制器",
+      "path": "6 - Main Notes/微程序控制器.md"
+    },
+    {
+      "basename": "计算机指令",
+      "path": "6 - Main Notes/计算机指令.md"
+    },
+    {
+      "basename": "计算机系统的多层次结构",
+      "path": "2 - Source Material/AI/计算机系统的多层次结构.md"
+    },
+    {
+      "basename": "从指令到微操作",
+      "path": "6 - Main Notes/从指令到微操作.md"
+    },
+    {
       "basename": "以太网对有线传输介质命名规范",
       "path": "6 - Main Notes/以太网对有线传输介质命名规范.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Math",
       "path": "4 - Indexes/Math.md"
-    },
-    {
-      "basename": "数列极限的严格和一致",
-      "path": "6 - Main Notes/数列极限的严格和一致.md"
-    },
-    {
-      "basename": "函数极限以及困惑",
-      "path": "6 - Main Notes/函数极限以及困惑.md"
-    },
-    {
-      "basename": "数列极限的严格和一致",
-      "path": "2 - Source Material/AI/数列极限的严格和一致.md"
-    },
-    {
-      "basename": "ε(Epsilon)",
-      "path": "6 - Main Notes/ε(Epsilon).md"
-    },
-    {
-      "basename": "补码带来的直觉困惑",
-      "path": "6 - Main Notes/补码带来的直觉困惑.md"
-    },
-    {
-      "basename": "物理层",
-      "path": "6 - Main Notes/物理层.md"
-    },
-    {
-      "basename": "计算机网络分层教学模型",
-      "path": "6 - Main Notes/计算机网络分层教学模型.md"
-    },
-    {
-      "basename": "补码",
-      "path": "6 - Main Notes/补码.md"
-    },
-    {
-      "basename": "浮点数(Floating Point)",
-      "path": "6 - Main Notes/浮点数(Floating Point).md"
-    },
-    {
-      "basename": "补码的位权",
-      "path": "6 - Main Notes/补码的位权.md"
-    },
-    {
-      "basename": "大模型蒸馏",
-      "path": "2 - Source Material/AI/大模型蒸馏.md"
-    },
-    {
-      "basename": "从数学角度理解原码",
-      "path": "6 - Main Notes/从数学角度理解原码.md"
-    },
-    {
-      "basename": "算数移位",
-      "path": "6 - Main Notes/算数移位.md"
-    },
-    {
-      "basename": "补码的算数移位运算规则",
-      "path": "2 - Source Material/AI/补码的算数移位运算规则.md"
-    },
-    {
-      "basename": "原码",
-      "path": "6 - Main Notes/原码.md"
-    },
-    {
-      "basename": "计算机网络体系结构分层中各层对数据的处理",
-      "path": "6 - Main Notes/计算机网络体系结构分层中各层对数据的处理.md"
-    },
-    {
-      "basename": "应用层",
-      "path": "6 - Main Notes/应用层.md"
-    },
-    {
-      "basename": "传输层",
-      "path": "6 - Main Notes/传输层.md"
-    },
-    {
-      "basename": "网络层",
-      "path": "6 - Main Notes/网络层.md"
-    },
-    {
-      "basename": "数据链路层",
-      "path": "6 - Main Notes/数据链路层.md"
-    },
-    {
-      "basename": "TCP IP参考模型",
-      "path": "6 - Main Notes/TCP IP参考模型.md"
     }
   ],
   "omittedPaths": [],
