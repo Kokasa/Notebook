@@ -1,7 +1,7 @@
 tags: [[Math]]
 
 ```
-I'm leaning "the calculus lifesaver" and I read the capter1 and chapter2 now, let me tell about what I have learnd to you The chapter 1 around the concept "function", the fundamental properties about functino , like the definition, domain, range, and how could it be a function but not other something and some useful tools like "graph" and "axis" next is the inverse Functions, we learnd what is $f(x)=y$ but inverse Funvtions is order to make sense"if we know y, so what is the x?" just like we inverse process functions through the inverse functions, we could learn well with domain, and flexible use graphs to analysi function, because inverse functions are not so direct to learn for human, and it is strict in domain and so on, we learned how to use the composition to simplify functions, it will useful when we attach calculus, it can indicate the complexity of a function final we had trained the odd and even function and graphs with common functions untill now, we should know the basic functions and can distinguash and analysi functions
+I'm leaning "the calculus lifesaver" and I read the chapter1 and chapter2 now, let me tell about what I have learnd to you The chapter 1 around the concept "function", the fundamental properties about functino , like the definition, domain, range, and how could it be a function but not other something and some useful tools like "graph" and "axis" next is the inverse Functions, we learnd what is $f(x)=y$ but inverse Funvtions is order to make sense"if we know y, so what is the x?" just like we inverse process functions through the inverse functions, we could learn well with domain, and flexible use graphs to analysi function, because inverse functions are not so direct to learn for human, and it is strict in domain and so on, we learned how to use the composition to simplify functions, it will useful when we attach calculus, it can indicate the complexity of a function final we had trained the odd and even function and graphs with common functions untill now, we should know the basic functions and can distinguash and analysi functions
 ```
 It sounds like you've gained a solid foundation in the basics of functions and their properties from the first two chapters of *The Calculus Lifesaver*! Let’s recap and expand slightly on your understanding to ensure clarity:
 
@@ -56,3 +56,11 @@ It sounds like you've gained a solid foundation in the basics of functions and t
 3. **Simplify Compositions**: For \( h(x) = \sqrt{\sin(2x)} \), identify the "inner" (\( 2x \)) and "outer" (\( \sqrt{\sin(u)} \)) functions.  
 
 You’re building a strong foundation—keep practicing with examples, and these concepts will become intuitive! 🌟
+
+
+
+---
+
+# 中文版
+
+![[初等函数学习-The Calculus Lifesaver]]

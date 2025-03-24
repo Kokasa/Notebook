@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "闭区间上连续函数的性质",
+      "path": "6 - Main Notes/闭区间上连续函数的性质.md"
+    },
+    {
+      "basename": "微分",
+      "path": "6 - Main Notes/微分.md"
+    },
+    {
+      "basename": "黎曼积分(黎曼和)",
+      "path": "6 - Main Notes/黎曼积分(黎曼和).md"
+    },
+    {
+      "basename": "无穷小的比较",
+      "path": "6 - Main Notes/无穷小的比较.md"
+    },
+    {
+      "basename": "''1的无穷大次方'' 型极限",
+      "path": "6 - Main Notes/''1的无穷大次方'' 型极限.md"
+    },
+    {
+      "basename": "无穷小",
+      "path": "6 - Main Notes/无穷小.md"
+    },
+    {
+      "basename": "极限(Limit)",
+      "path": "3 - Tags/极限(Limit).md"
+    },
+    {
+      "basename": "Math",
+      "path": "4 - Indexes/Math.md"
+    },
+    {
+      "basename": "两个重要极限",
+      "path": "6 - Main Notes/两个重要极限.md"
+    },
+    {
+      "basename": "数列极限的严格和一致",
+      "path": "6 - Main Notes/数列极限的严格和一致.md"
+    },
+    {
+      "basename": "换元法",
+      "path": "6 - Main Notes/换元法.md"
+    },
+    {
+      "basename": "换元法消除偏移量",
+      "path": "6 - Main Notes/换元法消除偏移量.md"
+    },
+    {
+      "basename": "函数连续性",
+      "path": "6 - Main Notes/函数连续性.md"
+    },
+    {
+      "basename": "定义区间",
+      "path": "6 - Main Notes/定义区间.md"
+    },
+    {
+      "basename": "定义域(Domain)",
+      "path": "6 - Main Notes/定义域(Domain).md"
+    },
+    {
+      "basename": "初等函数",
+      "path": "6 - Main Notes/初等函数.md"
+    },
+    {
+      "basename": "basic function learning",
+      "path": "6 - Main Notes/basic function learning.md"
+    },
+    {
+      "basename": "初等函数学习-The Calculus Lifesaver",
+      "path": "6 - Main Notes/初等函数学习-The Calculus Lifesaver.md"
+    },
+    {
+      "basename": "间断点",
+      "path": "6 - Main Notes/间断点.md"
+    },
+    {
+      "basename": "函数的连续性",
+      "path": "6 - Main Notes/函数的连续性.md"
+    },
+    {
+      "basename": "函数极限",
+      "path": "6 - Main Notes/函数极限.md"
+    },
+    {
+      "basename": "函数",
+      "path": "3 - Tags/函数.md"
+    },
+    {
+      "basename": "导数, 微分, 极限",
+      "path": "6 - Main Notes/导数, 微分, 极限.md"
+    },
+    {
+      "basename": "微积分(Calculus)",
+      "path": "6 - Main Notes/微积分(Calculus).md"
+    },
+    {
+      "basename": "函数间断点的分类标准以及实际意义",
+      "path": "6 - Main Notes/函数间断点的分类标准以及实际意义.md"
+    },
+    {
+      "basename": "latex等价符号",
+      "path": "6 - Main Notes/latex等价符号.md"
+    },
+    {
+      "basename": "三角函数",
+      "path": "6 - Main Notes/三角函数.md"
+    },
+    {
+      "basename": "等价无穷小",
+      "path": "6 - Main Notes/等价无穷小.md"
+    },
+    {
+      "basename": "为什么等价无穷小只适用于比值不适用于加减法",
+      "path": "2 - Source Material/AI/为什么等价无穷小只适用于比值不适用于加减法.md"
+    },
+    {
+      "basename": "ε-δ 语言的由来",
+      "path": "2 - Source Material/AI/ε-δ 语言的由来.md"
+    },
+    {
+      "basename": "math-history",
+      "path": "3 - Tags/math-history.md"
+    },
+    {
       "basename": "计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度)",
       "path": "6 - Main Notes/计算机内部不同的数据宽度(机器字长, 存储字长, 指令字长, 地址长度).md"
     },
@@ -75,130 +199,6 @@
     {
       "basename": "计算机指令",
       "path": "6 - Main Notes/计算机指令.md"
-    },
-    {
-      "basename": "计算机系统的多层次结构",
-      "path": "2 - Source Material/AI/计算机系统的多层次结构.md"
-    },
-    {
-      "basename": "从指令到微操作",
-      "path": "6 - Main Notes/从指令到微操作.md"
-    },
-    {
-      "basename": "以太网对有线传输介质命名规范",
-      "path": "6 - Main Notes/以太网对有线传输介质命名规范.md"
-    },
-    {
-      "basename": "奈氏准则(Nyquist Criterion)",
-      "path": "6 - Main Notes/奈氏准则(Nyquist Criterion).md"
-    },
-    {
-      "basename": "香农公式(香农-哈特利定理, Shannon-Hartly Theorem)",
-      "path": "6 - Main Notes/香农公式(香农-哈特利定理, Shannon-Hartly Theorem).md"
-    },
-    {
-      "basename": "香农公式和奈氏准则的联系",
-      "path": "2 - Source Material/AI/香农公式和奈氏准则的联系.md"
-    },
-    {
-      "basename": "信号失真",
-      "path": "6 - Main Notes/信号失真.md"
-    },
-    {
-      "basename": "信道传输速率",
-      "path": "6 - Main Notes/信道传输速率.md"
-    },
-    {
-      "basename": "考虑噪声的情况下, 计算码元传输速率有什么意义",
-      "path": "2 - Source Material/AI/考虑噪声的情况下, 计算码元传输速率有什么意义.md"
-    },
-    {
-      "basename": "编码方式",
-      "path": "6 - Main Notes/编码方式.md"
-    },
-    {
-      "basename": "码元",
-      "path": "6 - Main Notes/码元.md"
-    },
-    {
-      "basename": "两个重要极限",
-      "path": "6 - Main Notes/两个重要极限.md"
-    },
-    {
-      "basename": "极限",
-      "path": "3 - Tags/极限.md"
-    },
-    {
-      "basename": "单调有界准则",
-      "path": "6 - Main Notes/单调有界准则.md"
-    },
-    {
-      "basename": "重要三角函数不等式",
-      "path": "6 - Main Notes/重要三角函数不等式.md"
-    },
-    {
-      "basename": "三角函数常用公式",
-      "path": "6 - Main Notes/三角函数常用公式.md"
-    },
-    {
-      "basename": "夹逼准则",
-      "path": "6 - Main Notes/夹逼准则.md"
-    },
-    {
-      "basename": "三角函数",
-      "path": "6 - Main Notes/三角函数.md"
-    },
-    {
-      "basename": "不等式",
-      "path": "6 - Main Notes/不等式.md"
-    },
-    {
-      "basename": "立方和 立方差 公式",
-      "path": "6 - Main Notes/立方和 立方差 公式.md"
-    },
-    {
-      "basename": "多项式最高项系数之比求极限值",
-      "path": "6 - Main Notes/多项式最高项系数之比求极限值.md"
-    },
-    {
-      "basename": "ε-δ 语言",
-      "path": "6 - Main Notes/ε-δ 语言.md"
-    },
-    {
-      "basename": "等比数列",
-      "path": "6 - Main Notes/等比数列.md"
-    },
-    {
-      "basename": "数列",
-      "path": "3 - Tags/数列.md"
-    },
-    {
-      "basename": "函数极限",
-      "path": "6 - Main Notes/函数极限.md"
-    },
-    {
-      "basename": "函数极限的三个性质",
-      "path": "6 - Main Notes/函数极限的三个性质.md"
-    },
-    {
-      "basename": "ε-δ 语言的由来",
-      "path": "2 - Source Material/AI/ε-δ 语言的由来.md"
-    },
-    {
-      "basename": "为什么强调函数极限的局部有界性",
-      "path": "2 - Source Material/AI/为什么强调函数极限的局部有界性.md"
-    },
-    {
-      "basename": "局部线性误差估计",
-      "path": "6 - Main Notes/局部线性误差估计.md"
-    },
-    {
-      "basename": "局部线性误差估计如何体现在极限的证明中",
-      "path": "2 - Source Material/AI/局部线性误差估计如何体现在极限的证明中.md"
-    },
-    {
-      "basename": "Math",
-      "path": "4 - Indexes/Math.md"
     }
   ],
   "omittedPaths": [],
