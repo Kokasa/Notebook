@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "254b69f90001c485",
+        "id": "bde8a8bdaf22e141",
         "type": "tabs",
         "children": [
           {
-            "id": "05a421555df78012",
+            "id": "bf81e21ba3e2b3ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/分组分解法化简.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "分组分解法化简"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "微分",
+                "query": "等价无穷小",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,17 +182,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8bf1b9e01c263a2",
+  "active": "bf81e21ba3e2b3ce",
   "lastOpenFiles": [
+    "6 - Main Notes/等价无穷小.md",
+    "6 - Main Notes/分组分解法化简.md",
+    "6 - Main Notes/无穷小.md",
+    "6 - Main Notes/两个重要极限.md",
+    "6 - Main Notes/积化和差公式.md",
+    "6 - Main Notes/和差化积公式.md",
+    "7 - Resources/和差化积公式-1742891582254.jpeg",
+    "6 - Main Notes/''1的无穷大次方'' 型极限.md",
+    "6 - Main Notes/原码一位乘法和无符号数乘法.md",
+    "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md",
+    "6 - Main Notes/寻址方式.md",
     "6 - Main Notes/闭区间上连续函数的性质.md",
     "6 - Main Notes/微分.md",
     "6 - Main Notes/黎曼积分(黎曼和).md",
     "6 - Main Notes/无穷小的比较.md",
-    "6 - Main Notes/''1的无穷大次方'' 型极限.md",
-    "6 - Main Notes/无穷小.md",
     "3 - Tags/极限(Limit).md",
     "4 - Indexes/Math.md",
-    "6 - Main Notes/两个重要极限.md",
     "6 - Main Notes/数列极限的严格和一致.md",
     "6 - Main Notes/换元法.md",
     "6 - Main Notes/换元法消除偏移量.md",
@@ -199,13 +212,6 @@
     "6 - Main Notes/basic function learning.md",
     "6 - Main Notes/初等函数学习-The Calculus Lifesaver.md",
     "6 - Main Notes/间断点.md",
-    "6 - Main Notes/函数的连续性.md",
-    "6 - Main Notes/函数极限.md",
-    "3 - Tags/函数.md",
-    "6 - Main Notes/导数, 微分, 极限.md",
-    "6 - Main Notes/微积分(Calculus).md",
-    "6 - Main Notes/函数间断点的分类标准以及实际意义.md",
-    "6 - Main Notes/latex等价符号.md",
     "7 - Resources/等价无穷小-1742780639943.jpeg",
     "7 - Resources/无穷小的比较-1742778518407.jpeg",
     "7 - Resources/以太网对有线传输介质命名规范-1742459553921.jpeg",
@@ -214,7 +220,6 @@
     "7 - Resources/编码方式-1742445943294.jpeg",
     "7 - Resources/编码方式-1742445881487.jpeg",
     "7 - Resources/编码方式-1742445732008.jpeg",
-    "7 - Resources/编码方式-1742445706174.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",

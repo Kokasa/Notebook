@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "分组分解法化简",
+      "path": "6 - Main Notes/分组分解法化简.md"
+    },
+    {
+      "basename": "等价无穷小",
+      "path": "6 - Main Notes/等价无穷小.md"
+    },
+    {
+      "basename": "无穷小",
+      "path": "6 - Main Notes/无穷小.md"
+    },
+    {
+      "basename": "两个重要极限",
+      "path": "6 - Main Notes/两个重要极限.md"
+    },
+    {
+      "basename": "积化和差公式",
+      "path": "6 - Main Notes/积化和差公式.md"
+    },
+    {
+      "basename": "和差化积公式",
+      "path": "6 - Main Notes/和差化积公式.md"
+    },
+    {
+      "basename": "''1的无穷大次方'' 型极限",
+      "path": "6 - Main Notes/''1的无穷大次方'' 型极限.md"
+    },
+    {
+      "basename": "原码一位乘法和无符号数乘法",
+      "path": "6 - Main Notes/原码一位乘法和无符号数乘法.md"
+    },
+    {
+      "basename": "相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算",
+      "path": "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md"
+    },
+    {
+      "basename": "寻址方式",
+      "path": "6 - Main Notes/寻址方式.md"
+    },
+    {
       "basename": "闭区间上连续函数的性质",
       "path": "6 - Main Notes/闭区间上连续函数的性质.md"
     },
@@ -17,24 +57,12 @@
       "path": "6 - Main Notes/无穷小的比较.md"
     },
     {
-      "basename": "''1的无穷大次方'' 型极限",
-      "path": "6 - Main Notes/''1的无穷大次方'' 型极限.md"
-    },
-    {
-      "basename": "无穷小",
-      "path": "6 - Main Notes/无穷小.md"
-    },
-    {
       "basename": "极限(Limit)",
       "path": "3 - Tags/极限(Limit).md"
     },
     {
       "basename": "Math",
       "path": "4 - Indexes/Math.md"
-    },
-    {
-      "basename": "两个重要极限",
-      "path": "6 - Main Notes/两个重要极限.md"
     },
     {
       "basename": "数列极限的严格和一致",
@@ -109,10 +137,6 @@
       "path": "6 - Main Notes/三角函数.md"
     },
     {
-      "basename": "等价无穷小",
-      "path": "6 - Main Notes/等价无穷小.md"
-    },
-    {
       "basename": "为什么等价无穷小只适用于比值不适用于加减法",
       "path": "2 - Source Material/AI/为什么等价无穷小只适用于比值不适用于加减法.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "计算机网络体系结构",
       "path": "6 - Main Notes/计算机网络体系结构.md"
-    },
-    {
-      "basename": "高级语言编译过程",
-      "path": "6 - Main Notes/高级语言编译过程.md"
-    },
-    {
-      "basename": "控制流驱动方式",
-      "path": "6 - Main Notes/控制流驱动方式.md"
-    },
-    {
-      "basename": "冯诺依曼体系结构的存储器",
-      "path": "6 - Main Notes/冯诺依曼体系结构的存储器.md"
-    },
-    {
-      "basename": "机器指令, 微程序, 微指令, 微命令之间的层级关系",
-      "path": "6 - Main Notes/机器指令, 微程序, 微指令, 微命令之间的层级关系.md"
-    },
-    {
-      "basename": "微程序控制器",
-      "path": "6 - Main Notes/微程序控制器.md"
-    },
-    {
-      "basename": "计算机指令",
-      "path": "6 - Main Notes/计算机指令.md"
     }
   ],
   "omittedPaths": [],
