@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "bde8a8bdaf22e141",
+        "id": "4860c65ff268ea98",
         "type": "tabs",
         "children": [
           {
-            "id": "bf81e21ba3e2b3ce",
+            "id": "988d2cea6af56c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/分组分解法化简.md",
+                "file": "6 - Main Notes/导数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分组分解法化简"
+              "title": "导数"
+            }
+          },
+          {
+            "id": "bc78320ce781e1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/导数的符号表示.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "导数的符号表示"
+            }
+          },
+          {
+            "id": "ae9e02e45b3b497a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/寻址方式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "寻址方式"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "等价无穷小",
+                "query": "九种寻址方式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,12 +213,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf81e21ba3e2b3ce",
+  "active": "ae9e02e45b3b497a",
   "lastOpenFiles": [
-    "6 - Main Notes/等价无穷小.md",
-    "6 - Main Notes/分组分解法化简.md",
-    "6 - Main Notes/无穷小.md",
+    "6 - Main Notes/计算机指令.md",
+    "6 - Main Notes/三种偏移寻址方式.md",
+    "6 - Main Notes/导数的符号表示.md",
+    "6 - Main Notes/微分.md",
+    "6 - Main Notes/黎曼积分(黎曼和).md",
+    "6 - Main Notes/定积分的符号解释.md",
+    "6 - Main Notes/导数.md",
+    "7 - Resources/导数-1743141467168.jpeg",
+    "6 - Main Notes/直线方程的五种形式.md",
+    "7 - Resources/直线方程的五种形式-1743131793998.jpeg",
     "6 - Main Notes/两个重要极限.md",
+    "6 - Main Notes/封装成帧(组帧).md",
+    "7 - Resources/封装成帧_组帧_-1742969665473.jpeg",
+    "6 - Main Notes/数据链路层.md",
+    "6 - Main Notes/分组分解法化简.md",
+    "6 - Main Notes/等价无穷小.md",
+    "6 - Main Notes/无穷小.md",
     "6 - Main Notes/积化和差公式.md",
     "6 - Main Notes/和差化积公式.md",
     "7 - Resources/和差化积公式-1742891582254.jpeg",
@@ -196,30 +240,17 @@
     "2 - Source Material/AI/相对寻址, 变址寻址, 基址寻址这些寻址方式的地址应该如何计算.md",
     "6 - Main Notes/寻址方式.md",
     "6 - Main Notes/闭区间上连续函数的性质.md",
-    "6 - Main Notes/微分.md",
-    "6 - Main Notes/黎曼积分(黎曼和).md",
     "6 - Main Notes/无穷小的比较.md",
     "3 - Tags/极限(Limit).md",
     "4 - Indexes/Math.md",
     "6 - Main Notes/数列极限的严格和一致.md",
     "6 - Main Notes/换元法.md",
-    "6 - Main Notes/换元法消除偏移量.md",
-    "6 - Main Notes/函数连续性.md",
     "7 - Resources/函数连续性-1742806183793.jpeg",
-    "6 - Main Notes/定义区间.md",
-    "6 - Main Notes/定义域(Domain).md",
-    "6 - Main Notes/初等函数.md",
-    "6 - Main Notes/basic function learning.md",
-    "6 - Main Notes/初等函数学习-The Calculus Lifesaver.md",
-    "6 - Main Notes/间断点.md",
     "7 - Resources/等价无穷小-1742780639943.jpeg",
     "7 - Resources/无穷小的比较-1742778518407.jpeg",
     "7 - Resources/以太网对有线传输介质命名规范-1742459553921.jpeg",
     "7 - Resources/信号失真-1742447187862.jpeg",
     "7 - Resources/编码方式-1742446738324.jpeg",
-    "7 - Resources/编码方式-1742445943294.jpeg",
-    "7 - Resources/编码方式-1742445881487.jpeg",
-    "7 - Resources/编码方式-1742445732008.jpeg",
     "8- Canvas/整型数据类型之间的转换.canvas",
     "8- Canvas/CISC和RISC.canvas",
     "未命名.canvas",
